@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2020 Tata Nexon EV XZ Plus?",
+        "ground_truth": "The 2020 Tata Nexon EV XZ Plus is priced at \u20b9 8.9 Lakh in the Delhi used car market. This 2020 model has been driven for 65,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "I found two 2020 Tata Nexon EV XZ Plus models in Delhi, both priced at \u20b98.9 Lakh. Both are electric vehicles and have driven 65,000 Kms. One is listed in good condition, while the other is in excellent condition with additional benefits.\n",
+        "bert_score": 0.9210588335990906,
+        "meteor_score": 0.39529175884955753,
+        "rouge_score": 0.5384615384615384,
+        "f1_score": 0.3733333333333333
+    },
+    {
+        "question": "What is the fuel type of 2020 Tata Nexon EV XZ Plus?",
+        "ground_truth": "The 2020 Tata Nexon EV XZ Plus runs on Electric fuel. This 2020 model is available in Delhi for \u20b9 8.9 Lakh and has been driven for 65,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2020 Tata Nexon EV XZ Plus cars available in Delhi, both priced at \u20b98.9 Lakh. Both cars are electric (fuel_type), have driven 65,000 Kms, and have one previous owner. Car 2 is in excellent condition and has many additional features.\n",
+        "bert_score": 0.9126240611076355,
+        "meteor_score": 0.4336695995145631,
+        "rouge_score": 0.54320987654321,
+        "f1_score": 0.3636363636363637
+    },
+    {
+        "question": "What is the price of 2018 Hyundai Creta 1.6 SX Plus AT Petrol?",
+        "ground_truth": "The 2018 Hyundai Creta 1.6 SX Plus AT Petrol is priced at \u20b9 9.4 Lakh in the Delhi used car market. This 2018 model has been driven for 57,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about a \"2018 Hyundai Creta 1.6 SX Plus AT Petrol.\" However, I found two \"2016 Hyundai Creta 1.6 SX Plus AT Petrol\" models in Delhi. Both are red, have done approximately 70,000 km, and are priced around \u20b97.6 Lakh.\n",
+        "bert_score": 0.9099739789962769,
+        "meteor_score": 0.2676716376564015,
+        "rouge_score": 0.42352941176470593,
+        "f1_score": 0.23076923076923075
+    },
+    {
+        "question": "What is the fuel type of 2018 Hyundai Creta 1.6 SX Plus AT Petrol?",
+        "ground_truth": "The 2018 Hyundai Creta 1.6 SX Plus AT Petrol runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 9.4 Lakh and has been driven for 57,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2018 Hyundai Creta 1.6 SX Plus AT Petrol. However, I can provide information on similar models in Delhi: CAR 1 and CAR 3 are 2016 Hyundai Creta 1.6 SX Plus AT Petrol (\u20b97.6 Lakh/\u20b97.65 Lakh, 70,672 Kms/70,000 Kms, Petrol).\n",
+        "bert_score": 0.8891941905021667,
+        "meteor_score": 0.3336119684499314,
+        "rouge_score": 0.39080459770114945,
+        "f1_score": 0.2894736842105263
+    },
+    {
+        "question": "What is the price of 2021 Hyundai Venue S 1.2 Petrol?",
+        "ground_truth": "The 2021 Hyundai Venue S 1.2 Petrol is priced at \u20b9 7.5 Lakh in the Delhi used car market. This 2021 model has been driven for 26,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2021 Hyundai Venue S 1.2 Petrol models in Delhi. CAR 1 is priced at \u20b97.9 Lakh with 26,500 Kms driven and CAR 2 is priced at \u20b97.5 Lakh with 26,000 Kms driven. Both are petrol cars and have similar features.\n",
+        "bert_score": 0.9154943227767944,
+        "meteor_score": 0.4322715245267657,
+        "rouge_score": 0.5301204819277109,
+        "f1_score": 0.368421052631579
+    },
+    {
+        "question": "What is the fuel type of 2021 Hyundai Venue S 1.2 Petrol?",
+        "ground_truth": "The 2021 Hyundai Venue S 1.2 Petrol runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 7.5 Lakh and has been driven for 26,000 kilometers.",
+        "chatbot_response": "The fuel type for the 2021 Hyundai Venue S 1.2 Petrol listings in Delhi (CAR 1 & CAR 2) is Petrol. CAR 1 is priced at \u20b97.5 Lakh and has driven 26,000 Kms, while CAR 2 is priced at \u20b97.9 Lakh and has driven 26,500 Kms.\n",
+        "bert_score": 0.9148565530776978,
+        "meteor_score": 0.4575529315960911,
+        "rouge_score": 0.5432098765432098,
+        "f1_score": 0.42666666666666664
+    },
+    {
+        "question": "What is the price of 2022 Tata Harrier XZA Dual Tone?",
+        "ground_truth": "The 2022 Tata Harrier XZA Dual Tone is priced at \u20b9 17.95 Lakh in the Delhi used car market. This 2022 model has been driven for 25,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2022 Tata Harrier XZA Dual Tone, located in Delhi, is priced at \u20b917.95 Lakh. This diesel-fueled car has driven 25,000 Kms. The listing indicates it's in excellent condition and has a single owner.\n",
+        "bert_score": 0.9392160773277283,
+        "meteor_score": 0.42327433905853085,
+        "rouge_score": 0.6944444444444445,
+        "f1_score": 0.4776119402985075
+    },
+    {
+        "question": "What is the fuel type of 2022 Tata Harrier XZA Dual Tone?",
+        "ground_truth": "The 2022 Tata Harrier XZA Dual Tone runs on Diesel fuel. This 2022 model is available in Delhi for \u20b9 17.95 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "The 2022 Tata Harrier XZA Dual Tone in Delhi (CAR 1) has a diesel fuel type. It's priced at \u20b917.95 Lakh and has driven 25,000 Kms. There is also another 2022 Tata Harrier (CAR 2) available with diesel fuel type and costs \u20b918.34 Lakh.\n",
+        "bert_score": 0.9307142496109009,
+        "meteor_score": 0.4790022262699859,
+        "rouge_score": 0.5641025641025641,
+        "f1_score": 0.4383561643835616
+    },
+    {
+        "question": "What is the price of 2023 Hyundai Exter SX 1.2 CNG MT?",
+        "ground_truth": "The 2023 Hyundai Exter SX 1.2 CNG MT is priced at \u20b9 8.6 Lakh in the Delhi used car market. This 2023 model has been driven for 19,000 kilometers and runs on CNG fuel.",
+        "chatbot_response": "The 2023 Hyundai Exter SX 1.2 CNG MT is listed for \u20b98.6 Lakh in Delhi (CAR 1 & CAR 2). Both listings are identical, with 19,000 Kms driven and CNG fuel type. A third Exter (CAR 3) has \"CNG + CNG\" fuel type, also priced at \u20b98.6 Lakh.\n",
+        "bert_score": 0.9164515733718872,
+        "meteor_score": 0.4851262538913871,
+        "rouge_score": 0.6046511627906976,
+        "f1_score": 0.4634146341463415
+    },
+    {
+        "question": "What is the fuel type of 2023 Hyundai Exter SX 1.2 CNG MT?",
+        "ground_truth": "The 2023 Hyundai Exter SX 1.2 CNG MT runs on CNG fuel. This 2023 model is available in Delhi for \u20b9 8.6 Lakh and has been driven for 19,000 kilometers.",
+        "chatbot_response": "The 2023 Hyundai Exter SX 1.2 CNG MT (CAR 1, CAR 2 & CAR 3) in Delhi are listed as CNG and CNG+CNG fuel type. CAR 1 & CAR 2 is bronze color driven for 19,000 Kms while CAR 3 is green color driven for 20,200 Kms and priced at \u20b98.6 Lakh.\n",
+        "bert_score": 0.9025663137435913,
+        "meteor_score": 0.4742203786885598,
+        "rouge_score": 0.528735632183908,
+        "f1_score": 0.36585365853658536
+    },
+    {
+        "question": "What is the price of 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023]?",
+        "ground_truth": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] is priced at \u20b9 18.9 Lakh in the Delhi used car market. This 2023 model has been driven for 17,000 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "I found two listings for the 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] in Delhi, both priced at \u20b918.9 Lakh. Both have driven 17,000 Kms and are hybrid (Electric + Petrol) vehicles.\n",
+        "bert_score": 0.94607013463974,
+        "meteor_score": 0.5,
+        "rouge_score": 0.6756756756756757,
+        "f1_score": 0.5352112676056339
+    },
+    {
+        "question": "What is the fuel type of 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023]?",
+        "ground_truth": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] runs on Hybrid (Electric + Petrol) fuel. This 2023 model is available in Delhi for \u20b9 18.9 Lakh and has been driven for 17,000 kilometers.",
+        "chatbot_response": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] (Car 1 & Car 2) in Delhi, priced at \u20b918.9 Lakh, has a Hybrid (Electric + Petrol) fuel type. Both cars have driven 17,000 Kms. There are two listings for the same car.\n",
+        "bert_score": 0.9453425407409668,
+        "meteor_score": 0.4849137931034483,
+        "rouge_score": 0.6153846153846154,
+        "f1_score": 0.4473684210526316
+    },
+    {
+        "question": "What is the price of 2018 Maruti Suzuki Swift VXi AMT [2018-2019]?",
+        "ground_truth": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] is priced at \u20b9 4.65 Lakh in the Delhi used car market. This 2018 model has been driven for 67,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2018 Maruti Suzuki Swift VXi AMT [2018-2019] cars listed, both priced at \u20b94.65 Lakh. Both cars are located in Delhi, run on Petrol, and have 67,000 Kms driven. They are both listed as having had two owners.\n",
+        "bert_score": 0.932472825050354,
+        "meteor_score": 0.40064226075786763,
+        "rouge_score": 0.5822784810126581,
+        "f1_score": 0.35135135135135137
+    },
+    {
+        "question": "What is the fuel type of 2018 Maruti Suzuki Swift VXi AMT [2018-2019]?",
+        "ground_truth": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 4.65 Lakh and has been driven for 67,000 kilometers.",
+        "chatbot_response": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] (CAR 1 and CAR 2) in Delhi, both priced at \u20b94.65 Lakh, have a fuel type of Petrol. They have driven 67,000 Kms.\n",
+        "bert_score": 0.9405423998832703,
+        "meteor_score": 0.3591039128829827,
+        "rouge_score": 0.6060606060606061,
+        "f1_score": 0.39344262295081966
+    },
+    {
+        "question": "What is the price of 2023 Hyundai Exter SX 1.2 CNG MT?",
+        "ground_truth": "The 2023 Hyundai Exter SX 1.2 CNG MT is priced at \u20b9 8.6 Lakh in the Delhi used car market. This 2023 model has been driven for 19,000 kilometers and runs on CNG fuel.",
+        "chatbot_response": "There are three 2023 Hyundai Exter SX 1.2 CNG MT models listed in Delhi, each priced at \u20b98.6 Lakh. Two have CNG fuel type and have driven 19,000 Kms, the other has CNG+CNG fuel type and has driven 20,200 Kms.\n",
+        "bert_score": 0.9290648102760315,
+        "meteor_score": 0.4247754865291917,
+        "rouge_score": 0.5925925925925926,
+        "f1_score": 0.4054054054054054
+    },
+    {
+        "question": "What is the fuel type of 2023 Hyundai Exter SX 1.2 CNG MT?",
+        "ground_truth": "The 2023 Hyundai Exter SX 1.2 CNG MT runs on CNG fuel. This 2023 model is available in Delhi for \u20b9 8.6 Lakh and has been driven for 19,000 kilometers.",
+        "chatbot_response": "The 2023 Hyundai Exter SX 1.2 CNG MT listings in Delhi (CAR 1, CAR 2, and CAR 3) have a fuel type of CNG, with CAR 3 listed as CNG + CNG. All three are priced at \u20b98.6 Lakh. CAR 1 and CAR 2 have 19,000 Kms driven, while CAR 3 has 20,200 Kms.\n",
+        "bert_score": 0.9071071743965149,
+        "meteor_score": 0.3917863441672966,
+        "rouge_score": 0.47191011235955055,
+        "f1_score": 0.30952380952380953
+    },
+    {
+        "question": "What is the price of 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023]?",
+        "ground_truth": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] is priced at \u20b9 18.9 Lakh in the Delhi used car market. This 2023 model has been driven for 17,000 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "I found two listings for the 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] in Delhi, both priced at \u20b918.9 Lakh. These hybrid cars have only 17,000 Kms driven. They are listed as being in excellent condition and from first owners.\n",
+        "bert_score": 0.9214376211166382,
+        "meteor_score": 0.398691806625891,
+        "rouge_score": 0.5783132530120482,
+        "f1_score": 0.37974683544303794
+    },
+    {
+        "question": "What is the fuel type of 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023]?",
+        "ground_truth": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] runs on Hybrid (Electric + Petrol) fuel. This 2023 model is available in Delhi for \u20b9 18.9 Lakh and has been driven for 17,000 kilometers.",
+        "chatbot_response": "The 2023 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023] (Car 1 & Car 2) in Delhi, priced at \u20b918.9 Lakh, has a Hybrid (Electric + Petrol) fuel type. Both cars have driven 17,000 Kms.\n",
+        "bert_score": 0.9541394710540771,
+        "meteor_score": 0.4739466720944433,
+        "rouge_score": 0.6571428571428571,
+        "f1_score": 0.47058823529411764
+    },
+    {
+        "question": "What is the price of 2018 Maruti Suzuki Swift VXi AMT [2018-2019]?",
+        "ground_truth": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] is priced at \u20b9 4.65 Lakh in the Delhi used car market. This 2018 model has been driven for 67,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2018 Maruti Suzuki Swift VXi AMT [2018-2019] in Delhi, both priced at \u20b94.65 Lakh. Both cars are petrol models from 2018 and have driven 67,000 Kms. They are listed as second-owner vehicles.\n",
+        "bert_score": 0.9276529550552368,
+        "meteor_score": 0.4827514011466855,
+        "rouge_score": 0.6410256410256411,
+        "f1_score": 0.41666666666666663
+    },
+    {
+        "question": "What is the fuel type of 2018 Maruti Suzuki Swift VXi AMT [2018-2019]?",
+        "ground_truth": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 4.65 Lakh and has been driven for 67,000 kilometers.",
+        "chatbot_response": "The 2018 Maruti Suzuki Swift VXi AMT [2018-2019] (car_name) in Delhi (city) with a price of \u20b94.65 Lakh (price) and 67,000 Kms (kms driven) uses Petrol (fuel_type). We have two listings with same details.\n",
+        "bert_score": 0.9129284024238586,
+        "meteor_score": 0.4175617615467239,
+        "rouge_score": 0.5633802816901409,
+        "f1_score": 0.43749999999999994
+    },
+    {
+        "question": "What is the price of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio is priced at \u20b9 41 Lakh in the Delhi used car market. This 2017 model has been driven for 9,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2017 Jaguar XJ 2.0 Portfolio models in Delhi. The prices range from \u20b935.9 Lakh to \u20b955.0 Lakh. CAR 1 is the lowest price at \u20b935.9 Lakh, Petrol, 75,000 Kms driven, First Owner.\n",
+        "bert_score": 0.9055794477462769,
+        "meteor_score": 0.3544575725026853,
+        "rouge_score": 0.5479452054794521,
+        "f1_score": 0.3283582089552239
+    },
+    {
+        "question": "What is the fuel type of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 41 Lakh and has been driven for 9,000 kilometers.",
+        "chatbot_response": "All the listed 2017 Jaguar XJ 2.0 Portfolio cars in Delhi run on petrol. Prices range from \u20b935.9 Lakh to \u20b955.0 Lakh, with varying mileage. For instance, CAR 1 is priced at \u20b935.9 Lakh with 75,000 Kms driven and fuel_type is Petrol.\n",
+        "bert_score": 0.9112723469734192,
+        "meteor_score": 0.4346182917611489,
+        "rouge_score": 0.5194805194805195,
+        "f1_score": 0.34285714285714286
+    },
+    {
+        "question": "What is the price of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC is priced at \u20b9 1.35 Crore in the Delhi used car market. This 2024 model has been driven for 14,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are multiple listings for the 2024 Mercedes-Benz GLS 450d 4MATIC in Delhi. All are priced at \u20b91.35 Crore and have diesel fuel type. Each has driven 14,000 Kms, and is listed as a first-owner vehicle.\n",
+        "bert_score": 0.9353615045547485,
+        "meteor_score": 0.4073753684480328,
+        "rouge_score": 0.6216216216216216,
+        "f1_score": 0.47058823529411764
+    },
+    {
+        "question": "What is the fuel type of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC runs on Diesel fuel. This 2024 model is available in Delhi for \u20b9 1.35 Crore and has been driven for 14,000 kilometers.",
+        "chatbot_response": "The 2024 Mercedes-Benz GLS 450d 4MATIC is available in Delhi. Based on the provided listings, there are two options, CAR 1 and CAR 5, both with a fuel type of Diesel. Both cars are priced at \u20b91.35 Crore. CAR 1 has 14,000 Kms driven.\n",
+        "bert_score": 0.9279641509056091,
+        "meteor_score": 0.3880137533983688,
+        "rouge_score": 0.5714285714285714,
+        "f1_score": 0.36111111111111116
+    },
+    {
+        "question": "What is the price of 2019 Mercedes-Benz C-Class C 200 Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C 200 Prime is priced at \u20b9 33.75 Lakh in the Delhi used car market. This 2019 model has been driven for 16,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2019 Mercedes-Benz C-Class C 200 Prime cars in Delhi, both priced at \u20b933.75 Lakh. Both are petrol cars and have driven 16,000 Kms. One has insurance expiring on 14 Oct 2025, while the other's expiry is not available.\n",
+        "bert_score": 0.917128324508667,
+        "meteor_score": 0.43223573672291615,
+        "rouge_score": 0.6097560975609756,
+        "f1_score": 0.4324324324324324
+    },
+    {
+        "question": "What is the fuel type of 2019 Mercedes-Benz C-Class C 200 Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C 200 Prime runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 33.75 Lakh and has been driven for 16,000 kilometers.",
+        "chatbot_response": "The listing shows two 2019 Mercedes-Benz C-Class C 200 Prime cars in Delhi (car_name: Mercedes-Benz C-Class C 200 Prime, year: 2019, city: Delhi). Both are petrol (fuel_type: Petrol) cars with prices at \u20b933.75 Lakh (price: \u20b93,375,000.00) and have driven 16,000 Kms (kms driven: 16,000 Kms).\n",
+        "bert_score": 0.8945205211639404,
+        "meteor_score": 0.37414965986394555,
+        "rouge_score": 0.47191011235955055,
+        "f1_score": 0.35135135135135137
+    },
+    {
+        "question": "What is the price of 2019 MINI Cooper S 3 Door [2018-2020]?",
+        "ground_truth": "The 2019 MINI Cooper S 3 Door [2018-2020] is priced at \u20b9 36.5 Lakh in the Delhi used car market. This 2019 model has been driven for 20,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three listings for the 2019 MINI Cooper S 3 Door [2018-2020] in Delhi, all priced at \u20b936.5 Lakh. All are petrol-based cars, second-owner cars, and have comprehensive insurance. CAR 2 and CAR 3 have driven 19,000 Kms while CAR 1 has driven 20,000 Kms.\n",
+        "bert_score": 0.9147046804428101,
+        "meteor_score": 0.374970509594212,
+        "rouge_score": 0.5454545454545455,
+        "f1_score": 0.39999999999999997
+    },
+    {
+        "question": "What is the fuel type of 2019 MINI Cooper S 3 Door [2018-2020]?",
+        "ground_truth": "The 2019 MINI Cooper S 3 Door [2018-2020] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 36.5 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "The 2019 MINI Cooper S 3 Door [2018-2020] listings in Delhi (CAR 1, CAR 2, CAR 3) all have a fuel type of Petrol. These cars are priced at \u20b936.5 Lakh, with CAR 2 and CAR 3 having insurance expiring on 12 Sep 2025 and having driven 19,000 Kms. CAR 1 has driven 20,000 Kms.\n",
+        "bert_score": 0.9100152850151062,
+        "meteor_score": 0.3705299145299146,
+        "rouge_score": 0.4835164835164835,
+        "f1_score": 0.3529411764705882
+    },
+    {
+        "question": "What is the price of 2023 MINI Countryman Cooper S JCW Inspired?",
+        "ground_truth": "The 2023 MINI Countryman Cooper S JCW Inspired is priced at \u20b9 41.5 Lakh in the Delhi used car market. This 2023 model has been driven for 7,800 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2023 MINI Countryman Cooper S JCW Inspired cars in Delhi, both priced at \u20b941.5 Lakh. One has 7,800 Kms driven and is from an individual owner, while the other has 7,000 Kms and is registered as corporate. Both run on Petrol.\n",
+        "bert_score": 0.9196808338165283,
+        "meteor_score": 0.47447566284131387,
+        "rouge_score": 0.6097560975609756,
+        "f1_score": 0.4358974358974359
+    },
+    {
+        "question": "What is the fuel type of 2023 MINI Countryman Cooper S JCW Inspired?",
+        "ground_truth": "The 2023 MINI Countryman Cooper S JCW Inspired runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 41.5 Lakh and has been driven for 7,800 kilometers.",
+        "chatbot_response": "There are two 2023 MINI Countryman Cooper S JCW Inspired cars in Delhi. Both are petrol cars, priced at \u20b941.5 Lakh. One has driven 7,800 Kms and is listed by an individual, while the other has driven 7,000 Kms and is registered as corporate.\n",
+        "bert_score": 0.9138437509536743,
+        "meteor_score": 0.4069355980184005,
+        "rouge_score": 0.5128205128205128,
+        "f1_score": 0.3513513513513514
+    },
+    {
+        "question": "What is the price of 2025 Mercedes-Benz GLC 300 4MATIC?",
+        "ground_truth": "The 2025 Mercedes-Benz GLC 300 4MATIC is priced at \u20b9 74.9 Lakh in the Delhi used car market. This 2025 model has been driven for 1,300 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2025 Mercedes-Benz GLC 300 4MATIC cars listed in Delhi, both priced at \u20b974.9 Lakh. One has 1,300 Kms driven, Comprehensive Insurance, and individual registration. The other has 1,200 Kms driven, Zero Depreciation Insurance, and corporate registration. Both run on Petrol.\n",
+        "bert_score": 0.9144182205200195,
+        "meteor_score": 0.3860355824102048,
+        "rouge_score": 0.5679012345679013,
+        "f1_score": 0.3466666666666667
+    },
+    {
+        "question": "What is the fuel type of 2025 Mercedes-Benz GLC 300 4MATIC?",
+        "ground_truth": "The 2025 Mercedes-Benz GLC 300 4MATIC runs on Petrol fuel. This 2025 model is available in Delhi for \u20b9 74.9 Lakh and has been driven for 1,300 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2025 Mercedes-Benz GLC 300 4MATIC cars in Delhi. Both are priced at \u20b974.9 Lakh. CAR 1 has 1,300 Kms driven and CAR 2 has 1,200 Kms driven. Both cars have petrol fuel type.\n",
+        "bert_score": 0.912327229976654,
+        "meteor_score": 0.342710584243795,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.31884057971014496
+    },
+    {
+        "question": "What is the price of 2022 Mercedes-Benz S-Class S 350D [2018-2020]?",
+        "ground_truth": "The 2022 Mercedes-Benz S-Class S 350D [2018-2020] is priced at \u20b9 1.49 Crore in the Delhi used car market. This 2022 model has been driven for 10,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2022 Mercedes-Benz S-Class S 350D [2018-2020] in Delhi is priced at \u20b91.49 Crore. This diesel car has driven 10,000 Kms and is listed by its first owner. You can find more details on the provided URL.\n",
+        "bert_score": 0.9383767247200012,
+        "meteor_score": 0.48970087036810744,
+        "rouge_score": 0.7088607594936708,
+        "f1_score": 0.5714285714285714
+    },
+    {
+        "question": "What is the fuel type of 2022 Mercedes-Benz S-Class S 350D [2018-2020]?",
+        "ground_truth": "The 2022 Mercedes-Benz S-Class S 350D [2018-2020] runs on Diesel fuel. This 2022 model is available in Delhi for \u20b9 1.49 Crore and has been driven for 10,000 kilometers.",
+        "chatbot_response": "The 2022 Mercedes-Benz S-Class S 350D [2018-2020] in Delhi (CAR 1) has a diesel fuel type. It is listed for \u20b91.49 Crore and has driven 10,000 Kms. There is also a 2024 model with diesel fuel type for the same price and specifications (CAR 2).\n",
+        "bert_score": 0.9372689723968506,
+        "meteor_score": 0.49671392102547396,
+        "rouge_score": 0.6265060240963856,
+        "f1_score": 0.45945945945945943
+    },
+    {
+        "question": "What is the price of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio is priced at \u20b9 41 Lakh in the Delhi used car market. This 2017 model has been driven for 9,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2017 Jaguar XJ 2.0 Portfolio models in Delhi, all with petrol fuel type. The prices range from \u20b935.9 Lakh to \u20b955.0 Lakh. The cheapest option is listed at \u20b935.9 Lakh, having run 75,000 Kms and has first owner.\n",
+        "bert_score": 0.9120785593986511,
+        "meteor_score": 0.3724193056446609,
+        "rouge_score": 0.5569620253164557,
+        "f1_score": 0.32876712328767116
+    },
+    {
+        "question": "What is the fuel type of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 41 Lakh and has been driven for 9,000 kilometers.",
+        "chatbot_response": "All listed 2017 Jaguar XJ 2.0 Portfolio cars in Delhi (CAR 1, CAR 2, CAR 3, CAR 4, and CAR 5) run on petrol. Prices range from \u20b935.9 Lakh to \u20b955.0 Lakh, with varying kilometers driven (9,000 to 75,000 Kms).\n\n",
+        "bert_score": 0.9017971754074097,
+        "meteor_score": 0.3701721841704718,
+        "rouge_score": 0.45945945945945943,
+        "f1_score": 0.32352941176470584
+    },
+    {
+        "question": "What is the price of 2022 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2022 BMW X5 xDrive30d xLine is priced at \u20b9 81 Lakh in the Delhi used car market. This 2022 model has been driven for 20,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "Based on the listings, there are two 2022 BMW X5 xDrive30d xLine cars in Delhi, both priced at \u20b981.0 Lakh. Both are diesel vehicles and have driven 20,000 Kms. One has comprehensive insurance, while the other's insurance has expired.\n",
+        "bert_score": 0.9219423532485962,
+        "meteor_score": 0.40363797974667476,
+        "rouge_score": 0.5675675675675675,
+        "f1_score": 0.39436619718309857
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2022 BMW X5 xDrive30d xLine runs on Diesel fuel. This 2022 model is available in Delhi for \u20b9 81 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8000262975692749,
+        "meteor_score": 0.07129277566539924,
+        "rouge_score": 0.1,
+        "f1_score": 0.10256410256410255
+    },
+    {
+        "question": "What is the price of 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol is priced at \u20b9 84.5 Lakh in the Delhi used car market. This 2024 model has been driven for 19,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol cars listed in Delhi, both priced at \u20b984.5 Lakh. Both are petrol cars, white in color, and have driven 19,000 Kms. One has expired insurance, while the other has comprehensive insurance.\n",
+        "bert_score": 0.92363440990448,
+        "meteor_score": 0.4863726790450929,
+        "rouge_score": 0.6046511627906976,
+        "f1_score": 0.41975308641975306
+    },
+    {
+        "question": "What is the fuel type of 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol runs on Petrol fuel. This 2024 model is available in Delhi for \u20b9 84.5 Lakh and has been driven for 19,000 kilometers.",
+        "chatbot_response": "The 2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol (car_name) listed in Delhi (city) with a price of \u20b984.5 Lakh (price) has a fuel type of Petrol (fuel_type). Both listings show 19,000 Kms (kms driven).\n",
+        "bert_score": 0.9162612557411194,
+        "meteor_score": 0.4824606841679962,
+        "rouge_score": 0.5974025974025974,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the price of 2022 Volvo XC60 B5 Ultimate?",
+        "ground_truth": "The 2022 Volvo XC60 B5 Ultimate is priced at \u20b9 53 Lakh in the Delhi used car market. This 2022 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Based on the listings, there are two 2022 Volvo XC60 B5 Ultimate cars in Delhi, both priced at \u20b953.0 Lakh. Both are petrol cars that have driven 25,000 Kms.\n",
+        "bert_score": 0.925398051738739,
+        "meteor_score": 0.36116654863838277,
+        "rouge_score": 0.5714285714285715,
+        "f1_score": 0.3934426229508197
+    },
+    {
+        "question": "What is the fuel type of 2022 Volvo XC60 B5 Ultimate?",
+        "ground_truth": "The 2022 Volvo XC60 B5 Ultimate runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 53 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "There are two 2022 Volvo XC60 B5 Ultimate cars in Delhi, both priced at \u20b953.0 Lakh. They both run on Petrol and have driven 25,000 Kms. (car_name: Volvo XC60 B5 Ultimate, year: 2022, city: Delhi, price: \u20b953.0 Lakh, kms driven: 25,000 Kms, fuel_type: Petrol).\n",
+        "bert_score": 0.9053727388381958,
+        "meteor_score": 0.34534534534534533,
+        "rouge_score": 0.4615384615384615,
+        "f1_score": 0.3055555555555556
+    },
+    {
+        "question": "What is the price of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury is priced at \u20b9 54 Lakh in the Delhi used car market. This 2022 model has been driven for 18,000 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "I found four 2022 Lexus ES 300h Luxury cars in Delhi. They are all priced at \u20b954.0 Lakh. Two have driven 18,000 Kms and insurance not available, while the other two have driven 18,600 Kms and insurance expiring on 14 Jul 2025. All are hybrid vehicles.\n",
+        "bert_score": 0.9024558663368225,
+        "meteor_score": 0.3335795629424438,
+        "rouge_score": 0.4578313253012048,
+        "f1_score": 0.32098765432098764
+    },
+    {
+        "question": "What is the fuel type of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2022 model is available in Delhi for \u20b9 54 Lakh and has been driven for 18,000 kilometers.",
+        "chatbot_response": "The 2022 Lexus ES 300h Luxury, available in Delhi, is a hybrid (Electric + Petrol) car. There are four listings with a price of \u20b954.0 Lakh, and kms driven range from 18,000 to 18,600. All are first-owner vehicles.\n",
+        "bert_score": 0.9275810718536377,
+        "meteor_score": 0.4220820189274448,
+        "rouge_score": 0.5352112676056339,
+        "f1_score": 0.40579710144927533
+    },
+    {
+        "question": "What is the price of 2023 Audi Q8 Celebration?",
+        "ground_truth": "The 2023 Audi Q8 Celebration is priced at \u20b9 98 Lakh in the Delhi used car market. This 2023 model has been driven for 1,600 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2023 Audi Q8 Celebration cars in Delhi, all priced at \u20b998.0 Lakh. These petrol cars have only 1,600 Kms driven and are listed by first owners. One has comprehensive insurance, another has expired insurance.\n",
+        "bert_score": 0.9041445255279541,
+        "meteor_score": 0.3177664594412403,
+        "rouge_score": 0.4857142857142857,
+        "f1_score": 0.3235294117647059
+    },
+    {
+        "question": "What is the fuel type of 2023 Audi Q8 Celebration?",
+        "ground_truth": "The 2023 Audi Q8 Celebration runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 98 Lakh and has been driven for 1,600 kilometers.",
+        "chatbot_response": "The available 2023 Audi Q8 Celebration listings in Delhi (CAR 1, CAR 2, and CAR 3) all specify a fuel type of Petrol. These cars are priced at \u20b998.0 Lakh, have driven 1,600 Kms, and are located in Delhi.\n",
+        "bert_score": 0.9141824245452881,
+        "meteor_score": 0.2832483441767774,
+        "rouge_score": 0.47058823529411764,
+        "f1_score": 0.33333333333333337
+    },
+    {
+        "question": "What is the price of 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol?",
+        "ground_truth": "The 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol is priced at \u20b9 1.38 Crore in the Delhi used car market. This 2025 model has been driven for 9,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol cars in Delhi, each priced at \u20b91.38 Crore. All are petrol cars. Two have 9,000 Kms driven and one has 9,252 Kms. For detailed information, you can check the provided listing URLs.\n",
+        "bert_score": 0.9137438535690308,
+        "meteor_score": 0.503725299643667,
+        "rouge_score": 0.6136363636363635,
+        "f1_score": 0.41463414634146345
+    },
+    {
+        "question": "What is the fuel type of 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol?",
+        "ground_truth": "The 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol runs on Petrol fuel. This 2025 model is available in Delhi for \u20b9 1.38 Crore and has been driven for 9,000 kilometers.",
+        "chatbot_response": "The 2025 Land Rover Range Rover Sport SE Dynamic 3.0 Petrol (car_name) listings in Delhi (city) all have a petrol (fuel_type) engine. The price is \u20b91.38 Crore (price) and they have driven approximately 9,000 Kms (kms driven).\n",
+        "bert_score": 0.9148896932601929,
+        "meteor_score": 0.5273939655315408,
+        "rouge_score": 0.6233766233766234,
+        "f1_score": 0.48571428571428577
+    },
+    {
+        "question": "What is the price of 2022 BMW X3 xDrive30i SportX Plus?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i SportX Plus is priced at \u20b9 49 Lakh in the Delhi used car market. This 2022 model has been driven for 40,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2022 BMW X3 xDrive30i SportX Plus models available in Delhi. The prices range from \u20b946.0 Lakh to \u20b949.0 Lakh. The car with the lowest price is available for \u20b946.0 Lakh, is blue, and has driven 41,598 Kms. All are petrol cars.\n",
+        "bert_score": 0.9125157594680786,
+        "meteor_score": 0.4201021925085905,
+        "rouge_score": 0.5185185185185185,
+        "f1_score": 0.4155844155844156
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X3 xDrive30i SportX Plus?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i SportX Plus runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 49 Lakh and has been driven for 40,000 kilometers.",
+        "chatbot_response": "All five listed 2022 BMW X3 xDrive30i SportX Plus cars in Delhi are petrol vehicles. CAR 1, CAR 2, CAR 3, CAR 4 and CAR 5, all manufactured in 2022 and located in Delhi, have petrol fuel type. Their prices range from \u20b946.0 Lakh to \u20b949.0 Lakh, and they have approximately 35,000-41,598 Kms driven.\n",
+        "bert_score": 0.9002110958099365,
+        "meteor_score": 0.34314373897707234,
+        "rouge_score": 0.36363636363636365,
+        "f1_score": 0.24096385542168677
+    }
+]

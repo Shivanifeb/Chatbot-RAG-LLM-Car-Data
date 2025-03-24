@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2024 Mercedes-Benz A-Class Limousine 200d?",
+        "ground_truth": "The 2024 Mercedes-Benz A-Class Limousine 200d is priced at \u20b9 43 Lakh in the Delhi used car market. This 2024 model has been driven for 3,500 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2024 Mercedes-Benz A-Class Limousine 200d models in Delhi priced at \u20b943.0 Lakh each. Both are silver, diesel cars with 3,500 Kms driven. One has comprehensive insurance expiring on May 29, 2025, while the other's expiry is not available.\n",
+        "bert_score": 0.9084452390670776,
+        "meteor_score": 0.4184021914518368,
+        "rouge_score": 0.5750000000000001,
+        "f1_score": 0.410958904109589
+    },
+    {
+        "question": "What is the fuel type of 2024 Mercedes-Benz A-Class Limousine 200d?",
+        "ground_truth": "The 2024 Mercedes-Benz A-Class Limousine 200d runs on Diesel fuel. This 2024 model is available in Delhi for \u20b9 43 Lakh and has been driven for 3,500 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2024 Mercedes-Benz A-Class Limousine 200d cars in Delhi. Both are priced at \u20b943.0 Lakh, with 3,500 Kms driven, and run on Diesel fuel. One has comprehensive insurance expiring on 29 May 2025, while the other's insurance expiry is not available.\n",
+        "bert_score": 0.9107490181922913,
+        "meteor_score": 0.40274990709773323,
+        "rouge_score": 0.5609756097560975,
+        "f1_score": 0.34666666666666673
+    },
+    {
+        "question": "What is the price of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC is priced at \u20b9 1.35 Crore in the Delhi used car market. This 2024 model has been driven for 14,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are multiple 2024 Mercedes-Benz GLS 450d 4MATIC cars listed in Delhi, all priced at \u20b91.35 Crore. Each has driven 14,000 Kms and runs on diesel. You can find them at the provided URLs.\n",
+        "bert_score": 0.931084394454956,
+        "meteor_score": 0.4161611995341615,
+        "rouge_score": 0.6478873239436619,
+        "f1_score": 0.45454545454545453
+    },
+    {
+        "question": "What is the fuel type of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC runs on Diesel fuel. This 2024 model is available in Delhi for \u20b9 1.35 Crore and has been driven for 14,000 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2024 Mercedes-Benz GLS 450d 4MATIC available in Delhi, both priced at \u20b91.35 Crore. Both are diesel cars. One has driven 14,000 Kms and is white, the other is also white and driven 14,000 Kms. Both are first owner cars.\n",
+        "bert_score": 0.9143282175064087,
+        "meteor_score": 0.40410141685309475,
+        "rouge_score": 0.525,
+        "f1_score": 0.35135135135135126
+    },
+    {
+        "question": "What is the price of 2015 Mercedes-Benz GLA 200 Sport?",
+        "ground_truth": "The 2015 Mercedes-Benz GLA 200 Sport is priced at \u20b9 14.9 Lakh in the Delhi used car market. This 2015 model has been driven for 70,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2015 Mercedes-Benz GLA 200 Sport cars listed in Delhi, all priced at \u20b914.9 Lakh. All are petrol cars and have clocked 70,000 Kms. CAR 1 and CAR 2 are from first owners and have comprehensive insurance, while CAR 3 and CAR 4 are from second owners with expired insurance.\n",
+        "bert_score": 0.9043964743614197,
+        "meteor_score": 0.3006535947712418,
+        "rouge_score": 0.4044943820224719,
+        "f1_score": 0.2380952380952381
+    },
+    {
+        "question": "What is the fuel type of 2015 Mercedes-Benz GLA 200 Sport?",
+        "ground_truth": "The 2015 Mercedes-Benz GLA 200 Sport runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 14.9 Lakh and has been driven for 70,000 kilometers.",
+        "chatbot_response": "The 2015 Mercedes-Benz GLA 200 Sport in Delhi(car_name:Mercedes-Benz GLA 200 Sport, year:2015, city:Delhi) is available in multiple listings. All listings indicate a petrol fuel type(fuel_type:Petrol). The price is \u20b914.9 Lakh, and the distance is about 70,000 Kms for these cars.\n",
+        "bert_score": 0.9043725728988647,
+        "meteor_score": 0.3103469238874929,
+        "rouge_score": 0.5121951219512195,
+        "f1_score": 0.3529411764705882
+    },
+    {
+        "question": "What is the price of 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] is priced at \u20b9 38.5 Lakh in the Delhi used car market. This 2023 model has been driven for 37,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] cars in Delhi, all with Petrol fuel type. Three are priced at \u20b938.5 Lakh, driven 37,000 Kms. One is priced higher at \u20b944.5 Lakh and driven 14,000 Kms.\n",
+        "bert_score": 0.9275456666946411,
+        "meteor_score": 0.40120930014970063,
+        "rouge_score": 0.5822784810126581,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the fuel type of 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 38.5 Lakh and has been driven for 37,000 kilometers.",
+        "chatbot_response": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] cars listed in Delhi (CAR 1, CAR 2, CAR 3, CAR 4) all have a fuel type of Petrol. The prices range from \u20b938.5 Lakh to \u20b944.5 Lakh, and the kilometers driven vary between 14,000 and 37,000.\n",
+        "bert_score": 0.9225648045539856,
+        "meteor_score": 0.35439435336976316,
+        "rouge_score": 0.5121951219512195,
+        "f1_score": 0.32876712328767127
+    },
+    {
+        "question": "What is the price of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury is priced at \u20b9 54 Lakh in the Delhi used car market. This 2022 model has been driven for 18,600 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "There are multiple 2022 Lexus ES 300h Luxury cars listed in Delhi, all priced at \u20b954.0 Lakh. They are hybrid vehicles, with mileage between 18,000 and 18,600 Kms. Some have comprehensive insurance expiring on 14 Jul 2025.\n",
+        "bert_score": 0.9047415852546692,
+        "meteor_score": 0.3080453200645508,
+        "rouge_score": 0.45945945945945943,
+        "f1_score": 0.3055555555555555
+    },
+    {
+        "question": "What is the fuel type of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2022 model is available in Delhi for \u20b9 54 Lakh and has been driven for 18,600 kilometers.",
+        "chatbot_response": "The 2022 Lexus ES 300h Luxury (car_name), year 2022, available in Delhi (city), has a hybrid fuel type (fuel_type). Multiple listings show the price at \u20b954.0 Lakh (price) and the distance driven between 18,000 and 18,600 Kms (kms driven).\n",
+        "bert_score": 0.9041057229042053,
+        "meteor_score": 0.4018169112508735,
+        "rouge_score": 0.5135135135135135,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC is priced at \u20b9 1.35 Crore in the Delhi used car market. This 2024 model has been driven for 14,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found four listings for the 2024 Mercedes-Benz GLS 450d 4MATIC in Delhi. All are priced at \u20b91.35 Crore. They are diesel cars, have driven 14,000 Kms and are first-owner vehicles. One has comprehensive insurance, while the rest have zero depreciation insurance.\n",
+        "bert_score": 0.9235000014305115,
+        "meteor_score": 0.38257575757575757,
+        "rouge_score": 0.5750000000000001,
+        "f1_score": 0.37837837837837834
+    },
+    {
+        "question": "What is the fuel type of 2024 Mercedes-Benz GLS 450d 4MATIC?",
+        "ground_truth": "The 2024 Mercedes-Benz GLS 450d 4MATIC runs on Diesel fuel. This 2024 model is available in Delhi for \u20b9 1.35 Crore and has been driven for 14,000 kilometers.",
+        "chatbot_response": "The 2024 Mercedes-Benz GLS 450d 4MATIC is available in diesel. CAR 1 and CAR 5 are both 2024 Mercedes-Benz GLS 450d 4MATIC, located in Delhi, priced at \u20b91.35 Crore. Both are diesel fuel type, with 14,000 Kms driven and are first owner cars.\n",
+        "bert_score": 0.9332221746444702,
+        "meteor_score": 0.38810100311310963,
+        "rouge_score": 0.5454545454545453,
+        "f1_score": 0.3380281690140845
+    },
+    {
+        "question": "What is the price of 2015 Mercedes-Benz GLA 200 Sport?",
+        "ground_truth": "The 2015 Mercedes-Benz GLA 200 Sport is priced at \u20b9 14.9 Lakh in the Delhi used car market. This 2015 model has been driven for 70,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found four 2015 Mercedes-Benz GLA 200 Sport models in Delhi. All are petrol cars priced at \u20b914.9 Lakh. They've covered 70,000 Kms. Two are listed as single-owner cars with comprehensive insurance, while the others are second-owner cars with expired insurance.\n",
+        "bert_score": 0.9100525379180908,
+        "meteor_score": 0.3295804032301577,
+        "rouge_score": 0.4691358024691358,
+        "f1_score": 0.273972602739726
+    },
+    {
+        "question": "What is the fuel type of 2015 Mercedes-Benz GLA 200 Sport?",
+        "ground_truth": "The 2015 Mercedes-Benz GLA 200 Sport runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 14.9 Lakh and has been driven for 70,000 kilometers.",
+        "chatbot_response": "The 2015 Mercedes-Benz GLA 200 Sport models listed in Delhi (CAR 1, CAR 2, CAR 3, and CAR 4) all have a petrol fuel type. These cars are priced at \u20b914.9 Lakh, and have driven 70,000 Kms.\n",
+        "bert_score": 0.9260517954826355,
+        "meteor_score": 0.37519706803709996,
+        "rouge_score": 0.5428571428571427,
+        "f1_score": 0.3384615384615385
+    },
+    {
+        "question": "What is the price of 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] is priced at \u20b9 38.5 Lakh in the Delhi used car market. This 2023 model has been driven for 37,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The price of a 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] in Delhi ranges from \u20b938.5 Lakh to \u20b944.5 Lakh.\nCAR 1: \u20b944.5 Lakh, 14,000 Kms Driven.\nCAR 2,3,4: \u20b938.5 Lakh, 37,000 Kms Driven. All cars are petrol-fueled.\nThe cheapest one is listed for \u20b938.5 Lakh.\n",
+        "bert_score": 0.9035630226135254,
+        "meteor_score": 0.36915204678362573,
+        "rouge_score": 0.5161290322580646,
+        "f1_score": 0.3333333333333333
+    },
+    {
+        "question": "What is the fuel type of 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 38.5 Lakh and has been driven for 37,000 kilometers.",
+        "chatbot_response": "The 2023 Mercedes-Benz AMG A35 4MATIC [2021-2023] cars listed in Delhi (CAR 1, CAR 2, CAR 3, CAR 4) all have a fuel type of Petrol. Prices range from \u20b938.5 Lakh to \u20b944.5 Lakh, and kilometers driven vary from 14,000 to 37,000.\n",
+        "bert_score": 0.9219332933425903,
+        "meteor_score": 0.3567335900256693,
+        "rouge_score": 0.525,
+        "f1_score": 0.3380281690140845
+    },
+    {
+        "question": "What is the price of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury is priced at \u20b9 54 Lakh in the Delhi used car market. This 2022 model has been driven for 18,600 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "I found four 2022 Lexus ES 300h Luxury cars in Delhi, each priced at \u20b954.0 Lakh. Two have driven 18,000 Kms, and the other two have driven 18,600 Kms. All are hybrid vehicles and have comprehensive insurance.\n",
+        "bert_score": 0.9127851724624634,
+        "meteor_score": 0.3252551020408163,
+        "rouge_score": 0.48648648648648646,
+        "f1_score": 0.33333333333333337
+    },
+    {
+        "question": "What is the fuel type of 2022 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2022 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2022 model is available in Delhi for \u20b9 54 Lakh and has been driven for 18,600 kilometers.",
+        "chatbot_response": "The 2022 Lexus ES 300h Luxury, available in Delhi, is a hybrid (Electric + Petrol) vehicle. Listings 1, 2, 3 and 4 all match the query. They're priced at \u20b954.0 Lakh each, with mileage between 18,000-18,600 Kms.\n",
+        "bert_score": 0.9187094569206238,
+        "meteor_score": 0.40170498579178504,
+        "rouge_score": 0.5070422535211268,
+        "f1_score": 0.38235294117647056
+    },
+    {
+        "question": "What is the price of 2020 Kia Carnival Limousine Plus 7 STR?",
+        "ground_truth": "The 2020 Kia Carnival Limousine Plus 7 STR is priced at \u20b9 51.5 Lakh in the Delhi used car market. This 2020 model has been driven for 57,500 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2020 Kia Carnival Limousine Plus 7 STR listings in Delhi. CAR 1 is priced at \u20b927.0 Lakh, has done 57,000 Kms, and runs on diesel. CAR 3 is priced at \u20b951.5 Lakh and has run 57,500 Kms, also diesel.\n",
+        "bert_score": 0.920592725276947,
+        "meteor_score": 0.47289626791542505,
+        "rouge_score": 0.5679012345679013,
+        "f1_score": 0.4473684210526316
+    },
+    {
+        "question": "What is the fuel type of 2020 Kia Carnival Limousine Plus 7 STR?",
+        "ground_truth": "The 2020 Kia Carnival Limousine Plus 7 STR runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 51.5 Lakh and has been driven for 57,500 kilometers.",
+        "chatbot_response": "The fuel type for the 2020 Kia Carnival Limousine Plus 7 STR in Delhi is Diesel. There are two listings for this car. CAR 1 is priced at \u20b927.0 Lakh and CAR 2 is priced at \u20b951.5 Lakh, with both having around 57,000 Kms driven.\n",
+        "bert_score": 0.9259395599365234,
+        "meteor_score": 0.46273561507936506,
+        "rouge_score": 0.5569620253164557,
+        "f1_score": 0.37333333333333335
+    },
+    {
+        "question": "What is the price of 2020 Land Rover Discovery Sport SE R-Dynamic?",
+        "ground_truth": "The 2020 Land Rover Discovery Sport SE R-Dynamic is priced at \u20b9 51.5 Lakh in the Delhi used car market. This 2020 model has been driven for 24,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two 2020 Land Rover Discovery Sport SE R-Dynamic listings in Delhi, both priced at \u20b951.5 Lakh. One has 24,000 Kms driven with expired insurance, while the other has 23,000 Kms driven with comprehensive insurance. Both run on diesel.\n",
+        "bert_score": 0.9228925108909607,
+        "meteor_score": 0.4212766437861271,
+        "rouge_score": 0.575,
+        "f1_score": 0.4054054054054054
+    },
+    {
+        "question": "What is the fuel type of 2020 Land Rover Discovery Sport SE R-Dynamic?",
+        "ground_truth": "The 2020 Land Rover Discovery Sport SE R-Dynamic runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 51.5 Lakh and has been driven for 24,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2020 Land Rover Discovery Sport SE R-Dynamic cars available in Delhi, both with a diesel fuel type. CAR 1 and CAR 2 are priced at \u20b951.5 Lakh each. CAR 1 has 23,000 Kms driven and CAR 2 has 24,000 Kms driven.\n",
+        "bert_score": 0.914326012134552,
+        "meteor_score": 0.4607282706554869,
+        "rouge_score": 0.5411764705882353,
+        "f1_score": 0.379746835443038
+    },
+    {
+        "question": "What is the price of 2024 BMW X7 xDrive40d M Sport [2023]?",
+        "ground_truth": "The 2024 BMW X7 xDrive40d M Sport [2023] is priced at \u20b9 1.21 Crore in the Delhi used car market. This 2024 model has been driven for 9,000 kilometers and runs on Mild Hybrid (Electric + Diesel) fuel.",
+        "chatbot_response": "I found two listings for the 2024 BMW X7 xDrive40d M Sport [2023] in Delhi. Both are priced at \u20b91.21 Crore. They are Mild Hybrid (Electric + Diesel), have 9,000 Kms driven, and are listed as first-owner vehicles. One has insurance expiring on 28 Mar 2025, and the other's insurance details are not available.\n",
+        "bert_score": 0.9229737520217896,
+        "meteor_score": 0.48082869511440934,
+        "rouge_score": 0.5684210526315789,
+        "f1_score": 0.43478260869565216
+    },
+    {
+        "question": "What is the fuel type of 2024 BMW X7 xDrive40d M Sport [2023]?",
+        "ground_truth": "The 2024 BMW X7 xDrive40d M Sport [2023] runs on Mild Hybrid (Electric + Diesel) fuel. This 2024 model is available in Delhi for \u20b9 1.21 Crore and has been driven for 9,000 kilometers.",
+        "chatbot_response": "The 2024 BMW X7 xDrive40d M Sport [2023] (car_name) available in Delhi (city) comes with a Mild Hybrid (Electric + Diesel) (fuel_type) fuel type. Two listings are available at \u20b91.21 Crore (price), both driven 9,000 Kms (kms driven). Both are 2024 models (year).\n",
+        "bert_score": 0.9329275488853455,
+        "meteor_score": 0.5850859923721161,
+        "rouge_score": 0.6,
+        "f1_score": 0.49350649350649345
+    },
+    {
+        "question": "What is the price of 2022 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2022 BMW X5 xDrive30d xLine is priced at \u20b9 81 Lakh in the Delhi used car market. This 2022 model has been driven for 20,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two 2022 BMW X5 xDrive30d xLine cars in Delhi, both diesel. The price for both is \u20b981.0 Lakh. One has comprehensive insurance and the other's is expired. Both have driven 20,000 Kms.\n",
+        "bert_score": 0.9188966155052185,
+        "meteor_score": 0.3636330551242236,
+        "rouge_score": 0.6086956521739131,
+        "f1_score": 0.42424242424242425
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2022 BMW X5 xDrive30d xLine runs on Diesel fuel. This 2022 model is available in Delhi for \u20b9 81 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "I found two 2022 BMW X5 xDrive30d xLine cars in Delhi. Both are Diesel fuel type. One with \u20b981.0 Lakh price and 20,000 Kms driven has comprehensive insurance. The other one with same price and Kms driven has expired insurance.\n",
+        "bert_score": 0.9118854403495789,
+        "meteor_score": 0.3438842506281916,
+        "rouge_score": 0.4857142857142857,
+        "f1_score": 0.3823529411764706
+    },
+    {
+        "question": "What is the price of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol is priced at \u20b9 80 Lakh in the Delhi used car market. This 2023 model has been driven for 17,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol is available in Delhi. There are multiple listings, with prices at \u20b985.0 Lakh with 6,400-6,500 Kms driven and \u20b980.0 Lakh with 17,000 Kms driven. All are petrol models.\n",
+        "bert_score": 0.9203121066093445,
+        "meteor_score": 0.5040322580645162,
+        "rouge_score": 0.5952380952380952,
+        "f1_score": 0.4473684210526316
+    },
+    {
+        "question": "What is the fuel type of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 80 Lakh and has been driven for 17,000 kilometers.",
+        "chatbot_response": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol listings (CAR 1, CAR 2, CAR 3, CAR 4, and CAR 5) in Delhi all have a fuel type of Petrol. Prices range from \u20b980.0 Lakh to \u20b985.0 Lakh, and kilometers driven vary from 6,400 to 17,000.\n",
+        "bert_score": 0.9085336327552795,
+        "meteor_score": 0.4071557971014493,
+        "rouge_score": 0.5287356321839081,
+        "f1_score": 0.3703703703703703
+    },
+    {
+        "question": "What is the price of 2019 Mercedes-Benz C-Class C 200 Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C 200 Prime is priced at \u20b9 33.75 Lakh in the Delhi used car market. This 2019 model has been driven for 16,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2019 Mercedes-Benz C-Class C 200 Prime in Delhi, both priced at \u20b933.75 Lakh. Both are petrol cars and have driven 16,000 Kms. One has insurance expiring on Oct 14, 2025, while the other's expiry is not available.\n",
+        "bert_score": 0.9124030470848083,
+        "meteor_score": 0.4641544117647058,
+        "rouge_score": 0.6428571428571429,
+        "f1_score": 0.4473684210526315
+    },
+    {
+        "question": "What is the fuel type of 2019 Mercedes-Benz C-Class C 200 Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C 200 Prime runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 33.75 Lakh and has been driven for 16,000 kilometers.",
+        "chatbot_response": "The listing shows two 2019 Mercedes-Benz C-Class C 200 Prime cars in Delhi (CAR 1 and CAR 2). Both are priced at \u20b933.75 Lakh, have driven 16,000 Kms, and use Petrol as their fuel type.\n",
+        "bert_score": 0.9242066144943237,
+        "meteor_score": 0.38801375339836874,
+        "rouge_score": 0.5633802816901409,
+        "f1_score": 0.40625
+    },
+    {
+        "question": "What is the price of 2021 MINI Cooper JCW Hatchback?",
+        "ground_truth": "The 2021 MINI Cooper JCW Hatchback is priced at \u20b9 38 Lakh in the Delhi used car market. This 2021 model has been driven for 23,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2021 MINI Cooper JCW Hatchbacks in Delhi. One is priced at \u20b936.75 Lakh with 23,000 Kms driven (Listing URL: https://www.cartrade.com/second-hand/delhi/mini-cooper-jcw/uv7cwkev/?dc=0) and the other at \u20b938.0 Lakh with 23,000 Kms driven(Listing URL: https://www.cartrade.com/second-hand/delhi/mini-cooper-jcw/gu9fix7e/?dc=0). Both are petrol cars.\n",
+        "bert_score": 0.8655773997306824,
+        "meteor_score": 0.3682636765205572,
+        "rouge_score": 0.38,
+        "f1_score": 0.36619718309859156
+    },
+    {
+        "question": "What is the fuel type of 2021 MINI Cooper JCW Hatchback?",
+        "ground_truth": "The 2021 MINI Cooper JCW Hatchback runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 38 Lakh and has been driven for 23,000 kilometers.",
+        "chatbot_response": "The 2021 MINI Cooper JCW Hatchback listings (CAR 1 and CAR 2) in Delhi both use petrol fuel. CAR 1 is priced at \u20b936.75 Lakh with 23,000 Kms driven, while CAR 2 is priced at \u20b938.0 Lakh with 23,000 Kms driven.\n",
+        "bert_score": 0.9131854176521301,
+        "meteor_score": 0.414344918854914,
+        "rouge_score": 0.4657534246575342,
+        "f1_score": 0.3768115942028986
+    },
+    {
+        "question": "What is the price of 2022 BMW X3 xDrive30i SportX Plus?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i SportX Plus is priced at \u20b9 49 Lakh in the Delhi used car market. This 2022 model has been driven for 40,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Based on the listings, the 2022 BMW X3 xDrive30i SportX Plus in Delhi ranges from \u20b946.0 Lakh to \u20b949.0 Lakh. CAR 1 is available for \u20b946.0 Lakh and has driven 41,598 Kms. All listed cars are petrol-based.\n",
+        "bert_score": 0.9120936393737793,
+        "meteor_score": 0.41213868559177935,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.45714285714285713
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X3 xDrive30i SportX Plus?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i SportX Plus runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 49 Lakh and has been driven for 40,000 kilometers.",
+        "chatbot_response": "The 2022 BMW X3 xDrive30i SportX Plus listings in Delhi all specify Petrol as the fuel type. There are five such cars listed, with prices ranging from \u20b946.0 Lakh to \u20b949.0 Lakh and mileage between 35,000 and 41,598 Kms.\n",
+        "bert_score": 0.9124237298965454,
+        "meteor_score": 0.36030092592592594,
+        "rouge_score": 0.41666666666666663,
+        "f1_score": 0.35294117647058826
+    },
+    {
+        "question": "What is the price of 2021 Mercedes-Benz C-Class C200 Progressive?",
+        "ground_truth": "The 2021 Mercedes-Benz C-Class C200 Progressive is priced at \u20b9 41 Lakh in the Delhi used car market. This 2021 model has been driven for 26,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2021 Mercedes-Benz C-Class C200 Progressive cars in Delhi. One is listed for \u20b938.5 Lakh and has driven 6,000 Kms. The other is listed for \u20b941.0 Lakh and has driven 26,000 Kms. Both cars run on Petrol.\n",
+        "bert_score": 0.923458993434906,
+        "meteor_score": 0.40363797974667476,
+        "rouge_score": 0.5822784810126582,
+        "f1_score": 0.4225352112676056
+    },
+    {
+        "question": "What is the fuel type of 2021 Mercedes-Benz C-Class C200 Progressive?",
+        "ground_truth": "The 2021 Mercedes-Benz C-Class C200 Progressive runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 41 Lakh and has been driven for 26,000 kilometers.",
+        "chatbot_response": "The available 2021 Mercedes-Benz C-Class C200 Progressive cars in Delhi (CAR 1, CAR 2, and CAR 3) all have a petrol fuel type. CAR 1 is priced at \u20b938.5 Lakh and has only 6,000 Kms driven. CAR 2 and CAR 3 are priced at \u20b941.0 Lakh and have 26,000 Kms driven.\n",
+        "bert_score": 0.9055213332176208,
+        "meteor_score": 0.4217088375504217,
+        "rouge_score": 0.48275862068965514,
+        "f1_score": 0.35443037974683544
+    },
+    {
+        "question": "What is the price of 2022 BMW X5 xDrive40i M Sport?",
+        "ground_truth": "The 2022 BMW X5 xDrive40i M Sport is priced at \u20b9 79 Lakh in the Delhi used car market. This 2022 model has been driven for 30,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2022 BMW X5 xDrive40i M Sport listings in Delhi. CAR 2 and CAR 3 are priced at \u20b974.5 Lakh, while CAR 4 and CAR 5 are priced at \u20b973.8 Lakh. The mileage for CAR 2 and CAR 3 is 46,000 Kms, and for CAR 4 and CAR 5 is 57,000 Kms. All are petrol cars.\n",
+        "bert_score": 0.8931553959846497,
+        "meteor_score": 0.3599374021909233,
+        "rouge_score": 0.37894736842105264,
+        "f1_score": 0.2857142857142857
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X5 xDrive40i M Sport?",
+        "ground_truth": "The 2022 BMW X5 xDrive40i M Sport runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 79 Lakh and has been driven for 30,000 kilometers.",
+        "chatbot_response": "The 2022 BMW X5 xDrive40i M Sport (car_name) available in Delhi (city) with a price of \u20b974.5 Lakh (price) uses petrol (fuel_type). Both listings for the 2022 model show 46,000 Kms driven (kms driven). There are also 2023 and 2024 models listed.\n",
+        "bert_score": 0.9096928238868713,
+        "meteor_score": 0.5194308358171457,
+        "rouge_score": 0.5066666666666666,
+        "f1_score": 0.4225352112676057
+    },
+    {
+        "question": "What is the price of 2022 BMW 3 Series Gran Limousine 330Li Luxury Line?",
+        "ground_truth": "The 2022 BMW 3 Series Gran Limousine 330Li Luxury Line is priced at \u20b9 46.5 Lakh in the Delhi used car market. This 2022 model has been driven for 10,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2022 BMW 3 Series Gran Limousine 330Li Luxury Line cars in Delhi. Prices range from \u20b942.0 Lakh to \u20b946.5 Lakh. For example, one is listed at \u20b942.0 Lakh, petrol, driven 27,000 Kms(CAR 2). Another is listed for \u20b946.5 Lakh, petrol, driven 10,000 Kms(CAR 1).\n",
+        "bert_score": 0.9063742160797119,
+        "meteor_score": 0.42981098798708867,
+        "rouge_score": 0.5,
+        "f1_score": 0.38554216867469876
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW 3 Series Gran Limousine 330Li Luxury Line?",
+        "ground_truth": "The 2022 BMW 3 Series Gran Limousine 330Li Luxury Line runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 46.5 Lakh and has been driven for 10,000 kilometers.",
+        "chatbot_response": "All the listed 2022 BMW 3 Series Gran Limousine 330Li Luxury Line cars in Delhi are petrol-fueled. Prices range from \u20b942.0 Lakh to \u20b946.5 Lakh with varying mileage. For example, one is priced at \u20b944.0 Lakh (\u20b94,400,000.00) and has driven 41,113 Kms.\n",
+        "bert_score": 0.9139133095741272,
+        "meteor_score": 0.5113636363636365,
+        "rouge_score": 0.5542168674698795,
+        "f1_score": 0.4324324324324324
+    },
+    {
+        "question": "What is the price of 2023 Audi A6 Technology 45 TFSI [2019-2024]?",
+        "ground_truth": "The 2023 Audi A6 Technology 45 TFSI [2019-2024] is priced at \u20b9 56.75 Lakh in the Delhi used car market. This 2023 model has been driven for 6,200 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2023 Audi A6 Technology 45 TFSI [2019-2024] in Delhi (petrol) is priced at \u20b956.75 Lakh. This car has driven 6,200 Kms.\n",
+        "bert_score": 0.9574037194252014,
+        "meteor_score": 0.48615816019271296,
+        "rouge_score": 0.7868852459016393,
+        "f1_score": 0.6428571428571428
+    },
+    {
+        "question": "What is the fuel type of 2023 Audi A6 Technology 45 TFSI [2019-2024]?",
+        "ground_truth": "The 2023 Audi A6 Technology 45 TFSI [2019-2024] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 56.75 Lakh and has been driven for 6,200 kilometers.",
+        "chatbot_response": "The 2023 Audi A6 Technology 45 TFSI [2019-2024] (Car 2) in Delhi, is a petrol car. Priced at \u20b956.75 Lakh, it has only 6,200 Kms driven.\n",
+        "bert_score": 0.9449661374092102,
+        "meteor_score": 0.38801375339836874,
+        "rouge_score": 0.6557377049180328,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the price of 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol is priced at \u20b9 72 Lakh in the Delhi used car market. This 2021 model has been driven for 10,400 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found one listing for a 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol in Delhi, with a price of \u20b972.0 Lakh. It has driven 10,400 Kms and runs on Petrol.\n",
+        "bert_score": 0.9440177083015442,
+        "meteor_score": 0.48128301772550447,
+        "rouge_score": 0.6842105263157895,
+        "f1_score": 0.48571428571428577
+    },
+    {
+        "question": "What is the fuel type of 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 72 Lakh and has been driven for 10,400 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2021 Land Rover Range Rover Velar cars.\nCAR 1, a 2021 Land Rover Range Rover Velar 2.0 R-Dynamic S Petrol 250 [2017-2020] (Delhi, \u20b972.0 Lakh, 10,000 Kms) and CAR 2, a 2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol(Delhi, \u20b972.0 Lakh, 10,400 Kms) both have a fuel type of Petrol.\n",
+        "bert_score": 0.891063392162323,
+        "meteor_score": 0.38829754123871774,
+        "rouge_score": 0.4380952380952381,
+        "f1_score": 0.25806451612903225
+    },
+    {
+        "question": "What is the price of 2023 Audi Q8 Celebration?",
+        "ground_truth": "The 2023 Audi Q8 Celebration is priced at \u20b9 98 Lakh in the Delhi used car market. This 2023 model has been driven for 1,600 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2023 Audi Q8 Celebration cars in Delhi, all priced at \u20b998.0 Lakh. They all run on Petrol and have only 1,600 Kms driven. Two of them are described as being in immaculate condition and have comprehensive insurance while the other one has expired insurance.\n",
+        "bert_score": 0.9041596055030823,
+        "meteor_score": 0.39195637355146556,
+        "rouge_score": 0.5000000000000001,
+        "f1_score": 0.3333333333333333
+    },
+    {
+        "question": "What is the fuel type of 2023 Audi Q8 Celebration?",
+        "ground_truth": "The 2023 Audi Q8 Celebration runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 98 Lakh and has been driven for 1,600 kilometers.",
+        "chatbot_response": "The 2023 Audi Q8 Celebration models listed in Delhi are all petrol vehicles. There are three listings for this car with a price of \u20b998.0 Lakh. They have only 1,600 Kms driven.\nImportant features include car_name: Audi Q8 Celebration, year: 2023, city: Delhi, price: \u20b998.0 Lakh, kms driven: 1,600, and fuel_type: Petrol.\n",
+        "bert_score": 0.8865998387336731,
+        "meteor_score": 0.30719085347507774,
+        "rouge_score": 0.4470588235294118,
+        "f1_score": 0.25316455696202533
+    },
+    {
+        "question": "What is the price of 2023 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2023 Lexus ES 300h Luxury is priced at \u20b9 63 Lakh in the Delhi used car market. This 2023 model has been driven for 3,840 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "I found two listings for the 2023 Lexus ES 300h Luxury in Delhi, both priced at \u20b963.0 Lakh (\u20b96,300,000.00). One has 3,800 Kms driven and the other 3,840 Kms. Both are Hybrid (Electric + Petrol) fuel type cars.\n",
+        "bert_score": 0.9223406314849854,
+        "meteor_score": 0.4887747875354108,
+        "rouge_score": 0.6233766233766234,
+        "f1_score": 0.5205479452054795
+    },
+    {
+        "question": "What is the fuel type of 2023 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2023 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2023 model is available in Delhi for \u20b9 63 Lakh and has been driven for 3,840 kilometers.",
+        "chatbot_response": "The 2023 Lexus ES 300h Luxury, available in Delhi, is a hybrid (Electric + Petrol) vehicle. There are two listings for this car, both priced at \u20b963.0 Lakh. One has 3,800 Kms driven and the other has 3,840 Kms driven.\n",
+        "bert_score": 0.9346023797988892,
+        "meteor_score": 0.48066875653082547,
+        "rouge_score": 0.611111111111111,
+        "f1_score": 0.4507042253521127
+    },
+    {
+        "question": "What is the price of 2025 Mercedes-Benz GLC 300 4MATIC?",
+        "ground_truth": "The 2025 Mercedes-Benz GLC 300 4MATIC is priced at \u20b9 74.9 Lakh in the Delhi used car market. This 2025 model has been driven for 1,200 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2025 Mercedes-Benz GLC 300 4MATIC models listed in Delhi, both priced at \u20b974.9 Lakh. One has 1,300 Kms driven with comprehensive insurance, and the other has 1,200 Kms driven with zero depreciation insurance; both are petrol cars.\n",
+        "bert_score": 0.9126555919647217,
+        "meteor_score": 0.36714092140921406,
+        "rouge_score": 0.5641025641025642,
+        "f1_score": 0.36111111111111116
+    },
+    {
+        "question": "What is the fuel type of 2025 Mercedes-Benz GLC 300 4MATIC?",
+        "ground_truth": "The 2025 Mercedes-Benz GLC 300 4MATIC runs on Petrol fuel. This 2025 model is available in Delhi for \u20b9 74.9 Lakh and has been driven for 1,200 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2025 Mercedes-Benz GLC 300 4MATIC available in Delhi. Both are priced at \u20b974.9 Lakh and run on Petrol. CAR 1 has 1,300 Kms driven and CAR 2 has 1,200 Kms driven.\n",
+        "bert_score": 0.9202151298522949,
+        "meteor_score": 0.4390988927071402,
+        "rouge_score": 0.5753424657534246,
+        "f1_score": 0.3880597014925373
+    }
+]

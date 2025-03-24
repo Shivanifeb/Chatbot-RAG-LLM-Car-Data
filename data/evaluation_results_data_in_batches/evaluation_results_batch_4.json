@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport is priced at \u20b9 51 Lakh in the Delhi used car market. This 2023 model has been driven for 9,807 kilometers and runs on Electric fuel.",
+        "chatbot_response": "I found four 2023 BMW iX1 xDrive30 M Sport cars in Delhi, each priced at \u20b951.0 Lakh. All are electric vehicles with first owners and varying mileage: 9,807 Kms (white), 16,137 Kms (blue), 9,240 Kms (silver) and 10,134 Kms (blue).\n",
+        "bert_score": 0.8921321630477905,
+        "meteor_score": 0.3408073323617719,
+        "rouge_score": 0.4358974358974359,
+        "f1_score": 0.3013698630136986
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 51 Lakh and has been driven for 9,807 kilometers.",
+        "chatbot_response": "The 2023 BMW iX1 xDrive30 M Sport listings in Delhi (CAR 1, CAR 2, and CAR 3) are all electric vehicles. Each is priced at \u20b951.0 Lakh. They have driven 16,137 Kms, 9,807 Kms, and 9,240 Kms respectively. So, the fuel type of the 2023 BMW iX1 xDrive30 M Sport is electric.\n",
+        "bert_score": 0.909250795841217,
+        "meteor_score": 0.4082357117500888,
+        "rouge_score": 0.44705882352941173,
+        "f1_score": 0.32098765432098764
+    },
+    {
+        "question": "What is the price of 2017 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2017 Mercedes-Benz GLE 250 d is priced at \u20b9 29.5 Lakh in the Delhi used car market. This 2017 model has been driven for 69,832 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2017 Mercedes-Benz GLE 250 d in the provided listings. The available listings include a 2016 model for \u20b930 Lakh (40,000 Kms driven) and 2018/2019 models ranging from \u20b932.5 Lakh to \u20b937.8 Lakh, all located in Delhi and diesel-fueled.\n",
+        "bert_score": 0.8948124647140503,
+        "meteor_score": 0.30245241320310834,
+        "rouge_score": 0.4235294117647059,
+        "f1_score": 0.3421052631578948
+    },
+    {
+        "question": "What is the fuel type of 2017 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2017 Mercedes-Benz GLE 250 d runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 29.5 Lakh and has been driven for 69,832 kilometers.",
+        "chatbot_response": "The 2017 Mercedes-Benz GLE 250 d (CAR 2) in Delhi, priced at \u20b929.5 Lakh, uses Diesel as its fuel_type. It has run 69,832 Kms. Other options are also available, but this is the only 2017 model.\n",
+        "bert_score": 0.938583254814148,
+        "meteor_score": 0.39753401360544216,
+        "rouge_score": 0.6571428571428571,
+        "f1_score": 0.34375000000000006
+    },
+    {
+        "question": "What is the price of 2023 MINI Cooper SE 3-Door?",
+        "ground_truth": "The 2023 MINI Cooper SE 3-Door is priced at \u20b9 41 Lakh in the Delhi used car market. This 2023 model has been driven for 4,038 kilometers and runs on Electric fuel.",
+        "chatbot_response": "The 2023 MINI Cooper SE 3-Door in Delhi (CAR 2) is priced at \u20b941.0 Lakh. It's an electric car that has driven 4,038 Kms. Another option is the 2023 MINI Cooper SE Charged Edition (CAR 1) available for \u20b940.0 Lakh, which has driven 1,929 Kms.\n",
+        "bert_score": 0.9193175435066223,
+        "meteor_score": 0.43019473767396205,
+        "rouge_score": 0.5476190476190477,
+        "f1_score": 0.4415584415584416
+    },
+    {
+        "question": "What is the fuel type of 2023 MINI Cooper SE 3-Door?",
+        "ground_truth": "The 2023 MINI Cooper SE 3-Door runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 41 Lakh and has been driven for 4,038 kilometers.",
+        "chatbot_response": "The 2023 MINI Cooper SE 3-Door (Delhi) is an electric vehicle. It's priced at \u20b941.0 Lakh and has driven 4,038 Kms. There is another 2023 MINI Cooper SE Charged Edition in Delhi, an electric car that has driven 1,929 Kms and costs \u20b940.0 Lakh.\n",
+        "bert_score": 0.9255656599998474,
+        "meteor_score": 0.37702702702702695,
+        "rouge_score": 0.48101265822784806,
+        "f1_score": 0.36111111111111116
+    },
+    {
+        "question": "What is the price of 2020 BMW X1 sDrive20i SportX?",
+        "ground_truth": "The 2020 BMW X1 sDrive20i SportX is priced at \u20b9 28 Lakh in the Delhi used car market. This 2020 model has been driven for 47,596 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2020 BMW X1 sDrive20i SportX models in Delhi. One is listed for \u20b929.9 Lakh with 16,000 Kms driven (CAR 1), and the other is for \u20b928.0 Lakh with 47,596 Kms driven(CAR 4). Both are petrol cars.\n",
+        "bert_score": 0.9063440561294556,
+        "meteor_score": 0.3412844036697247,
+        "rouge_score": 0.5,
+        "f1_score": 0.36619718309859156
+    },
+    {
+        "question": "What is the fuel type of 2020 BMW X1 sDrive20i SportX?",
+        "ground_truth": "The 2020 BMW X1 sDrive20i SportX runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 28 Lakh and has been driven for 47,596 kilometers.",
+        "chatbot_response": "There are two 2020 BMW X1 sDrive20i SportX cars listed in Delhi. One is priced at \u20b929.9 Lakh (16,000 Kms driven) and the other at \u20b928.0 Lakh (47,596 Kms driven). Both cars are petrol-fueled.\n",
+        "bert_score": 0.9173085689544678,
+        "meteor_score": 0.2896853146853147,
+        "rouge_score": 0.5074626865671643,
+        "f1_score": 0.2903225806451613
+    },
+    {
+        "question": "What is the price of 2023 Mercedes-Benz C-Class C 200 [2022-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz C-Class C 200 [2022-2023] is priced at \u20b9 48 Lakh in the Delhi used car market. This 2023 model has been driven for 25,782 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There is one 2023 Mercedes-Benz C-Class C 200 [2022-2023] listed in Delhi for \u20b955.0 Lakh. This petrol car has driven 4,600 Kms and is listed as a single-owner, non-accidental vehicle with service history.\n",
+        "bert_score": 0.9237446188926697,
+        "meteor_score": 0.38257575757575757,
+        "rouge_score": 0.5263157894736842,
+        "f1_score": 0.45454545454545453
+    },
+    {
+        "question": "What is the fuel type of 2023 Mercedes-Benz C-Class C 200 [2022-2023]?",
+        "ground_truth": "The 2023 Mercedes-Benz C-Class C 200 [2022-2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 48 Lakh and has been driven for 25,782 kilometers.",
+        "chatbot_response": "The 2023 Mercedes-Benz C-Class C 200 [2022-2023] in Delhi (CAR 1) has a fuel type of Petrol. It's priced at \u20b955.0 Lakh, has driven 4,600 Kms. There is another 2023 model available (CAR 3), and its fuel type is also petrol.\n",
+        "bert_score": 0.9319804310798645,
+        "meteor_score": 0.49668874172185434,
+        "rouge_score": 0.5569620253164557,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the price of 2022 BMW 3 Series Gran Limousine 330Li Luxury Line?",
+        "ground_truth": "The 2022 BMW 3 Series Gran Limousine 330Li Luxury Line is priced at \u20b9 44 Lakh in the Delhi used car market. This 2022 model has been driven for 41,113 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2022 BMW 3 Series Gran Limousine 330Li Luxury Line cars in Delhi. Prices range from \u20b942.0 Lakh to \u20b946.5 Lakh. Car 2 is the lowest at \u20b942.0 Lakh, petrol, driven 27,000 Kms. Car 1 and Car 4 are priced highest at \u20b946.5 Lakh, petrol, driven 10,000 Kms.\n",
+        "bert_score": 0.8994779586791992,
+        "meteor_score": 0.42636330626526703,
+        "rouge_score": 0.43478260869565216,
+        "f1_score": 0.39534883720930236
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW 3 Series Gran Limousine 330Li Luxury Line?",
+        "ground_truth": "The 2022 BMW 3 Series Gran Limousine 330Li Luxury Line runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 44 Lakh and has been driven for 41,113 kilometers.",
+        "chatbot_response": "The 2022 BMW 3 Series Gran Limousine 330Li Luxury Line listings available in Delhi all have a fuel type of Petrol. For example, there is a blue model for \u20b942.0 Lakh (27,000 Kms driven) and another for \u20b946.5 Lakh (10,000 Kms driven). All five listings are petrol-fueled cars.\n",
+        "bert_score": 0.9085251092910767,
+        "meteor_score": 0.5242547157367102,
+        "rouge_score": 0.5176470588235295,
+        "f1_score": 0.45
+    },
+    {
+        "question": "What is the price of 2020 Porsche Cayenne Base [2020-2023]?",
+        "ground_truth": "The 2020 Porsche Cayenne Base [2020-2023] is priced at \u20b9 96 Lakh in the Delhi used car market. This 2020 model has been driven for 25,417 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8076642751693726,
+        "meteor_score": 0.06270903010033445,
+        "rouge_score": 0.08888888888888888,
+        "f1_score": 0.09302325581395349
+    },
+    {
+        "question": "What is the fuel type of 2020 Porsche Cayenne Base [2020-2023]?",
+        "ground_truth": "The 2020 Porsche Cayenne Base [2020-2023] runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 96 Lakh and has been driven for 25,417 kilometers.",
+        "chatbot_response": "The 2020 Porsche Cayenne Base [2020-2023] listed in Delhi (CAR 1) has a fuel type of Petrol. It's priced at \u20b996.0 Lakh, has driven 25,417 Kms, and is a first-owner vehicle. There is only one 2020 Porsche Cayenne Base [2020-2023] to compare.\n",
+        "bert_score": 0.9244322180747986,
+        "meteor_score": 0.4129355823962238,
+        "rouge_score": 0.5194805194805195,
+        "f1_score": 0.3714285714285715
+    },
+    {
+        "question": "What is the price of 2023 BMW iX xDrive 40?",
+        "ground_truth": "The 2023 BMW iX xDrive 40 is priced at \u20b9 88 Lakh in the Delhi used car market. This 2023 model has been driven for 15,940 kilometers and runs on Electric fuel.",
+        "chatbot_response": "The 2023 BMW iX xDrive 40 (CAR 1) listed in Delhi is priced at \u20b988.0 Lakh. It's an electric vehicle that has driven 15,940 Kms and is with the first owner. It comes with OEM warranty valid till November 2025.\n",
+        "bert_score": 0.9255316257476807,
+        "meteor_score": 0.4024073761498861,
+        "rouge_score": 0.5599999999999999,
+        "f1_score": 0.4444444444444445
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW iX xDrive 40?",
+        "ground_truth": "The 2023 BMW iX xDrive 40 runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 88 Lakh and has been driven for 15,940 kilometers.",
+        "chatbot_response": "The 2023 BMW iX xDrive 40 (CAR 2) in Delhi is an Electric vehicle. It is listed for \u20b988.0 Lakh and has been driven 15,940 Kms.\n",
+        "bert_score": 0.9444907307624817,
+        "meteor_score": 0.5661422419158099,
+        "rouge_score": 0.6785714285714286,
+        "f1_score": 0.6296296296296297
+    },
+    {
+        "question": "What is the price of 2022 Mercedes-Benz GLC 200 Progressive?",
+        "ground_truth": "The 2022 Mercedes-Benz GLC 200 Progressive is priced at \u20b9 52 Lakh in the Delhi used car market. This 2022 model has been driven for 39,396 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 Mercedes-Benz GLC 200 Progressive in Delhi (CAR 5) is priced at \u20b952.0 Lakh. It's a petrol car that has driven 39,396 Kms.There is another Mercedes-Benz GLC 200 Progressive available of year 2021 priced at \u20b952.2 Lakh ,and it has driven 17,000 Kms.\n",
+        "bert_score": 0.9096629619598389,
+        "meteor_score": 0.39755909450952603,
+        "rouge_score": 0.4941176470588235,
+        "f1_score": 0.4210526315789474
+    },
+    {
+        "question": "What is the fuel type of 2022 Mercedes-Benz GLC 200 Progressive?",
+        "ground_truth": "The 2022 Mercedes-Benz GLC 200 Progressive runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 52 Lakh and has been driven for 39,396 kilometers.",
+        "chatbot_response": "The 2022 Mercedes-Benz GLC 200 Progressive ([CAR 2]) in Delhi is a petrol car. It is priced at \u20b952.0 Lakh, has driven 39,396 Kms, and is a first-owner vehicle.\n",
+        "bert_score": 0.9295065402984619,
+        "meteor_score": 0.40743699615077345,
+        "rouge_score": 0.5806451612903226,
+        "f1_score": 0.456140350877193
+    },
+    {
+        "question": "What is the price of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport is priced at \u20b9 51 Lakh in the Delhi used car market. This 2023 model has been driven for 9,240 kilometers and runs on Electric fuel.",
+        "chatbot_response": "I found four 2023 BMW iX1 xDrive30 M Sport cars in Delhi, all priced at \u20b951.0 Lakh. They are electric vehicles. The cars have driven between approximately 9,240 and 16,137 Kms.\nAvailable colours are White, Blue, and Silver.\n",
+        "bert_score": 0.9151179194450378,
+        "meteor_score": 0.38142620232172475,
+        "rouge_score": 0.5135135135135135,
+        "f1_score": 0.3661971830985915
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 51 Lakh and has been driven for 9,240 kilometers.",
+        "chatbot_response": "The 2023 BMW iX1 xDrive30 M Sport models listed in Delhi (CAR 1, CAR 2, and CAR 3) are all electric vehicles. They are priced at \u20b951.0 Lakh each and have driven between 9,240 and 16,137 Kms. Key Features include Car_name: BMW iX1, Year: 2023, City: Delhi, Price: \u20b951.0 Lakh, Fuel_Type: Electric.\n",
+        "bert_score": 0.9055819511413574,
+        "meteor_score": 0.3847355342563011,
+        "rouge_score": 0.43678160919540227,
+        "f1_score": 0.32098765432098764
+    },
+    {
+        "question": "What is the price of 2021 BMW X3 xDrive 20d Luxury Line [2018-2020]?",
+        "ground_truth": "The 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] is priced at \u20b9 44 Lakh in the Delhi used car market. This 2021 model has been driven for 27,904 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two listings for the 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] in Delhi, both priced at \u20b944.0 Lakh. Both are diesel cars that have driven 27,904 Kms. One shows that the number of owners is Second.\n",
+        "bert_score": 0.9283150434494019,
+        "meteor_score": 0.46911435591655315,
+        "rouge_score": 0.6153846153846153,
+        "f1_score": 0.4324324324324324
+    },
+    {
+        "question": "What is the fuel type of 2021 BMW X3 xDrive 20d Luxury Line [2018-2020]?",
+        "ground_truth": "The 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 44 Lakh and has been driven for 27,904 kilometers.",
+        "chatbot_response": "There are two listings for the 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] in Delhi (CAR 2, CAR 3). Both are diesel vehicles, priced at \u20b944.0 Lakh, and have driven 27,904 Kms.\n",
+        "bert_score": 0.9321016669273376,
+        "meteor_score": 0.4671849959935897,
+        "rouge_score": 0.5882352941176471,
+        "f1_score": 0.4375
+    },
+    {
+        "question": "What is the price of 2018 Audi A6 35 TFSI Matrix?",
+        "ground_truth": "The 2018 Audi A6 35 TFSI Matrix is priced at \u20b9 26.5 Lakh in the Delhi used car market. This 2018 model has been driven for 55,384 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2018 Audi A6 35 TFSI Matrix in Delhi (CAR 1) is priced at \u20b926.5 Lakh. It's a petrol car that has driven 55,384 Kms. The car is in immaculate condition and has single owner.\n",
+        "bert_score": 0.9370430707931519,
+        "meteor_score": 0.4578146380535994,
+        "rouge_score": 0.6388888888888888,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2018 Audi A6 35 TFSI Matrix?",
+        "ground_truth": "The 2018 Audi A6 35 TFSI Matrix runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 26.5 Lakh and has been driven for 55,384 kilometers.",
+        "chatbot_response": "The 2018 Audi A6 35 TFSI Matrix, located in Delhi, has a fuel type of Petrol. This car is listed for \u20b926.5 Lakh and has driven 55,384 Kms.\n",
+        "bert_score": 0.9532358050346375,
+        "meteor_score": 0.44213763936947326,
+        "rouge_score": 0.7333333333333333,
+        "f1_score": 0.5263157894736843
+    },
+    {
+        "question": "What is the price of 2017 Toyota Corolla Altis VL AT Petrol?",
+        "ground_truth": "The 2017 Toyota Corolla Altis VL AT Petrol is priced at \u20b9 9.9 Lakh in the Delhi used car market. This 2017 model has been driven for 68,267 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2017 Toyota Corolla Altis VL AT Petrol cars in Delhi. One is priced at \u20b910.5 Lakh, has driven 94,000 Kms, and has expired insurance. The other is priced at \u20b99.9 Lakh, has driven 68,267 Kms, and has comprehensive insurance.\n",
+        "bert_score": 0.9159001708030701,
+        "meteor_score": 0.40259714433440713,
+        "rouge_score": 0.54320987654321,
+        "f1_score": 0.42105263157894735
+    },
+    {
+        "question": "What is the fuel type of 2017 Toyota Corolla Altis VL AT Petrol?",
+        "ground_truth": "The 2017 Toyota Corolla Altis VL AT Petrol runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 9.9 Lakh and has been driven for 68,267 kilometers.",
+        "chatbot_response": "The fuel type for the 2017 Toyota Corolla Altis VL AT Petrol listings in Delhi is Petrol. We have two such listings: one grey, priced at \u20b910.5 Lakh, having run 94,000 Kms and the other white, priced at \u20b99.9 Lakh, having run 68,267 Kms.\n",
+        "bert_score": 0.908501386642456,
+        "meteor_score": 0.3835102618542109,
+        "rouge_score": 0.5316455696202531,
+        "f1_score": 0.3783783783783784
+    },
+    {
+        "question": "What is the price of 2010 Mercedes-Benz E-Class E350?",
+        "ground_truth": "The 2010 Mercedes-Benz E-Class E350 is priced at \u20b9 5.45 Lakh in the Delhi used car market. This 2010 model has been driven for 81,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2010 Mercedes-Benz E-Class E350, located in Delhi, is priced at \u20b95.45 Lakh. It's a petrol car that has driven 81,000 Kms.\nURL: https://www.cartrade.com/second-hand/delhi/mercedes-benz-e-class/zkkwdshl/?dc=0\n",
+        "bert_score": 0.9031865000724792,
+        "meteor_score": 0.331400003905716,
+        "rouge_score": 0.5526315789473685,
+        "f1_score": 0.43636363636363634
+    },
+    {
+        "question": "What is the fuel type of 2010 Mercedes-Benz E-Class E350?",
+        "ground_truth": "The 2010 Mercedes-Benz E-Class E350 runs on Petrol fuel. This 2010 model is available in Delhi for \u20b9 5.45 Lakh and has been driven for 81,000 kilometers.",
+        "chatbot_response": "The 2010 Mercedes-Benz E-Class E350 (CAR 1) listed in Delhi has a petrol fuel type. It's priced at \u20b95.45 Lakh and has driven 81,000 Kms.\n",
+        "bert_score": 0.9454216361045837,
+        "meteor_score": 0.4285525037534222,
+        "rouge_score": 0.6333333333333333,
+        "f1_score": 0.4615384615384615
+    },
+    {
+        "question": "What is the price of 2014 Honda City SV?",
+        "ground_truth": "The 2014 Honda City SV is priced at \u20b9 4.4 Lakh in the Delhi used car market. This 2014 model has been driven for 87,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "CAR 1, a 2014 Honda City SV, is available in Delhi with a price of \u20b94.4 Lakh. This petrol car has driven 87,000 Kms.\n",
+        "bert_score": 0.9380244016647339,
+        "meteor_score": 0.26031597242564486,
+        "rouge_score": 0.6206896551724138,
+        "f1_score": 0.39999999999999997
+    },
+    {
+        "question": "What is the fuel type of 2014 Honda City SV?",
+        "ground_truth": "The 2014 Honda City SV runs on Petrol fuel. This 2014 model is available in Delhi for \u20b9 4.4 Lakh and has been driven for 87,000 kilometers.",
+        "chatbot_response": "The 2014 Honda City SV (CAR 1) in Delhi is listed with a petrol fuel type. It's priced at \u20b94.4 Lakh and has driven 87,000 Kms.\n",
+        "bert_score": 0.9404908418655396,
+        "meteor_score": 0.45131249525832634,
+        "rouge_score": 0.6315789473684211,
+        "f1_score": 0.49056603773584906
+    },
+    {
+        "question": "What is the price of 2015 Honda Jazz V AT Petrol?",
+        "ground_truth": "The 2015 Honda Jazz V AT Petrol is priced at \u20b9 4.25 Lakh in the Delhi used car market. This 2015 model has been driven for 76,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8011873960494995,
+        "meteor_score": 0.06087662337662337,
+        "rouge_score": 0.08695652173913045,
+        "f1_score": 0.09090909090909091
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda Jazz V AT Petrol?",
+        "ground_truth": "The 2015 Honda Jazz V AT Petrol runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 4.25 Lakh and has been driven for 76,000 kilometers.",
+        "chatbot_response": "The 2015 Honda Jazz V AT Petrol, located in Delhi, has a fuel type of Petrol. It is priced at \u20b94.25 Lakh and has driven 76,000 Kms. Another similar car with the same details is not available in context.\n",
+        "bert_score": 0.9400268197059631,
+        "meteor_score": 0.40467687074829933,
+        "rouge_score": 0.5915492957746479,
+        "f1_score": 0.4117647058823529
+    },
+    {
+        "question": "What is the price of 2020 Maruti Suzuki Swift LXi?",
+        "ground_truth": "The 2020 Maruti Suzuki Swift LXi is priced at \u20b9 5.2 Lakh in the Delhi used car market. This 2020 model has been driven for 63,787 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "There are two 2020 Maruti Suzuki Swift LXi cars listed in Delhi, both priced at \u20b95.2 Lakh. Both are Petrol + CNG cars, have driven 63,787 Kms, and are second-owner vehicles.\n",
+        "bert_score": 0.9384810924530029,
+        "meteor_score": 0.39703264094955487,
+        "rouge_score": 0.5671641791044776,
+        "f1_score": 0.4307692307692308
+    },
+    {
+        "question": "What is the fuel type of 2020 Maruti Suzuki Swift LXi?",
+        "ground_truth": "The 2020 Maruti Suzuki Swift LXi runs on Petrol + CNG fuel. This 2020 model is available in Delhi for \u20b9 5.2 Lakh and has been driven for 63,787 kilometers.",
+        "chatbot_response": "There are two listings for the 2020 Maruti Suzuki Swift LXi in Delhi(CAR 1, CAR 2) priced at \u20b95.2 Lakh. Both are Petrol + CNG fuel type, have driven 63,787 Kms and are listed as second owner cars.\n",
+        "bert_score": 0.9206445217132568,
+        "meteor_score": 0.39416578319639545,
+        "rouge_score": 0.5428571428571427,
+        "f1_score": 0.3823529411764707
+    },
+    {
+        "question": "What is the price of 2019 Honda City SV Petrol [2019-2020]?",
+        "ground_truth": "The 2019 Honda City SV Petrol [2019-2020] is priced at \u20b9 7.25 Lakh in the Delhi used car market. This 2019 model has been driven for 43,817 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "There are two listings for the 2019 Honda City SV Petrol [2019-2020] in Delhi, both priced at \u20b97.25 Lakh. Both cars are Petrol + CNG, have driven 43,817 Kms, and are listed by first owners.\n",
+        "bert_score": 0.938309907913208,
+        "meteor_score": 0.41992090954028666,
+        "rouge_score": 0.6301369863013699,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda City SV Petrol [2019-2020]?",
+        "ground_truth": "The 2019 Honda City SV Petrol [2019-2020] runs on Petrol + CNG fuel. This 2019 model is available in Delhi for \u20b9 7.25 Lakh and has been driven for 43,817 kilometers.",
+        "chatbot_response": "I found two listings for the 2019 Honda City SV Petrol [2019-2020] in Delhi, both priced at \u20b97.25 Lakh. Both cars have driven 43,817 Kms. They are listed as having a fuel type of Petrol + CNG.\n",
+        "bert_score": 0.9324489831924438,
+        "meteor_score": 0.3634559209048011,
+        "rouge_score": 0.5633802816901409,
+        "f1_score": 0.3235294117647059
+    },
+    {
+        "question": "What is the price of 2017 Ford Ecosport Titanium 1.5L TDCi?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium 1.5L TDCi is priced at \u20b9 5.5 Lakh in the Delhi used car market. This 2017 model has been driven for 62,659 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two listings for the 2017 Ford Ecosport Titanium 1.5L TDCi in Delhi, both priced at \u20b95.5 Lakh. Both are diesel cars, have done 62,659 Kms, and are listed by first owners.\n",
+        "bert_score": 0.9319666624069214,
+        "meteor_score": 0.3678880643166358,
+        "rouge_score": 0.591549295774648,
+        "f1_score": 0.3939393939393939
+    },
+    {
+        "question": "What is the fuel type of 2017 Ford Ecosport Titanium 1.5L TDCi?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium 1.5L TDCi runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 5.5 Lakh and has been driven for 62,659 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2017 Ford Ecosport Titanium 1.5L TDCi cars in Delhi, both priced at \u20b95.5 Lakh. Both are diesel (fuel_type) cars that have driven 62,659 Kms. Other available Ford Ecosport cars are both petrol and diesel based.\n",
+        "bert_score": 0.921485424041748,
+        "meteor_score": 0.34883525778732555,
+        "rouge_score": 0.5384615384615384,
+        "f1_score": 0.3333333333333333
+    },
+    {
+        "question": "What is the price of 2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020]?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020] is priced at \u20b9 6.85 Lakh in the Delhi used car market. This 2017 model has been driven for 48,277 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020] in Delhi is priced at \u20b96.85 Lakh. This petrol variant has driven 48,277 Kms. It is a first-owner car with comprehensive insurance expiring on Dec 19, 2025.\n",
+        "bert_score": 0.9452013373374939,
+        "meteor_score": 0.5308944392298711,
+        "rouge_score": 0.691358024691358,
+        "f1_score": 0.5753424657534246
+    },
+    {
+        "question": "What is the fuel type of 2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020]?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020] runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 6.85 Lakh and has been driven for 48,277 kilometers.",
+        "chatbot_response": "I do not have information about the \"2017 Ford Ecosport Titanium + 1.5L Ti-VCT AT [2019-2020]\". However, there are two 2017 Ford Ecosport Titanium 1.5L TDCi models in Delhi, both priced at \u20b95.5 Lakh, diesel fuel type and have driven 62,659 Kms.\n",
+        "bert_score": 0.9274610280990601,
+        "meteor_score": 0.2746100053792361,
+        "rouge_score": 0.4878048780487805,
+        "f1_score": 0.2972972972972973
+    },
+    {
+        "question": "What is the price of 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT?",
+        "ground_truth": "The 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT is priced at \u20b9 28.9 Lakh in the Delhi used car market. This 2020 model has been driven for 57,439 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT in Delhi, both priced at \u20b928.9 Lakh. Both cars are diesel, have driven 57,439 Kms, and are listed as having a single owner with comprehensive insurance valid until December 24, 2025.\n",
+        "bert_score": 0.9265863299369812,
+        "meteor_score": 0.42416378316032294,
+        "rouge_score": 0.5647058823529412,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the fuel type of 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT?",
+        "ground_truth": "The 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 28.9 Lakh and has been driven for 57,439 kilometers.",
+        "chatbot_response": "The fuel type of the 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT in Delhi is Diesel. There are two listings available for this car with price \u20b928.9 Lakh, which has driven 57,439 Kms. Both the cars have comprehensive insurance valid until December 24, 2025.\n",
+        "bert_score": 0.9298750758171082,
+        "meteor_score": 0.49216011278768484,
+        "rouge_score": 0.617283950617284,
+        "f1_score": 0.4473684210526315
+    },
+    {
+        "question": "What is the price of 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT?",
+        "ground_truth": "The 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT is priced at \u20b9 28.9 Lakh in the Delhi used car market. This 2020 model has been driven for 57,439 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT in Delhi, both priced at \u20b928.9 Lakh. Both cars have run 57,439 Kms and are diesel cars. Both are single-owner cars with comprehensive insurance expiring on 24 Dec 2025.\n",
+        "bert_score": 0.9280393719673157,
+        "meteor_score": 0.46387285473312795,
+        "rouge_score": 0.5952380952380952,
+        "f1_score": 0.41025641025641024
+    },
+    {
+        "question": "What is the fuel type of 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT?",
+        "ground_truth": "The 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 28.9 Lakh and has been driven for 57,439 kilometers.",
+        "chatbot_response": "The fuel type of the 2020 Ford Endeavour Titanium Plus 2.2 4x2 AT in Delhi is Diesel. There are two listings for this car, both priced at \u20b928.9 Lakh, manufactured in 2020, and have run 57,439 Kms.\n",
+        "bert_score": 0.9417566657066345,
+        "meteor_score": 0.44336647540624585,
+        "rouge_score": 0.6849315068493151,
+        "f1_score": 0.4411764705882353
+    },
+    {
+        "question": "What is the price of 2020 Maruti Suzuki Swift LXi?",
+        "ground_truth": "The 2020 Maruti Suzuki Swift LXi is priced at \u20b9 5.2 Lakh in the Delhi used car market. This 2020 model has been driven for 63,787 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "Based on the listings, there are two 2020 Maruti Suzuki Swift LXi cars in Delhi, both priced at \u20b95.2 Lakh. Both are Petrol + CNG, have driven 63,787 Kms, and are listed as having had two owners.\n",
+        "bert_score": 0.9280666708946228,
+        "meteor_score": 0.3906819424198251,
+        "rouge_score": 0.5833333333333334,
+        "f1_score": 0.4225352112676056
+    },
+    {
+        "question": "What is the fuel type of 2020 Maruti Suzuki Swift LXi?",
+        "ground_truth": "The 2020 Maruti Suzuki Swift LXi runs on Petrol + CNG fuel. This 2020 model is available in Delhi for \u20b9 5.2 Lakh and has been driven for 63,787 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2020 Maruti Suzuki Swift LXi cars in Delhi, both priced at \u20b95.2 Lakh.\n-car_name: Maruti Suzuki Swift LXi\n-year: 2020\n-city: Delhi\n-price: \u20b95.2 Lakh\n-kms driven: 63,787 Kms\n-fuel_type: Petrol + CNG\nThey both have a fuel type of Petrol + CNG.\n",
+        "bert_score": 0.8857839703559875,
+        "meteor_score": 0.3763194444444445,
+        "rouge_score": 0.45783132530120485,
+        "f1_score": 0.325
+    },
+    {
+        "question": "What is the price of 2019 Honda City SV Petrol [2019-2020]?",
+        "ground_truth": "The 2019 Honda City SV Petrol [2019-2020] is priced at \u20b9 7.25 Lakh in the Delhi used car market. This 2019 model has been driven for 43,817 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "I found two listings for the 2019 Honda City SV Petrol [2019-2020] in Delhi, both priced at \u20b97.25 Lakh. Both cars have driven 43,817 Kms and run on Petrol + CNG. Check these cars at CAR 1: [https://www.cartrade.com/second-hand/delhi/honda-city/dz3zq9op/?dc=0] and CAR 2: [https://www.cartrade.com/second-hand/delhi/honda-city/dz3zq9op/?dc=0]\n",
+        "bert_score": 0.8841947913169861,
+        "meteor_score": 0.46517221847187623,
+        "rouge_score": 0.4901960784313726,
+        "f1_score": 0.4155844155844156
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda City SV Petrol [2019-2020]?",
+        "ground_truth": "The 2019 Honda City SV Petrol [2019-2020] runs on Petrol + CNG fuel. This 2019 model is available in Delhi for \u20b9 7.25 Lakh and has been driven for 43,817 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2019 Honda City SV Petrol [2019-2020] cars in Delhi, both priced at \u20b97.25 Lakh. Both listings specify a fuel type of Petrol + CNG. Both cars have driven 43,817 Kms.\n",
+        "bert_score": 0.9308379888534546,
+        "meteor_score": 0.3634559209048011,
+        "rouge_score": 0.5633802816901409,
+        "f1_score": 0.3235294117647059
+    },
+    {
+        "question": "What is the price of 2017 Ford Ecosport Titanium 1.5L TDCi?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium 1.5L TDCi is priced at \u20b9 5.5 Lakh in the Delhi used car market. This 2017 model has been driven for 62,659 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2017 Ford Ecosport Titanium 1.5L TDCi models listed in Delhi, both priced at \u20b95.5 Lakh. Both are diesel cars, have driven 62,659 Kms and are listed by first owners. They are nearly identical listings from the same seller.\n",
+        "bert_score": 0.9295786619186401,
+        "meteor_score": 0.3780407626561472,
+        "rouge_score": 0.5569620253164557,
+        "f1_score": 0.35135135135135137
+    },
+    {
+        "question": "What is the fuel type of 2017 Ford Ecosport Titanium 1.5L TDCi?",
+        "ground_truth": "The 2017 Ford Ecosport Titanium 1.5L TDCi runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 5.5 Lakh and has been driven for 62,659 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2017 Ford Ecosport Titanium 1.5L TDCi cars available in Delhi, both priced at \u20b95.5 Lakh. Both cars are diesel fuel type, have driven 62,659 Kms and are first owner cars.\n",
+        "bert_score": 0.9308029413223267,
+        "meteor_score": 0.4060303050986281,
+        "rouge_score": 0.5833333333333334,
+        "f1_score": 0.3582089552238805
+    }
+]

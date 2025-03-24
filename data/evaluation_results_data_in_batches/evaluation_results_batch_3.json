@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2015 Volkswagen Polo GT TSI?",
+        "ground_truth": "The 2015 Volkswagen Polo GT TSI is priced at \u20b9 5.25 Lakh in the Delhi used car market. This 2015 model has been driven for 59,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Volkswagen Polo GT TSI (CAR 1) in Delhi is priced at \u20b95.25 Lakh. It's a petrol car that has driven 59,000 Kms. There is another model(CAR 2) which is 2017 Volkswagen Polo GT TSI in Delhi is priced at \u20b96.9 Lakh and has driven 58,000 Kms.\n",
+        "bert_score": 0.9166598916053772,
+        "meteor_score": 0.434808568489124,
+        "rouge_score": 0.5057471264367817,
+        "f1_score": 0.425
+    },
+    {
+        "question": "What is the fuel type of 2015 Volkswagen Polo GT TSI?",
+        "ground_truth": "The 2015 Volkswagen Polo GT TSI runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 5.25 Lakh and has been driven for 59,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there is a 2015 Volkswagen Polo GT TSI (CAR 1) available in Delhi for \u20b95.25 Lakh. It is a petrol (fuel_type) car that has driven 59,000 Kms. There is another 2017 Volkswagen Polo GT TSI (CAR 2) available in Delhi for \u20b96.9 Lakh. It is also a petrol car that has driven 58,000 Kms.\n",
+        "bert_score": 0.9057536721229553,
+        "meteor_score": 0.45049455378898295,
+        "rouge_score": 0.4731182795698925,
+        "f1_score": 0.3218390804597701
+    },
+    {
+        "question": "What is the price of 2017 Mahindra XUV500 W10 AT 1.99?",
+        "ground_truth": "The 2017 Mahindra XUV500 W10 AT 1.99 is priced at \u20b9 8.25 Lakh in the Delhi used car market. This 2017 model has been driven for 81,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are three 2017 Mahindra XUV500 W10 AT 1.99 cars listed in Delhi. Two are priced at \u20b99.85 Lakh and have 85,000 Kms driven. The third option costs \u20b98.25 Lakh and has 81,000 Kms driven, with the added benefit of being a first-owner vehicle. All are diesel cars.\n",
+        "bert_score": 0.9235492944717407,
+        "meteor_score": 0.40609798906774985,
+        "rouge_score": 0.5168539325842697,
+        "f1_score": 0.3703703703703703
+    },
+    {
+        "question": "What is the fuel type of 2017 Mahindra XUV500 W10 AT 1.99?",
+        "ground_truth": "The 2017 Mahindra XUV500 W10 AT 1.99 runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 8.25 Lakh and has been driven for 81,000 kilometers.",
+        "chatbot_response": "The 2017 Mahindra XUV500 W10 AT 1.99 is available in Delhi with diesel fuel type. There are three listings for this car (CAR 2, CAR 3, and CAR 4) priced at \u20b99.85 Lakh, \u20b99.85 Lakh and \u20b98.25 Lakh respectively. The Kms driven are 85,000, 85,000 and 81,000 respectively.\n",
+        "bert_score": 0.9186546802520752,
+        "meteor_score": 0.4728015502017659,
+        "rouge_score": 0.5348837209302325,
+        "f1_score": 0.4155844155844156
+    },
+    {
+        "question": "What is the price of 2015 Honda Amaze 1.2 S i-VTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.2 S i-VTEC is priced at \u20b9 3.35 Lakh in the Delhi used car market. This 2015 model has been driven for 41,100 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Honda Amaze 1.2 S i-VTEC in Delhi (CAR 1) is priced at \u20b93.35 Lakh. It's a petrol car that has driven 41,100 Kms. The listing indicates it's a second-owner vehicle.\n",
+        "bert_score": 0.9406628012657166,
+        "meteor_score": 0.46605876393110435,
+        "rouge_score": 0.64,
+        "f1_score": 0.49230769230769234
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda Amaze 1.2 S i-VTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.2 S i-VTEC runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 3.35 Lakh and has been driven for 41,100 kilometers.",
+        "chatbot_response": "The 2015 Honda Amaze 1.2 S i-VTEC (CAR 1) available in Delhi is a petrol car. It is priced at \u20b93.35 Lakh and has driven 41,100 Kms. There is one listing with car name: 2015 Honda Amaze 1.2 S i-VTEC.\n",
+        "bert_score": 0.9372448921203613,
+        "meteor_score": 0.54673721340388,
+        "rouge_score": 0.5897435897435898,
+        "f1_score": 0.463768115942029
+    },
+    {
+        "question": "What is the price of 2015 Maruti Suzuki Ciaz VXi+?",
+        "ground_truth": "The 2015 Maruti Suzuki Ciaz VXi+ is priced at \u20b9 4.7 Lakh in the Delhi used car market. This 2015 model has been driven for 60,620 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Maruti Suzuki Ciaz VXi+ in Delhi, listed as CAR 1, is priced at \u20b94.7 Lakh. It's a petrol car that has driven 60,620 Kms.\n",
+        "bert_score": 0.9433923363685608,
+        "meteor_score": 0.40693559801840057,
+        "rouge_score": 0.6451612903225807,
+        "f1_score": 0.4827586206896552
+    },
+    {
+        "question": "What is the fuel type of 2015 Maruti Suzuki Ciaz VXi+?",
+        "ground_truth": "The 2015 Maruti Suzuki Ciaz VXi+ runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 4.7 Lakh and has been driven for 60,620 kilometers.",
+        "chatbot_response": "The 2015 Maruti Suzuki Ciaz VXi+ (Car 1) in Delhi, priced at \u20b94.7 Lakh, has a petrol fuel type. It has driven 60,620 Kms.\n",
+        "bert_score": 0.9459536671638489,
+        "meteor_score": 0.3218948377051144,
+        "rouge_score": 0.6181818181818182,
+        "f1_score": 0.3846153846153846
+    },
+    {
+        "question": "What is the price of 2021 Hyundai Elantra 2.0 SX (O) AT?",
+        "ground_truth": "The 2021 Hyundai Elantra 2.0 SX (O) AT is priced at \u20b9 15.75 Lakh in the Delhi used car market. This 2021 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2021 Hyundai Elantra 2.0 SX (O) AT in Delhi (CAR 3) is priced at \u20b915.75 Lakh. This petrol car has driven 25,000 Kms and is a first-owner vehicle with comprehensive insurance.\n",
+        "bert_score": 0.9451682567596436,
+        "meteor_score": 0.4902366863905326,
+        "rouge_score": 0.6944444444444444,
+        "f1_score": 0.5757575757575757
+    },
+    {
+        "question": "What is the fuel type of 2021 Hyundai Elantra 2.0 SX (O) AT?",
+        "ground_truth": "The 2021 Hyundai Elantra 2.0 SX (O) AT runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 15.75 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "The 2021 Hyundai Elantra 2.0 SX (O) AT, listed in Delhi (car_name: Hyundai Elantra, year: 2021, city: Delhi, price: \u20b915.75 Lakh, kms driven: 25,000 Kms) uses Petrol as its fuel_type. All the available Hyundai Elantra cars run on petrol.\n",
+        "bert_score": 0.9243425726890564,
+        "meteor_score": 0.39289016577504793,
+        "rouge_score": 0.6052631578947368,
+        "f1_score": 0.37681159420289856
+    },
+    {
+        "question": "What is the price of 2014 Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016]?",
+        "ground_truth": "The 2014 Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016] is priced at \u20b9 3.25 Lakh in the Delhi used car market. This 2014 model has been driven for 37,733 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7986909747123718,
+        "meteor_score": 0.05597014925373134,
+        "rouge_score": 0.07843137254901959,
+        "f1_score": 0.0851063829787234
+    },
+    {
+        "question": "What is the fuel type of 2014 Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016]?",
+        "ground_truth": "The 2014 Hyundai Grand i10 Magna 1.2 Kappa VTVT [2013-2016] runs on Petrol fuel. This 2014 model is available in Delhi for \u20b9 3.25 Lakh and has been driven for 37,733 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.800639271736145,
+        "meteor_score": 0.06270903010033445,
+        "rouge_score": 0.0851063829787234,
+        "f1_score": 0.09302325581395349
+    },
+    {
+        "question": "What is the price of 2019 Mercedes-Benz C-Class C220d Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C220d Prime is priced at \u20b9 29.5 Lakh in the Delhi used car market. This 2019 model has been driven for 39,409 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2019 Mercedes-Benz C-Class C220d Prime in Delhi, both priced at \u20b929.5 Lakh. These diesel cars have each driven 39,409 Kms.\n",
+        "bert_score": 0.93691086769104,
+        "meteor_score": 0.36461718445339913,
+        "rouge_score": 0.6461538461538462,
+        "f1_score": 0.41379310344827586
+    },
+    {
+        "question": "What is the fuel type of 2019 Mercedes-Benz C-Class C220d Prime?",
+        "ground_truth": "The 2019 Mercedes-Benz C-Class C220d Prime runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 29.5 Lakh and has been driven for 39,409 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two identical 2019 Mercedes-Benz C-Class C220d Prime cars available in Delhi (CAR 4 & CAR 5). Both are diesel vehicles, priced at \u20b929.5 Lakh, and have driven 39,409 Kms. The car_name is Mercedes-Benz C-Class C220d Prime, year is 2019, city is Delhi, and fuel_type is diesel.\n",
+        "bert_score": 0.9081559777259827,
+        "meteor_score": 0.39482695810564666,
+        "rouge_score": 0.5054945054945055,
+        "f1_score": 0.34567901234567905
+    },
+    {
+        "question": "What is the price of 2015 Honda Amaze 1.5 SX i-DTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.5 SX i-DTEC is priced at \u20b9 2.8 Lakh in the Delhi used car market. This 2015 model has been driven for 71,337 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2015 Honda Amaze 1.5 SX i-DTEC cars listed in Delhi, both priced at \u20b92.8 Lakh. Both are diesel cars, have driven 71,337 Kms, and are listed as having had one owner.\n",
+        "bert_score": 0.9363738894462585,
+        "meteor_score": 0.3667766200135643,
+        "rouge_score": 0.5675675675675677,
+        "f1_score": 0.35820895522388063
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda Amaze 1.5 SX i-DTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.5 SX i-DTEC runs on Diesel fuel. This 2015 model is available in Delhi for \u20b9 2.8 Lakh and has been driven for 71,337 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2015 Honda Amaze 1.5 SX i-DTEC cars available in Delhi, both priced at \u20b92.8 Lakh. Both are Diesel cars, have driven 71,337 Kms, and are listed by first owners.\nImportant features: car_name: Honda Amaze, year: 2015, city: Delhi, price: \u20b92.8 Lakh, kms driven: 71,337, fuel_type: Diesel.\n",
+        "bert_score": 0.9058099985122681,
+        "meteor_score": 0.3634596695821185,
+        "rouge_score": 0.48936170212765956,
+        "f1_score": 0.3132530120481928
+    },
+    {
+        "question": "What is the price of 2015 Honda City VX CVT?",
+        "ground_truth": "The 2015 Honda City VX CVT is priced at \u20b9 5.9 Lakh in the Delhi used car market. This 2015 model has been driven for 56,226 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2015 Honda City VX CVT models in Delhi. One is priced at \u20b95.4 Lakh with 98,000 Kms driven (petrol) and the other is priced at \u20b95.9 Lakh with 56,226 Kms driven (petrol).\n",
+        "bert_score": 0.9125319123268127,
+        "meteor_score": 0.3955968352253182,
+        "rouge_score": 0.5555555555555556,
+        "f1_score": 0.41791044776119407
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda City VX CVT?",
+        "ground_truth": "The 2015 Honda City VX CVT runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 5.9 Lakh and has been driven for 56,226 kilometers.",
+        "chatbot_response": "The fuel type for the 2015 Honda City VX CVT listings in Delhi is Petrol. CAR 1 (\u20b95.4 Lakh, 98,000 Kms) and CAR 2 (\u20b95.9 Lakh, 56,226 Kms) are both 2015 Honda City VX CVT models with petrol fuel type. CAR 2 has comprehensive insurance.\n",
+        "bert_score": 0.902488112449646,
+        "meteor_score": 0.45119160353535354,
+        "rouge_score": 0.5384615384615385,
+        "f1_score": 0.3561643835616438
+    },
+    {
+        "question": "What is the price of 2022 Volvo S90 B5 Inscription?",
+        "ground_truth": "The 2022 Volvo S90 B5 Inscription is priced at \u20b9 46 Lakh in the Delhi used car market. This 2022 model has been driven for 32,000 kilometers and runs on Mild Hybrid(Electric + Petrol) fuel.",
+        "chatbot_response": "The 2022 Volvo S90 B5 Inscription in Delhi is priced at \u20b946.0 Lakh. It's a Mild Hybrid (Electric + Petrol) car that has driven 32,000 Kms.\n",
+        "bert_score": 0.9552599191665649,
+        "meteor_score": 0.4496578690127077,
+        "rouge_score": 0.6984126984126985,
+        "f1_score": 0.5901639344262295
+    },
+    {
+        "question": "What is the fuel type of 2022 Volvo S90 B5 Inscription?",
+        "ground_truth": "The 2022 Volvo S90 B5 Inscription runs on Mild Hybrid(Electric + Petrol) fuel. This 2022 model is available in Delhi for \u20b9 46 Lakh and has been driven for 32,000 kilometers.",
+        "chatbot_response": "The 2022 Volvo S90 B5 Inscription (CAR 1) in Delhi, priced at \u20b946.0 Lakh, has a Mild Hybrid(Electric + Petrol) fuel type. It has 32,000 Kms driven. I don't have information about other 2022 Volvo S90 B5 Inscription models to compare.\n",
+        "bert_score": 0.9388416409492493,
+        "meteor_score": 0.43319444444444444,
+        "rouge_score": 0.5599999999999999,
+        "f1_score": 0.3611111111111111
+    },
+    {
+        "question": "What is the price of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport is priced at \u20b9 51 Lakh in the Delhi used car market. This 2023 model has been driven for 10,134 kilometers and runs on Electric fuel.",
+        "chatbot_response": "I found four 2023 BMW iX1 xDrive30 M Sport cars in Delhi, each priced at \u20b951.0 Lakh. The listings vary in color (White, Blue, Silver) and kilometers driven (between 9,240 and 16,137 Kms). All are electric vehicles and have first owners.\n",
+        "bert_score": 0.9015796184539795,
+        "meteor_score": 0.3780407626561472,
+        "rouge_score": 0.4675324675324675,
+        "f1_score": 0.35135135135135137
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW iX1 xDrive30 M Sport?",
+        "ground_truth": "The 2023 BMW iX1 xDrive30 M Sport runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 51 Lakh and has been driven for 10,134 kilometers.",
+        "chatbot_response": "The 2023 BMW iX1 xDrive30 M Sport listings (CAR 1, CAR 2, and CAR 3) in Delhi are all electric vehicles. They are priced at \u20b951.0 Lakh. The kms driven are 16,137, 9,807, and 9,240 respectively.\n",
+        "bert_score": 0.9091101884841919,
+        "meteor_score": 0.36394032921810704,
+        "rouge_score": 0.4057971014492754,
+        "f1_score": 0.3384615384615385
+    },
+    {
+        "question": "What is the price of 2021 BMW X3 xDrive 20d Luxury Line [2018-2020]?",
+        "ground_truth": "The 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] is priced at \u20b9 44 Lakh in the Delhi used car market. This 2021 model has been driven for 27,904 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two listings for the 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] in Delhi, both priced at \u20b944.0 Lakh. Both are Diesel vehicles, and have 27,904 Kms driven. The listed cars have same details.\n",
+        "bert_score": 0.9320709705352783,
+        "meteor_score": 0.45430164257324746,
+        "rouge_score": 0.64,
+        "f1_score": 0.47887323943661975
+    },
+    {
+        "question": "What is the fuel type of 2021 BMW X3 xDrive 20d Luxury Line [2018-2020]?",
+        "ground_truth": "The 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 44 Lakh and has been driven for 27,904 kilometers.",
+        "chatbot_response": "The 2021 BMW X3 xDrive 20d Luxury Line [2018-2020] (Car 2 and Car 3) in Delhi are both diesel. Both cars are priced at \u20b944.0 Lakh and have driven 27,904 Kms. The car name is '2021 BMW X3 xDrive 20d Luxury Line [2018-2020]', year is 2021, city is Delhi and fuel_type is diesel.\n",
+        "bert_score": 0.9236577749252319,
+        "meteor_score": 0.40362622364457834,
+        "rouge_score": 0.4888888888888889,
+        "f1_score": 0.380952380952381
+    },
+    {
+        "question": "What is the price of 2012 Maruti Suzuki Ertiga ZDi?",
+        "ground_truth": "The 2012 Maruti Suzuki Ertiga ZDi is priced at \u20b9 3.95 Lakh in the Delhi used car market. This 2012 model has been driven for 58,430 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2012 Maruti Suzuki Ertiga ZDi in Delhi (CAR 1) is priced at \u20b93.95 Lakh. This is a diesel car that has driven 58,430 Kms.\n",
+        "bert_score": 0.9500775933265686,
+        "meteor_score": 0.4216920746874205,
+        "rouge_score": 0.7000000000000001,
+        "f1_score": 0.5614035087719298
+    },
+    {
+        "question": "What is the fuel type of 2012 Maruti Suzuki Ertiga ZDi?",
+        "ground_truth": "The 2012 Maruti Suzuki Ertiga ZDi runs on Diesel fuel. This 2012 model is available in Delhi for \u20b9 3.95 Lakh and has been driven for 58,430 kilometers.",
+        "chatbot_response": "The 2012 Maruti Suzuki Ertiga ZDi, listed in Delhi, is a diesel car. It's priced at \u20b93.95 Lakh and has driven 58,430 Kms. Other 2012 Ertiga models are available, but this is the only ZDi variant.\n",
+        "bert_score": 0.9452725648880005,
+        "meteor_score": 0.4582972895040369,
+        "rouge_score": 0.6470588235294118,
+        "f1_score": 0.40625000000000006
+    },
+    {
+        "question": "What is the price of 2013 Hyundai Verna EX 1.6 VTVT [2017-2018]?",
+        "ground_truth": "The 2013 Hyundai Verna EX 1.6 VTVT [2017-2018] is priced at \u20b9 3.25 Lakh in the Delhi used car market. This 2013 model has been driven for 75,256 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2013 Hyundai Verna EX 1.6 VTVT [2017-2018] (CAR 1) is listed for \u20b93.25 Lakh. It's a Petrol car in Delhi, manufactured in 2013 and has driven 75,256 Kms.\n",
+        "bert_score": 0.9450640678405762,
+        "meteor_score": 0.4577114427860697,
+        "rouge_score": 0.7042253521126761,
+        "f1_score": 0.5396825396825397
+    },
+    {
+        "question": "What is the fuel type of 2013 Hyundai Verna EX 1.6 VTVT [2017-2018]?",
+        "ground_truth": "The 2013 Hyundai Verna EX 1.6 VTVT [2017-2018] runs on Petrol fuel. This 2013 model is available in Delhi for \u20b9 3.25 Lakh and has been driven for 75,256 kilometers.",
+        "chatbot_response": "The 2013 Hyundai Verna EX 1.6 VTVT [2017-2018] (CAR 1) is a petrol car. It's located in Delhi and priced at \u20b93.25 Lakh. It has driven 75,256 Kms.\n",
+        "bert_score": 0.953062117099762,
+        "meteor_score": 0.47137164429530204,
+        "rouge_score": 0.6666666666666666,
+        "f1_score": 0.5172413793103449
+    },
+    {
+        "question": "What is the price of 2013 Honda CR-V 2.0L 2WD AT?",
+        "ground_truth": "The 2013 Honda CR-V 2.0L 2WD AT is priced at \u20b9 6.5 Lakh in the Delhi used car market. This 2013 model has been driven for 43,667 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7997695803642273,
+        "meteor_score": 0.06087662337662337,
+        "rouge_score": 0.08333333333333333,
+        "f1_score": 0.09090909090909091
+    },
+    {
+        "question": "What is the fuel type of 2013 Honda CR-V 2.0L 2WD AT?",
+        "ground_truth": "The 2013 Honda CR-V 2.0L 2WD AT runs on Petrol fuel. This 2013 model is available in Delhi for \u20b9 6.5 Lakh and has been driven for 43,667 kilometers.",
+        "chatbot_response": "The 2013 Honda CR-V 2.0L 2WD AT (car_name) available in Delhi (city) with price \u20b96.5 Lakh (price) and 43,667 Kms (kms driven) on the odometer, uses Petrol (fuel_type) as fuel.\n",
+        "bert_score": 0.9242237210273743,
+        "meteor_score": 0.4827104810996564,
+        "rouge_score": 0.6470588235294118,
+        "f1_score": 0.5423728813559322
+    },
+    {
+        "question": "What is the price of 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020]?",
+        "ground_truth": "The 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020] is priced at \u20b9 31.75 Lakh in the Delhi used car market. This 2020 model has been driven for 24,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found four 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020] cars. Three are priced at \u20b937.0 Lakh in Delhi, with 26,000 and 24,000 Kms driven, and petrol fuel type. The fourth one, also in Delhi with petrol fuel type and 24,000 Kms driven, is priced at \u20b931.75 Lakh.\n",
+        "bert_score": 0.9157822132110596,
+        "meteor_score": 0.4313529998240572,
+        "rouge_score": 0.5531914893617021,
+        "f1_score": 0.39024390243902435
+    },
+    {
+        "question": "What is the fuel type of 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020]?",
+        "ground_truth": "The 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020] runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 31.75 Lakh and has been driven for 24,000 kilometers.",
+        "chatbot_response": "The fuel type of the 2020 Mercedes-Benz C-Class C 200 Progressive [2018-2020] in Delhi is Petrol. There are two listings for this car: one is \u20b937.0 Lakh (24,000 Kms driven, Black) and another is \u20b931.75 Lakh (24,000 Kms driven, White).\n",
+        "bert_score": 0.9155796766281128,
+        "meteor_score": 0.4316129032258064,
+        "rouge_score": 0.617283950617284,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2024 Jeep Wrangler Rubicon?",
+        "ground_truth": "The 2024 Jeep Wrangler Rubicon is priced at \u20b9 62 Lakh in the Delhi used car market. This 2024 model has been driven for 8,657 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are three 2024 Jeep Wrangler Rubicons in Delhi. Two are priced at \u20b975.0 Lakh with 6,000 Kms driven and the other at \u20b962.0 Lakh with 8,657 Kms driven. All are petrol vehicles.\n",
+        "bert_score": 0.9001534581184387,
+        "meteor_score": 0.2904528903049613,
+        "rouge_score": 0.47058823529411764,
+        "f1_score": 0.34375
+    },
+    {
+        "question": "What is the fuel type of 2024 Jeep Wrangler Rubicon?",
+        "ground_truth": "The 2024 Jeep Wrangler Rubicon runs on Petrol fuel. This 2024 model is available in Delhi for \u20b9 62 Lakh and has been driven for 8,657 kilometers.",
+        "chatbot_response": "The 2024 Jeep Wrangler Rubicon listings in Delhi (CAR 1, CAR 2, CAR 3) all have a fuel type of Petrol. CAR 1 and CAR 2 are priced at \u20b975.0 Lakh with 6,000 Kms driven, while CAR 3 is priced at \u20b962.0 Lakh with 8,657 Kms driven.\n",
+        "bert_score": 0.8983238935470581,
+        "meteor_score": 0.30635508691935026,
+        "rouge_score": 0.4102564102564103,
+        "f1_score": 0.29729729729729726
+    },
+    {
+        "question": "What is the price of None?",
+        "ground_truth": "The None is priced at None in the Unknown used car market. This Unknown model has been driven for Unknown kilometers and runs on Unknown fuel.",
+        "chatbot_response": "The provided car listings do not contain enough information to determine the price of \"None.\" The listings for Renault Kwid, Maruti Suzuki Alto K10, BMW X1, and Maruti Suzuki Ciaz lack price details. I can provide information only for cars with available details.\n",
+        "bert_score": 0.8319830894470215,
+        "meteor_score": 0.10830324909747292,
+        "rouge_score": 0.2028985507246377,
+        "f1_score": 0.14492753623188406
+    },
+    {
+        "question": "What is the fuel type of None?",
+        "ground_truth": "The None runs on Unknown fuel. This Unknown model is available in Unknown for None and has been driven for Unknown kilometers.",
+        "chatbot_response": "The listing CAR 1, CAR 4, and CAR 5 have \"None\" for the car name and \"Unknown\" for the fuel type. Therefore, the fuel type for car mentioned as None is unknown based on the provided listings. I don't have more information about those specific cars.\n",
+        "bert_score": 0.8540629148483276,
+        "meteor_score": 0.16393442622950818,
+        "rouge_score": 0.31884057971014496,
+        "f1_score": 0.1764705882352941
+    },
+    {
+        "question": "What is the price of 2023 BMW 3-Series 330Li M Sport [2023]?",
+        "ground_truth": "The 2023 BMW 3-Series 330Li M Sport [2023] is priced at \u20b9 52 Lakh in the Delhi used car market. This 2023 model has been driven for 11,666 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two listings for the 2023 BMW 3-Series 330Li M Sport [2023] in Delhi, both priced at \u20b952.0 Lakh. Both cars have low mileage (11,666 Kms), are petrol vehicles, and are listed as being in pristine condition with service records.\n",
+        "bert_score": 0.9197434782981873,
+        "meteor_score": 0.3855907780979827,
+        "rouge_score": 0.5316455696202532,
+        "f1_score": 0.3466666666666666
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW 3-Series 330Li M Sport [2023]?",
+        "ground_truth": "The 2023 BMW 3-Series 330Li M Sport [2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 52 Lakh and has been driven for 11,666 kilometers.",
+        "chatbot_response": "CAR 5, a 2023 BMW 3-Series 330Li M Sport [2023] in Delhi, uses Petrol. It's priced at \u20b952.0 Lakh and has driven 11,666 Kms.\n",
+        "bert_score": 0.9485922455787659,
+        "meteor_score": 0.4204403654953106,
+        "rouge_score": 0.6101694915254238,
+        "f1_score": 0.4814814814814815
+    },
+    {
+        "question": "What is the price of 2021 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2021 Lexus ES 300h Luxury is priced at \u20b9 49 Lakh in the Delhi used car market. This 2021 model has been driven for 44,632 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "There are two 2021 Lexus ES 300h Luxury cars listed in Delhi, both priced at \u20b949.0 Lakh. Both are hybrids with 44,632 Kms driven. They are both first-owner vehicles.\n",
+        "bert_score": 0.920874834060669,
+        "meteor_score": 0.2785652508168364,
+        "rouge_score": 0.48484848484848486,
+        "f1_score": 0.28125
+    },
+    {
+        "question": "What is the fuel type of 2021 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2021 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2021 model is available in Delhi for \u20b9 49 Lakh and has been driven for 44,632 kilometers.",
+        "chatbot_response": "The 2021 Lexus ES 300h Luxury (CAR 1 & CAR 2), located in Delhi and priced at \u20b949.0 Lakh, has a Hybrid (Electric + Petrol) fuel type. It has driven 44,632 Kms. Both listings are duplicates.\n",
+        "bert_score": 0.9384535551071167,
+        "meteor_score": 0.46273561507936506,
+        "rouge_score": 0.5757575757575758,
+        "f1_score": 0.4776119402985074
+    },
+    {
+        "question": "What is the price of 2022 BMW X3 xDrive30i M Sport?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i M Sport is priced at \u20b9 56 Lakh in the Delhi used car market. This 2022 model has been driven for 46,710 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about 2022 BMW X3 xDrive30i M Sport. However, I have listings for 2022 BMW X3 xDrive30i SportX Plus in Delhi, with prices ranging from \u20b946.0 Lakh to \u20b949.0 Lakh.The car with price \u20b946.0 Lakh has driven 41,598 Kms. All are petrol cars.\n",
+        "bert_score": 0.8990692496299744,
+        "meteor_score": 0.27964538585113347,
+        "rouge_score": 0.4235294117647059,
+        "f1_score": 0.27848101265822783
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X3 xDrive30i M Sport?",
+        "ground_truth": "The 2022 BMW X3 xDrive30i M Sport runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 56 Lakh and has been driven for 46,710 kilometers.",
+        "chatbot_response": "I don't have information about the \"M Sport\" trim. However, I can confirm that the fuel type for all listed 2022 BMW X3 xDrive30i SportX Plus models in Delhi is Petrol. These cars are priced between \u20b946.0 Lakh and \u20b949.0 Lakh, with mileage ranging from 35,000 to 41,598 Kms.\n",
+        "bert_score": 0.902788519859314,
+        "meteor_score": 0.32974910394265233,
+        "rouge_score": 0.4096385542168675,
+        "f1_score": 0.25641025641025644
+    },
+    {
+        "question": "What is the price of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine is priced at \u20b9 37 Lakh in the Delhi used car market. This 2022 model has been driven for 31,952 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine in Delhi (CAR 5) is priced at \u20b937.0 Lakh. This petrol variant has driven 31,952 Kms and is with its first owner. It also has zero depreciation insurance valid until February 2026.\n",
+        "bert_score": 0.9283485412597656,
+        "meteor_score": 0.40487613305878106,
+        "rouge_score": 0.5833333333333334,
+        "f1_score": 0.45714285714285713
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 37 Lakh and has been driven for 31,952 kilometers.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine (CAR 5) in Delhi is a petrol (fuel_type) car. It's priced at \u20b937.0 Lakh (price) and has driven 31,952 Kms (kms driven). It is a first owner car manufactured in 2022(year).\n",
+        "bert_score": 0.9212038516998291,
+        "meteor_score": 0.4166858900422914,
+        "rouge_score": 0.5428571428571429,
+        "f1_score": 0.4307692307692308
+    },
+    {
+        "question": "What is the price of 2021 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2021 Lexus ES 300h Luxury is priced at \u20b9 49 Lakh in the Delhi used car market. This 2021 model has been driven for 44,632 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "There are two 2021 Lexus ES 300h Luxury cars listed in Delhi, both priced at \u20b949.0 Lakh. Both are hybrids, have driven 44,632 Kms, and are listed by first owners. They also have OEM Warranty Valid Till February 2026.\n",
+        "bert_score": 0.9110267162322998,
+        "meteor_score": 0.28876333961079725,
+        "rouge_score": 0.45333333333333337,
+        "f1_score": 0.29729729729729726
+    },
+    {
+        "question": "What is the fuel type of 2021 Lexus ES 300h Luxury?",
+        "ground_truth": "The 2021 Lexus ES 300h Luxury runs on Hybrid (Electric + Petrol) fuel. This 2021 model is available in Delhi for \u20b9 49 Lakh and has been driven for 44,632 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8024538159370422,
+        "meteor_score": 0.06465517241379311,
+        "rouge_score": 0.09523809523809522,
+        "f1_score": 0.09523809523809523
+    },
+    {
+        "question": "What is the price of 2023 BMW 3-Series 330Li M Sport [2023]?",
+        "ground_truth": "The 2023 BMW 3-Series 330Li M Sport [2023] is priced at \u20b9 52 Lakh in the Delhi used car market. This 2023 model has been driven for 11,666 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8045315742492676,
+        "meteor_score": 0.05914826498422712,
+        "rouge_score": 0.0851063829787234,
+        "f1_score": 0.08888888888888888
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW 3-Series 330Li M Sport [2023]?",
+        "ground_truth": "The 2023 BMW 3-Series 330Li M Sport [2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 52 Lakh and has been driven for 11,666 kilometers.",
+        "chatbot_response": "CAR 5, a 2023 BMW 3-Series 330Li M Sport [2023] in Delhi, uses Petrol as its fuel type. It is listed at \u20b952.0 Lakh and has driven 11,666 Kms.\n",
+        "bert_score": 0.9449300765991211,
+        "meteor_score": 0.4636194723151246,
+        "rouge_score": 0.634920634920635,
+        "f1_score": 0.5084745762711865
+    },
+    {
+        "question": "What is the price of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine is priced at \u20b9 37 Lakh in the Delhi used car market. This 2022 model has been driven for 31,952 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine in Delhi (CAR 5) is priced at \u20b937.0 Lakh. It's a petrol car that has driven 31,952 Kms.\n",
+        "bert_score": 0.9438918232917786,
+        "meteor_score": 0.42949969951923084,
+        "rouge_score": 0.6440677966101694,
+        "f1_score": 0.5357142857142857
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 37 Lakh and has been driven for 31,952 kilometers.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine (CAR 5) located in Delhi, has a fuel type of Petrol. Priced at \u20b937.0 Lakh, it has driven 31,952 Kms. This car is a first-owner vehicle with zero depreciation insurance.\n",
+        "bert_score": 0.9353827238082886,
+        "meteor_score": 0.32877604166666663,
+        "rouge_score": 0.537313432835821,
+        "f1_score": 0.375
+    }
+]

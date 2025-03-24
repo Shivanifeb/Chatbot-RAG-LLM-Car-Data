@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2021 Tata Safari XZA Plus 6S Adventure?",
+        "ground_truth": "The 2021 Tata Safari XZA Plus 6S Adventure is priced at \u20b9 13.5 Lakh in the Delhi used car market. This 2021 model has been driven for 1,00,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "CAR 1, a 2021 Tata Safari XZA Plus 6S Adventure, is available in Delhi for \u20b913.5 Lakh. It's a diesel car that has driven 1,00,000 Kms. While another 2021 Tata Safari XZA Plus is listed for \u20b915.5 Lakh, the first car is the one that matches the question.\n",
+        "bert_score": 0.9175845384597778,
+        "meteor_score": 0.36134651600753304,
+        "rouge_score": 0.5393258426966292,
+        "f1_score": 0.3658536585365854
+    },
+    {
+        "question": "What is the fuel type of 2021 Tata Safari XZA Plus 6S Adventure?",
+        "ground_truth": "The 2021 Tata Safari XZA Plus 6S Adventure runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 13.5 Lakh and has been driven for 1,00,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2021 Tata Safari XZA Plus 6S Adventure in Delhi, uses Diesel. It's priced at \u20b913.5 Lakh and has driven 1,00,000 Kms. There are other Tata Safari models available, but this is the specific model the user asked about.\n",
+        "bert_score": 0.9345808625221252,
+        "meteor_score": 0.4725798017334416,
+        "rouge_score": 0.6233766233766235,
+        "f1_score": 0.4225352112676056
+    },
+    {
+        "question": "What is the price of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR is priced at \u20b9 18 Lakh in the Delhi used car market. This 2021 model has been driven for 60,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found five 2021 Toyota Innova Crysta GX 2.4 AT 7 STR models in Delhi. The prices range from \u20b918.0 Lakh to \u20b921.0 Lakh. The car with URL https://www.cartrade.com/second-hand/delhi/toyota-innova-crysta/2ccbr2m6/?dc=0 is priced at \u20b918.0 Lakh, has driven 60,000 Kms, and runs on Diesel.\n",
+        "bert_score": 0.9021233320236206,
+        "meteor_score": 0.6036306542197937,
+        "rouge_score": 0.6041666666666666,
+        "f1_score": 0.5641025641025642
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 18 Lakh and has been driven for 60,000 kilometers.",
+        "chatbot_response": "I found five 2021 Toyota Innova Crysta GX 2.4 AT 7 STR listings. Four are diesel (Cars 1, 2, 3 & 5) and one is petrol (Car 4). The diesel variants are listed at \u20b918.15 Lakh, \u20b921.0 Lakh, \u20b921.0 Lakh and \u20b918.0 Lakh respectively and the petrol variant is listed at \u20b917.0 Lakh. The diesel cars have 67,707, 90,846, 90,846 and 60,000 Kms driven respectively.The petrol car has 28,000 Kms driven.\n",
+        "bert_score": 0.8736375570297241,
+        "meteor_score": 0.39026129868627774,
+        "rouge_score": 0.34782608695652173,
+        "f1_score": 0.3106796116504854
+    },
+    {
+        "question": "What is the price of 2016 Honda CR-V 2.0L 2WD AT?",
+        "ground_truth": "The 2016 Honda CR-V 2.0L 2WD AT is priced at \u20b9 7.75 Lakh in the Delhi used car market. This 2016 model has been driven for 95,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Honda CR-V 2.0L 2WD AT (CAR 1) in Delhi is listed at \u20b97.75 Lakh. This petrol variant has driven 95,000 Kms and is with its first owner. Some features include alloy wheels and a sunroof.\n",
+        "bert_score": 0.9327853322029114,
+        "meteor_score": 0.3951785011292294,
+        "rouge_score": 0.6233766233766234,
+        "f1_score": 0.45714285714285713
+    },
+    {
+        "question": "What is the fuel type of 2016 Honda CR-V 2.0L 2WD AT?",
+        "ground_truth": "The 2016 Honda CR-V 2.0L 2WD AT runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 7.75 Lakh and has been driven for 95,000 kilometers.",
+        "chatbot_response": "The 2016 Honda CR-V 2.0L 2WD AT (CAR 1) in Delhi, priced at \u20b97.75 Lakh, has a fuel type of Petrol. It has driven 95,000 Kms.\n",
+        "bert_score": 0.9488001465797424,
+        "meteor_score": 0.3095574049010856,
+        "rouge_score": 0.6451612903225806,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2020 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2020 Maruti Suzuki Baleno Delta 1.2 is priced at \u20b9 5.9 Lakh in the Delhi used car market. This 2020 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2020 Maruti Suzuki Baleno Delta 1.2 (CAR 1) in Delhi, with petrol fuel type, is priced at \u20b95.9 Lakh. It has driven 25,000 Kms and is a first-owner vehicle.\n",
+        "bert_score": 0.9455423951148987,
+        "meteor_score": 0.409797878440367,
+        "rouge_score": 0.6956521739130436,
+        "f1_score": 0.47619047619047616
+    },
+    {
+        "question": "What is the fuel type of 2020 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2020 Maruti Suzuki Baleno Delta 1.2 runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 5.9 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "The 2020 Maruti Suzuki Baleno Delta 1.2 (CAR 1) in Delhi, priced at \u20b95.9 Lakh, uses Petrol. It has driven 25,000 Kms. The available listings only contain one car matching the year, name and model mentioned in the user's query.\n",
+        "bert_score": 0.9248142838478088,
+        "meteor_score": 0.3803647704929148,
+        "rouge_score": 0.5599999999999999,
+        "f1_score": 0.4057971014492754
+    },
+    {
+        "question": "What is the price of 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT?",
+        "ground_truth": "The 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT is priced at \u20b9 4.35 Lakh in the Delhi used car market. This 2017 model has been driven for 39,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT cars in Delhi, both priced at \u20b94.35 Lakh. Both are petrol cars that have driven 39,000 Kms.\nThere is also a 2017 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT, which has an automatic transmission, available for \u20b94.35 Lakh, and has driven 46,000 Kms.\n",
+        "bert_score": 0.9133117198944092,
+        "meteor_score": 0.40216216216216216,
+        "rouge_score": 0.5306122448979592,
+        "f1_score": 0.3777777777777777
+    },
+    {
+        "question": "What is the fuel type of 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT?",
+        "ground_truth": "The 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 4.35 Lakh and has been driven for 39,000 kilometers.",
+        "chatbot_response": "The 2017 Hyundai Grand i10 Magna 1.2 Kappa VTVT cars listed (CAR 2 and CAR 3) in Delhi have a fuel type of Petrol. Both cars are priced at \u20b94.35 Lakh, have driven 39,000 Kms, and have 'Petrol' fuel type. There is also CAR 5- 2017 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT- with 'Petrol' fuel type.\n",
+        "bert_score": 0.9148622155189514,
+        "meteor_score": 0.4168212166172107,
+        "rouge_score": 0.4842105263157895,
+        "f1_score": 0.3370786516853933
+    },
+    {
+        "question": "What is the price of 2023 Kia Seltos GTX Plus 1.5 Diesel AT?",
+        "ground_truth": "The 2023 Kia Seltos GTX Plus 1.5 Diesel AT is priced at \u20b9 15.95 Lakh in the Delhi used car market. This 2023 model has been driven for 58,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found four 2023 Kia Seltos GTX Plus 1.5 Diesel AT models in Delhi. Two are priced at \u20b919.45 Lakh, with 17,000 Kms driven and two are priced at \u20b915.95 Lakh, with approximately 58,000 Kms driven.\n",
+        "bert_score": 0.9199367165565491,
+        "meteor_score": 0.3640392529281419,
+        "rouge_score": 0.5384615384615384,
+        "f1_score": 0.39436619718309857
+    },
+    {
+        "question": "What is the fuel type of 2023 Kia Seltos GTX Plus 1.5 Diesel AT?",
+        "ground_truth": "The 2023 Kia Seltos GTX Plus 1.5 Diesel AT runs on Diesel fuel. This 2023 model is available in Delhi for \u20b9 15.95 Lakh and has been driven for 58,000 kilometers.",
+        "chatbot_response": "The fuel type for the 2023 Kia Seltos GTX Plus 1.5 Diesel AT cars listed in Delhi is Diesel.\n\nCar 2: \u20b915.95 Lakh, 58,000 Kms\nCar 3 & 4: \u20b919.45 Lakh, 17,000 Kms\n",
+        "bert_score": 0.9117156863212585,
+        "meteor_score": 0.3891123757195185,
+        "rouge_score": 0.6000000000000001,
+        "f1_score": 0.4375
+    },
+    {
+        "question": "What is the price of 2019 Volvo XC60 Inscription [2017-2020]?",
+        "ground_truth": "The 2019 Volvo XC60 Inscription [2017-2020] is priced at \u20b9 32 Lakh in the Delhi used car market. This 2019 model has been driven for 74,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are three 2019 Volvo XC60 Inscription [2017-2020] models in Delhi. Two are priced at \u20b932.0 Lakh, while the other is \u20b938.99 Lakh. The \u20b938.99 Lakh car has 67,000 Kms driven, is white, and from a first owner. All three are diesel.\n",
+        "bert_score": 0.9199250340461731,
+        "meteor_score": 0.38257575757575757,
+        "rouge_score": 0.55,
+        "f1_score": 0.40540540540540543
+    },
+    {
+        "question": "What is the fuel type of 2019 Volvo XC60 Inscription [2017-2020]?",
+        "ground_truth": "The 2019 Volvo XC60 Inscription [2017-2020] runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 32 Lakh and has been driven for 74,000 kilometers.",
+        "chatbot_response": "The 2019 Volvo XC60 Inscription [2017-2020] is available in Diesel fuel type. There are three listings for this car in Delhi. Two are priced at \u20b932.0 Lakh (74,000 Kms driven), and one is priced at \u20b938.99 Lakh (67,000 Kms driven).\n",
+        "bert_score": 0.9264146089553833,
+        "meteor_score": 0.363170953312832,
+        "rouge_score": 0.5675675675675675,
+        "f1_score": 0.3823529411764706
+    },
+    {
+        "question": "What is the price of 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)?",
+        "ground_truth": "The 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) is priced at \u20b9 18.75 Lakh in the Delhi used car market. This 2015 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) in Delhi. Both are priced at \u20b918.75 Lakh, are silver, and have driven 25,000 Kms. Both are first-owner vehicles, with comprehensive insurance.\n",
+        "bert_score": 0.9239760041236877,
+        "meteor_score": 0.3531443466927338,
+        "rouge_score": 0.5599999999999999,
+        "f1_score": 0.43478260869565216
+    },
+    {
+        "question": "What is the fuel type of 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)?",
+        "ground_truth": "The 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 18.75 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "I found two listings for the 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) in Delhi(car_name:Mercedes-Benz CLA 200 Petrol Sport (CBU), year:2015, city:Delhi, price:\u20b918.75 Lakh, kms driven:25,000, fuel_type:Petrol). Both cars have a Petrol fuel type.\n",
+        "bert_score": 0.8959993720054626,
+        "meteor_score": 0.29224662896911696,
+        "rouge_score": 0.5316455696202532,
+        "f1_score": 0.28125
+    },
+    {
+        "question": "What is the price of 2021 Honda City VX Petrol?",
+        "ground_truth": "The 2021 Honda City VX Petrol is priced at \u20b9 11.5 Lakh in the Delhi used car market. This 2021 model has been driven for 3,400 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2021 Honda City VX Petrol (CAR 1) in Delhi is priced at \u20b911.5 Lakh. It's a first-owner car with only 3,400 Kms driven and has a petrol fuel type.\n",
+        "bert_score": 0.9408326745033264,
+        "meteor_score": 0.44057800700746447,
+        "rouge_score": 0.6567164179104478,
+        "f1_score": 0.5161290322580646
+    },
+    {
+        "question": "What is the fuel type of 2021 Honda City VX Petrol?",
+        "ground_truth": "The 2021 Honda City VX Petrol runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 11.5 Lakh and has been driven for 3,400 kilometers.",
+        "chatbot_response": "The 2021 Honda City VX Petrol (CAR 1) listed in Delhi, has a fuel type of Petrol. This car, manufactured in 2021, is priced at \u20b911.5 Lakh and has only 3,400 Kms driven.\n",
+        "bert_score": 0.9366248846054077,
+        "meteor_score": 0.38046299179902415,
+        "rouge_score": 0.65625,
+        "f1_score": 0.4262295081967213
+    },
+    {
+        "question": "What is the price of 2021 Honda City ZX CVT Petrol?",
+        "ground_truth": "The 2021 Honda City ZX CVT Petrol is priced at \u20b9 11.75 Lakh in the Delhi used car market. This 2021 model has been driven for 49,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2021 Honda City ZX CVT Petrol listings in Delhi. Two are priced at \u20b911.75 Lakh (31,000 and 49,000 Kms driven). The third car with the same price has done 49,000 Kms, comes in white colour and has zero dep insurance. All cars are petrol driven.\n",
+        "bert_score": 0.9095264077186584,
+        "meteor_score": 0.40609798906774985,
+        "rouge_score": 0.5116279069767442,
+        "f1_score": 0.3950617283950617
+    },
+    {
+        "question": "What is the fuel type of 2021 Honda City ZX CVT Petrol?",
+        "ground_truth": "The 2021 Honda City ZX CVT Petrol runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 11.75 Lakh and has been driven for 49,000 kilometers.",
+        "chatbot_response": "I found three 2021 Honda City ZX CVT Petrol cars in Delhi. All three cars are the same variant and fuel type. The fuel type for all three cars is Petrol. The car prices are \u20b911.75 Lakh each. These cars have driven 31,000 km, 49,000 km.\n",
+        "bert_score": 0.9170123338699341,
+        "meteor_score": 0.34542644419331253,
+        "rouge_score": 0.5063291139240507,
+        "f1_score": 0.3733333333333333
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020] is priced at \u20b9 17.7 Lakh in the Delhi used car market. This 2019 model has been driven for 84,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]. However, there are two 2019 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] diesel models in Delhi, each priced at \u20b915.75 Lakh and having driven 80,000 Kms.\n",
+        "bert_score": 0.9133257269859314,
+        "meteor_score": 0.4404946472001587,
+        "rouge_score": 0.5274725274725275,
+        "f1_score": 0.39506172839506176
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020] runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 17.7 Lakh and has been driven for 84,000 kilometers.",
+        "chatbot_response": "I don't have information about the  2.8 ZX AT 7 STR [2016-2020] model. However, I do have details on two 2019 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] models in Delhi, both diesel, priced at \u20b915.75 Lakh and having driven 80,000 Kms.\n",
+        "bert_score": 0.918500542640686,
+        "meteor_score": 0.4310038660970684,
+        "rouge_score": 0.5287356321839081,
+        "f1_score": 0.3896103896103896
+    },
+    {
+        "question": "What is the price of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine is priced at \u20b9 37.5 Lakh in the Delhi used car market. This 2022 model has been driven for 13,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine in Delhi (CAR 5) is priced at \u20b937.0 Lakh. It's a petrol car that has driven 31,952 Kms. It is owned by a single owner.\n",
+        "bert_score": 0.9354345202445984,
+        "meteor_score": 0.37749912922326717,
+        "rouge_score": 0.5373134328358209,
+        "f1_score": 0.4444444444444444
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 37.5 Lakh and has been driven for 13,000 kilometers.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine (CAR 5) in Delhi has a petrol fuel type. It's priced at \u20b937.0 Lakh and has driven 31,952 Kms. This car has first owner and valid insurance till February 2026.\n",
+        "bert_score": 0.925881564617157,
+        "meteor_score": 0.39753401360544216,
+        "rouge_score": 0.5,
+        "f1_score": 0.40625000000000006
+    },
+    {
+        "question": "What is the price of 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021]?",
+        "ground_truth": "The 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] is priced at \u20b9 24.5 Lakh in the Delhi used car market. This 2023 model has been driven for 14,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two listings for the 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] in Delhi, both priced at \u20b924.5 Lakh. Both cars are petrol models, have driven 14,000 Kms, and are listed as having a single owner.\n",
+        "bert_score": 0.9376169443130493,
+        "meteor_score": 0.4625670241286864,
+        "rouge_score": 0.6585365853658537,
+        "f1_score": 0.4675324675324675
+    },
+    {
+        "question": "What is the fuel type of 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021]?",
+        "ground_truth": "The 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 24.5 Lakh and has been driven for 14,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] cars in Delhi, both priced at \u20b924.5 Lakh. Both have a fuel type of Petrol, and have driven 14,000 Kms.\nKey features: car_name: Jeep Compass, year: 2023, city: Delhi, price: \u20b924.5 Lakh, kms driven: 14,000, fuel_type: Petrol.\n",
+        "bert_score": 0.9105698466300964,
+        "meteor_score": 0.3326416015625,
+        "rouge_score": 0.5154639175257731,
+        "f1_score": 0.3409090909090909
+    },
+    {
+        "question": "What is the price of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine is priced at \u20b9 37.5 Lakh in the Delhi used car market. This 2022 model has been driven for 13,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine in Delhi (CAR 5) is priced at \u20b937.0 Lakh. It's a Petrol car that has driven 31,952 Kms. It is listed as being in pristine condition.\n",
+        "bert_score": 0.934665858745575,
+        "meteor_score": 0.3763194444444445,
+        "rouge_score": 0.5294117647058822,
+        "f1_score": 0.46875
+    },
+    {
+        "question": "What is the fuel type of 2022 BMW X1 sDrive20i xLine?",
+        "ground_truth": "The 2022 BMW X1 sDrive20i xLine runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 37.5 Lakh and has been driven for 13,000 kilometers.",
+        "chatbot_response": "The 2022 BMW X1 sDrive20i xLine (CAR 5) is located in Delhi and runs on Petrol. It's priced at \u20b937.0 Lakh and has driven 31,952 Kms.\n",
+        "bert_score": 0.9474433064460754,
+        "meteor_score": 0.49864108713029576,
+        "rouge_score": 0.6206896551724138,
+        "f1_score": 0.5555555555555555
+    },
+    {
+        "question": "What is the price of 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021]?",
+        "ground_truth": "The 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] is priced at \u20b9 24.5 Lakh in the Delhi used car market. This 2023 model has been driven for 14,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] in Delhi, both priced at \u20b924.5 Lakh. Both have driven 14,000 Kms and run on Petrol. They are both listed as first-owner vehicles.\n",
+        "bert_score": 0.9414281845092773,
+        "meteor_score": 0.46381048387096785,
+        "rouge_score": 0.6585365853658537,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021]?",
+        "ground_truth": "The 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 24.5 Lakh and has been driven for 14,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2023 Jeep Compass Model S (O) 1.4 Petrol DCT [2021] cars in Delhi, both priced at \u20b924.5 Lakh. Both have a petrol fuel type, have driven 14,000 Kms, are black, and are listed as having a single owner.\n",
+        "bert_score": 0.9210972785949707,
+        "meteor_score": 0.4284907240207007,
+        "rouge_score": 0.5714285714285715,
+        "f1_score": 0.379746835443038
+    },
+    {
+        "question": "What is the price of 2019 Volvo XC60 Inscription [2017-2020]?",
+        "ground_truth": "The 2019 Volvo XC60 Inscription [2017-2020] is priced at \u20b9 32 Lakh in the Delhi used car market. This 2019 model has been driven for 74,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are three 2019 Volvo XC60 Inscription [2017-2020] listings in Delhi. Two are priced at \u20b932.0 Lakh, and one at \u20b938.99 Lakh. The \u20b938.99 Lakh car is a first-owner, white, diesel car that has driven 67,000 Kms. The other two are second-owner, brown, diesel cars that have driven 74,000 Kms.\n",
+        "bert_score": 0.9060600399971008,
+        "meteor_score": 0.37845167652859957,
+        "rouge_score": 0.48351648351648346,
+        "f1_score": 0.39024390243902435
+    },
+    {
+        "question": "What is the fuel type of 2019 Volvo XC60 Inscription [2017-2020]?",
+        "ground_truth": "The 2019 Volvo XC60 Inscription [2017-2020] runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 32 Lakh and has been driven for 74,000 kilometers.",
+        "chatbot_response": "The 2019 Volvo XC60 Inscription [2017-2020] listings in Delhi are all diesel. CAR 1 (\u20b938.99 Lakh, 67,000 Kms, First Owner, White), CAR 2 & 3 (\u20b932.0 Lakh, 74,000 Kms, Second Owner, Brown).\n",
+        "bert_score": 0.8927714228630066,
+        "meteor_score": 0.28973222048339425,
+        "rouge_score": 0.43076923076923074,
+        "f1_score": 0.30000000000000004
+    },
+    {
+        "question": "What is the price of 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)?",
+        "ground_truth": "The 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) is priced at \u20b9 18.75 Lakh in the Delhi used car market. This 2015 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the **2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)** in **Delhi**. Both are priced at **\u20b918.75 Lakh**. Each car is a **petrol** variant, has driven **25,000 Kms**, and is listed by its first owner.\n",
+        "bert_score": 0.9104681611061096,
+        "meteor_score": 0.32441860465116273,
+        "rouge_score": 0.6493506493506495,
+        "f1_score": 0.41666666666666663
+    },
+    {
+        "question": "What is the fuel type of 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)?",
+        "ground_truth": "The 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 18.75 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU) cars in Delhi, both with Petrol fuel type. They are priced at \u20b918.75 Lakh, have driven 25,000 Kms, and are located in Delhi.\n\nCAR_NAME: 2015 Mercedes-Benz CLA 200 Petrol Sport (CBU)\nYEAR: 2015\nCITY: Delhi\nPRICE: \u20b918.75 Lakh\nKMS DRIVEN: 25,000 Kms\nFUEL_TYPE: Petrol\n",
+        "bert_score": 0.894375741481781,
+        "meteor_score": 0.4480863363996962,
+        "rouge_score": 0.4489795918367347,
+        "f1_score": 0.3181818181818182
+    },
+    {
+        "question": "What is the price of 2022 Toyota Urban Cruiser High Grade MT?",
+        "ground_truth": "The 2022 Toyota Urban Cruiser High Grade MT is priced at \u20b9 9 Lakh in the Delhi used car market. This 2022 model has been driven for 20,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 Toyota Urban Cruiser High Grade MT (CAR 1) in Delhi, is priced at \u20b99.0 Lakh. It's a Petrol car with 20,000 Kms driven.\n",
+        "bert_score": 0.9416335821151733,
+        "meteor_score": 0.4187982544478013,
+        "rouge_score": 0.6451612903225806,
+        "f1_score": 0.5084745762711865
+    },
+    {
+        "question": "What is the fuel type of 2022 Toyota Urban Cruiser High Grade MT?",
+        "ground_truth": "The 2022 Toyota Urban Cruiser High Grade MT runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 9 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2022 Toyota Urban Cruiser High Grade MT in Delhi, uses Petrol. It's priced at \u20b99.0 Lakh and has 20,000 Kms driven. Several other 2022 Toyota Urban Cruisers are listed, but this is the only High Grade MT model.\n",
+        "bert_score": 0.929522693157196,
+        "meteor_score": 0.4308807274919614,
+        "rouge_score": 0.5945945945945945,
+        "f1_score": 0.36619718309859156
+    },
+    {
+        "question": "What is the price of 2018 Toyota Yaris VX CVT [2018-2020]?",
+        "ground_truth": "The 2018 Toyota Yaris VX CVT [2018-2020] is priced at \u20b9 9 Lakh in the Delhi used car market. This 2018 model has been driven for 42,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2018 Toyota Yaris VX CVT [2018-2020] cars in Delhi, both priced at \u20b99.0 Lakh. One has 49,000 Kms driven with expired insurance, while the other has 42,000 Kms driven with comprehensive insurance. Both are petrol cars and have first owners.\n",
+        "bert_score": 0.9136083126068115,
+        "meteor_score": 0.3941291360294118,
+        "rouge_score": 0.5185185185185186,
+        "f1_score": 0.368421052631579
+    },
+    {
+        "question": "What is the fuel type of 2018 Toyota Yaris VX CVT [2018-2020]?",
+        "ground_truth": "The 2018 Toyota Yaris VX CVT [2018-2020] runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 9 Lakh and has been driven for 42,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7980731129646301,
+        "meteor_score": 0.06893382352941177,
+        "rouge_score": 0.09523809523809522,
+        "f1_score": 0.1
+    },
+    {
+        "question": "What is the price of 2023 Toyota Fortuner 2.8 4X2 AT?",
+        "ground_truth": "The 2023 Toyota Fortuner 2.8 4X2 AT is priced at \u20b9 41.5 Lakh in the Delhi used car market. This 2023 model has been driven for 57,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2023 Toyota Fortuner 2.8 4X2 AT in Delhi is priced at \u20b941.5 Lakh. This diesel-fueled vehicle has driven 57,000 Kms and is listed by its first owner. You can find more details at URL: https://www.cartrade.com/second-hand/delhi/toyota-fortuner/6uiac802/?dc=0.\n",
+        "bert_score": 0.9058575630187988,
+        "meteor_score": 0.367945800471752,
+        "rouge_score": 0.558139534883721,
+        "f1_score": 0.49275362318840576
+    },
+    {
+        "question": "What is the fuel type of 2023 Toyota Fortuner 2.8 4X2 AT?",
+        "ground_truth": "The 2023 Toyota Fortuner 2.8 4X2 AT runs on Diesel fuel. This 2023 model is available in Delhi for \u20b9 41.5 Lakh and has been driven for 57,000 kilometers.",
+        "chatbot_response": "CAR 2, a 2023 Toyota Fortuner 2.8 4X2 AT in Delhi, uses Diesel. It's priced at \u20b941.5 Lakh and has driven 57,000 Kms.\nThere are other Toyota Fortuner cars in the listing, but only one that matches the 2.8 4X2 AT configuration.\n",
+        "bert_score": 0.9248142242431641,
+        "meteor_score": 0.379049739293456,
+        "rouge_score": 0.48717948717948717,
+        "f1_score": 0.3380281690140845
+    },
+    {
+        "question": "What is the price of 2015 Toyota Corolla Altis 1.8 J?",
+        "ground_truth": "The 2015 Toyota Corolla Altis 1.8 J is priced at \u20b9 5.75 Lakh in the Delhi used car market. This 2015 model has been driven for 1,22,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Toyota Corolla Altis 1.8 J, located in Delhi, is priced at \u20b95.75 Lakh. It's a petrol car that has driven 1,22,000 Kms. There are other Toyota Corolla Altis available in Delhi but the specified model is the most relevant one in the context.\n",
+        "bert_score": 0.9345546960830688,
+        "meteor_score": 0.40249801458378454,
+        "rouge_score": 0.5813953488372093,
+        "f1_score": 0.4358974358974359
+    },
+    {
+        "question": "What is the fuel type of 2015 Toyota Corolla Altis 1.8 J?",
+        "ground_truth": "The 2015 Toyota Corolla Altis 1.8 J runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 5.75 Lakh and has been driven for 1,22,000 kilometers.",
+        "chatbot_response": "The 2015 Toyota Corolla Altis 1.8 J (CAR 4) in Delhi, priced at \u20b95.75 Lakh, has a fuel type of Petrol. It has been driven for 1,22,000 Kms and is a first-owner vehicle.\n",
+        "bert_score": 0.9484869837760925,
+        "meteor_score": 0.4842781557067271,
+        "rouge_score": 0.6857142857142857,
+        "f1_score": 0.4838709677419355
+    },
+    {
+        "question": "What is the price of 2022 Toyota Camry Hybrid?",
+        "ground_truth": "The 2022 Toyota Camry Hybrid is priced at \u20b9 35.25 Lakh in the Delhi used car market. This 2022 model has been driven for 36,000 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "The 2022 Toyota Camry Hybrid in Delhi is priced at \u20b935.25 Lakh. This hybrid (Electric + Petrol) car has driven 36,000 Kms and is listed by its first owner. Key features include Alloy Wheels, Rear view Camera, and Service History. Visit URL: https://www.cartrade.com/second-hand/delhi/toyota-camry/q2g2ynva/?dc=0 for more information.\n",
+        "bert_score": 0.8963411450386047,
+        "meteor_score": 0.4878826530612245,
+        "rouge_score": 0.5217391304347826,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2022 Toyota Camry Hybrid?",
+        "ground_truth": "The 2022 Toyota Camry Hybrid runs on Hybrid (Electric + Petrol) fuel. This 2022 model is available in Delhi for \u20b9 35.25 Lakh and has been driven for 36,000 kilometers.",
+        "chatbot_response": "The 2022 Toyota Camry Hybrid (CAR 1) listed in Delhi has a fuel type of Hybrid (Electric + Petrol). It's priced at \u20b935.25 Lakh and has driven 36,000 Kms. Other Camry Hybrid models are available, but only CAR 1 is from 2022.\n",
+        "bert_score": 0.9379274249076843,
+        "meteor_score": 0.4230436518498802,
+        "rouge_score": 0.6216216216216216,
+        "f1_score": 0.41666666666666663
+    },
+    {
+        "question": "What is the price of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR is priced at \u20b9 21 Lakh in the Delhi used car market. This 2021 model has been driven for 90,846 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are multiple 2021 Toyota Innova Crysta GX 2.4 AT 7 STR models in Delhi. Prices range from \u20b918.0 Lakh to \u20b921.0 Lakh. The \u20b918.0 Lakh option has 60,000 Kms driven, is diesel, and includes alloy wheels and a rear view camera.\n",
+        "bert_score": 0.9086520671844482,
+        "meteor_score": 0.3827972847769773,
+        "rouge_score": 0.5238095238095238,
+        "f1_score": 0.3846153846153846
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 21 Lakh and has been driven for 90,846 kilometers.",
+        "chatbot_response": "I found five 2021 Toyota Innova Crysta GX 2.4 AT 7 STR listings in Delhi. Four are diesel(CAR 1, CAR 2, CAR 3, CAR 5) and one is petrol(CAR 4). CAR 1 is \u20b918.15 Lakh, 67,707 Kms driven, CAR 5 is \u20b918.0 Lakh, 60,000 Kms driven, CAR 2 and CAR 3 are \u20b921.0 Lakh, 90,846 Kms driven and CAR 4(2020 model) is petrol with \u20b917.0 Lakh and 28,000 Kms driven.\n",
+        "bert_score": 0.8797478675842285,
+        "meteor_score": 0.39770328988206083,
+        "rouge_score": 0.3652173913043478,
+        "f1_score": 0.2941176470588235
+    },
+    {
+        "question": "What is the price of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR is priced at \u20b9 21 Lakh in the Delhi used car market. This 2021 model has been driven for 90,846 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found five 2021 Toyota Innova Crysta GX 2.4 AT 7 STR models in Delhi. The prices range from \u20b918.0 Lakh to \u20b921.0 Lakh. CAR 2 is priced at \u20b918.0 Lakh and has 60,000 Kms driven and CAR 3 and CAR 5 are priced at \u20b921.0 Lakh and have 90,846 Kms driven. All are diesel models.\n",
+        "bert_score": 0.9100682735443115,
+        "meteor_score": 0.4675946063505872,
+        "rouge_score": 0.52,
+        "f1_score": 0.41304347826086957
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Innova Crysta GX 2.4 AT 7 STR?",
+        "ground_truth": "The 2021 Toyota Innova Crysta GX 2.4 AT 7 STR runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 21 Lakh and has been driven for 90,846 kilometers.",
+        "chatbot_response": "I found five 2021 Toyota Innova Crysta cars. Four of them are the \"GX 2.4 AT 7 STR\" model with a diesel fuel type(\u20b918.15 Lakh - \u20b921.0 Lakh, 60,000-90,846 Kms). The other one is \"2.7 GX AT 7 STR [2016-2020]\" model with a petrol fuel type (\u20b917.0 Lakh, 28,000 Kms).\n",
+        "bert_score": 0.8852230310440063,
+        "meteor_score": 0.3387272068590749,
+        "rouge_score": 0.40860215053763443,
+        "f1_score": 0.3170731707317073
+    },
+    {
+        "question": "What is the price of 2023 Toyota Glanza G?",
+        "ground_truth": "The 2023 Toyota Glanza G is priced at \u20b9 7.9 Lakh in the Delhi used car market. This 2023 model has been driven for 56,850 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2023 Toyota Glanza G models listed in Delhi. One is priced at \u20b97.9 Lakh (56,850 Kms driven), and the other is an AMT version priced at \u20b99.0 Lakh (2,400 Kms driven). Both run on Petrol.\n",
+        "bert_score": 0.9119183421134949,
+        "meteor_score": 0.36116654863838277,
+        "rouge_score": 0.5675675675675675,
+        "f1_score": 0.34782608695652173
+    },
+    {
+        "question": "What is the fuel type of 2023 Toyota Glanza G?",
+        "ground_truth": "The 2023 Toyota Glanza G runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 7.9 Lakh and has been driven for 56,850 kilometers.",
+        "chatbot_response": "The 2023 Toyota Glanza G models listed in Delhi all have a fuel type of Petrol. CAR 2, a 2023 Toyota Glanza G (\u20b97.9 Lakh) has driven 56,850 Kms. CAR 1, a 2023 Toyota Glanza G AMT (\u20b99.0 Lakh) has only driven 2,400 Kms.\n",
+        "bert_score": 0.9113417863845825,
+        "meteor_score": 0.32992160278745647,
+        "rouge_score": 0.4736842105263159,
+        "f1_score": 0.2816901408450704
+    }
+]

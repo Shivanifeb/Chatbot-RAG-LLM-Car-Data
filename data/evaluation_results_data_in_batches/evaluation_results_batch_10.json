@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2016 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2016 Maruti Suzuki Baleno Delta 1.2 is priced at \u20b9 4.09 Lakh in the Delhi used car market. This 2016 model has been driven for 59,274 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Maruti Suzuki Baleno Delta 1.2, located in Delhi and running on Petrol, is priced at \u20b94.6 Lakh. It has been driven for 47,000 Kms and is a second owner car.\n",
+        "bert_score": 0.9533764123916626,
+        "meteor_score": 0.5002063867312094,
+        "rouge_score": 0.6857142857142857,
+        "f1_score": 0.5230769230769231
+    },
+    {
+        "question": "What is the fuel type of 2016 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2016 Maruti Suzuki Baleno Delta 1.2 runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 4.09 Lakh and has been driven for 59,274 kilometers.",
+        "chatbot_response": "The 2016 Maruti Suzuki Baleno Delta 1.2 is available in the listings. CAR 1 and CAR 5, both 2016 Maruti Suzuki Baleno Delta 1.2 models in Delhi, are petrol cars. CAR 1 is priced at \u20b94.6 Lakh and has driven 47,000 Kms, while CAR 5 costs \u20b94.09 Lakh and has driven 59,274 Kms.\n",
+        "bert_score": 0.9166576862335205,
+        "meteor_score": 0.48832271762208074,
+        "rouge_score": 0.5111111111111112,
+        "f1_score": 0.36585365853658536
+    },
+    {
+        "question": "What is the price of 2019 Hyundai Creta 1.6 SX (O)?",
+        "ground_truth": "The 2019 Hyundai Creta 1.6 SX (O) is priced at \u20b9 10.49 Lakh in the Delhi used car market. This 2019 model has been driven for 72,781 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about the \"1.6 SX (O)\" variant. However, I found two 2019 Hyundai Creta 1.6 SX Plus AT Diesel in Delhi priced at \u20b910.25 Lakh each, with 45,000 Kms driven. I also found a 2019 Hyundai Creta 1.6 SX Plus AT Petrol in Delhi priced at \u20b99.99 Lakh with 37,500 Kms driven.\n",
+        "bert_score": 0.8990439176559448,
+        "meteor_score": 0.3080453200645508,
+        "rouge_score": 0.3469387755102041,
+        "f1_score": 0.27272727272727276
+    },
+    {
+        "question": "What is the fuel type of 2019 Hyundai Creta 1.6 SX (O)?",
+        "ground_truth": "The 2019 Hyundai Creta 1.6 SX (O) runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 10.49 Lakh and has been driven for 72,781 kilometers.",
+        "chatbot_response": "I don't have information about a \"2019 Hyundai Creta 1.6 SX (O)\". However, I found two 2019 Hyundai Creta 1.6 SX Plus AT models in Delhi (Car 3 & 4), both diesel, priced at \u20b910.25 Lakh, and having driven 45,000 Kms. There is also a 2019 Hyundai Creta 1.6 SX Plus AT Petrol (Car 2) listed at \u20b99.99 Lakh, having driven 37,500 Kms.\n",
+        "bert_score": 0.8995749950408936,
+        "meteor_score": 0.31550068587105623,
+        "rouge_score": 0.33663366336633666,
+        "f1_score": 0.21739130434782608
+    },
+    {
+        "question": "What is the price of 2018 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2018 Mercedes-Benz GLE 250 d is priced at \u20b9 32.5 Lakh in the Delhi used car market. This 2018 model has been driven for 80,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2018 Mercedes-Benz GLE 250 d models available in Delhi, both priced at \u20b932.5 Lakh. Both are diesel cars and have driven 80,000 Kms.\n(car_name: Mercedes-Benz GLE 250 d, year: 2018, city: Delhi, price: \u20b932.5 Lakh, kms driven: 80,000, fuel_type: Diesel).\n",
+        "bert_score": 0.9089152812957764,
+        "meteor_score": 0.32038041802823847,
+        "rouge_score": 0.5176470588235293,
+        "f1_score": 0.29333333333333333
+    },
+    {
+        "question": "What is the fuel type of 2018 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2018 Mercedes-Benz GLE 250 d runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 32.5 Lakh and has been driven for 80,000 kilometers.",
+        "chatbot_response": "The 2018 Mercedes-Benz GLE 250 d (CAR 4 & CAR 5) in Delhi, both priced at \u20b932.5 Lakh, have a fuel type of Diesel. Both cars have driven 80,000 Kms. Car Name: Mercedes-Benz GLE 250 d, Year: 2018, City: Delhi, Fuel Type: Diesel.\n",
+        "bert_score": 0.918889045715332,
+        "meteor_score": 0.2333124084536514,
+        "rouge_score": 0.47368421052631576,
+        "f1_score": 0.25352112676056343
+    },
+    {
+        "question": "What is the price of 2023 Mercedes-Benz EQB 350 4MATIC?",
+        "ground_truth": "The 2023 Mercedes-Benz EQB 350 4MATIC is priced at \u20b9 55 Lakh in the Delhi used car market. This 2023 model has been driven for 14,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "I found four 2023 Mercedes-Benz EQB 350 4MATIC cars in Delhi, all priced at \u20b955.0 Lakh. They are electric vehicles. CAR 4 has the least distance driven(13,517 Kms), while CAR 3 has 15,747 Kms driven.\n",
+        "bert_score": 0.9036385416984558,
+        "meteor_score": 0.3164774681802545,
+        "rouge_score": 0.4657534246575342,
+        "f1_score": 0.29850746268656714
+    },
+    {
+        "question": "What is the fuel type of 2023 Mercedes-Benz EQB 350 4MATIC?",
+        "ground_truth": "The 2023 Mercedes-Benz EQB 350 4MATIC runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 55 Lakh and has been driven for 14,000 kilometers.",
+        "chatbot_response": "The 2023 Mercedes-Benz EQB 350 4MATIC cars listed in Delhi (CAR 1, CAR 2, CAR 3, and CAR 4) are all electric vehicles. The price for each is \u20b955.0 Lakh. Mileage varies, ranging from 13,517 Kms to 15,747 Kms.\n",
+        "bert_score": 0.8980703949928284,
+        "meteor_score": 0.3512791141657121,
+        "rouge_score": 0.41666666666666663,
+        "f1_score": 0.32835820895522383
+    },
+    {
+        "question": "What is the price of 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT?",
+        "ground_truth": "The 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT is priced at \u20b9 5.25 Lakh in the Delhi used car market. This 2019 model has been driven for 52,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT (CAR 1) in Delhi is priced at \u20b95.25 Lakh. It's a petrol car that has driven 52,000 Kms. The car is listed as being in immaculate condition and is being sold by its first owner.\n",
+        "bert_score": 0.9340847730636597,
+        "meteor_score": 0.5193845326883021,
+        "rouge_score": 0.6206896551724138,
+        "f1_score": 0.49382716049382713
+    },
+    {
+        "question": "What is the fuel type of 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT?",
+        "ground_truth": "The 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 5.25 Lakh and has been driven for 52,000 kilometers.",
+        "chatbot_response": "The 2019 Hyundai Grand i10 Magna AT 1.2 Kappa VTVT (CAR 1) in Delhi is a petrol (fuel_type) car. It's priced at \u20b95.25 Lakh (price) and has driven 52,000 Kms (kms driven). The car's manufacturing year (year) is 2019.\n",
+        "bert_score": 0.92540043592453,
+        "meteor_score": 0.507848568790397,
+        "rouge_score": 0.6329113924050633,
+        "f1_score": 0.5070422535211268
+    },
+    {
+        "question": "What is the price of 2015 Honda City VX?",
+        "ground_truth": "The 2015 Honda City VX is priced at \u20b9 5.19 Lakh in the Delhi used car market. This 2015 model has been driven for 48,038 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are four 2015 Honda City VX models listed in Delhi. The prices are: \u20b95.75 Lakh (34,000 Kms driven), \u20b95.19 Lakh (48,038 Kms driven, two listings), and one CVT version at \u20b95.9 Lakh (56,226 Kms driven) and another CVT version at \u20b95.4 Lakh (98,000 Kms driven). All are petrol cars.\n",
+        "bert_score": 0.8871910572052002,
+        "meteor_score": 0.25920297196892944,
+        "rouge_score": 0.42222222222222217,
+        "f1_score": 0.22222222222222224
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda City VX?",
+        "ground_truth": "The 2015 Honda City VX runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 5.19 Lakh and has been driven for 48,038 kilometers.",
+        "chatbot_response": "The listed 2015 Honda City VX cars in Delhi (CAR 2, CAR 3, and CAR 4) all run on petrol.\nCAR 4, priced at \u20b95.75 Lakh and driven 34,000 Kms, has comprehensive insurance. The other two are listed at \u20b95.19 Lakh with 48,038 Kms driven and expired insurance.\n",
+        "bert_score": 0.9000194668769836,
+        "meteor_score": 0.39343572480538613,
+        "rouge_score": 0.45,
+        "f1_score": 0.3466666666666667
+    },
+    {
+        "question": "What is the price of 2018 BMW 3 Series GT 320d Luxury Line [2014-2016]?",
+        "ground_truth": "The 2018 BMW 3 Series GT 320d Luxury Line [2014-2016] is priced at \u20b9 25.99 Lakh in the Delhi used car market. This 2018 model has been driven for 30,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two 2018 BMW 3 Series GT 320d Luxury Line [2014-2016] in Delhi. One is \u20b921.9 Lakh (70,000 Kms driven), and the other is \u20b925.99 Lakh (30,000 Kms driven). Both are diesel cars. The second option is certified and less driven.\n",
+        "bert_score": 0.9158756732940674,
+        "meteor_score": 0.3982560621584699,
+        "rouge_score": 0.5647058823529411,
+        "f1_score": 0.3846153846153846
+    },
+    {
+        "question": "What is the fuel type of 2018 BMW 3 Series GT 320d Luxury Line [2014-2016]?",
+        "ground_truth": "The 2018 BMW 3 Series GT 320d Luxury Line [2014-2016] runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 25.99 Lakh and has been driven for 30,000 kilometers.",
+        "chatbot_response": "I found two listings for the 2018 BMW 3 Series GT 320d Luxury Line [2014-2016] in Delhi. Both are diesel: one is priced at \u20b921.9 Lakh, driven 70,000 Kms, and the other at \u20b925.99 Lakh, driven 30,000 Kms.\n",
+        "bert_score": 0.9218296408653259,
+        "meteor_score": 0.44712183665644173,
+        "rouge_score": 0.5974025974025974,
+        "f1_score": 0.4285714285714286
+    },
+    {
+        "question": "What is the price of 2016 Porsche Cayenne Platinum Edition?",
+        "ground_truth": "The 2016 Porsche Cayenne Platinum Edition is priced at \u20b9 45 Lakh in the Delhi used car market. This 2016 model has been driven for 54,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Porsche Cayenne Platinum Edition, located in Delhi, is priced at \u20b945.0 Lakh. It's a petrol car that has been driven 54,000 Kms.\n",
+        "bert_score": 0.9472656846046448,
+        "meteor_score": 0.4288461538461539,
+        "rouge_score": 0.6779661016949152,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2016 Porsche Cayenne Platinum Edition?",
+        "ground_truth": "The 2016 Porsche Cayenne Platinum Edition runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 45 Lakh and has been driven for 54,000 kilometers.",
+        "chatbot_response": "The 2016 Porsche Cayenne Platinum Edition (Delhi) listed for \u20b945.0 Lakh, has a fuel type of Petrol. It has 54,000 Kms driven.\n",
+        "bert_score": 0.9405940175056458,
+        "meteor_score": 0.2798053527980536,
+        "rouge_score": 0.6153846153846153,
+        "f1_score": 0.36000000000000004
+    },
+    {
+        "question": "What is the price of 2016 Mercedes-Benz GLS 350 d?",
+        "ground_truth": "The 2016 Mercedes-Benz GLS 350 d is priced at \u20b9 38.51 Lakh in the Delhi used car market. This 2016 model has been driven for 50,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2016 Mercedes-Benz GLS 350 d in Delhi (CAR 2) is priced at \u20b938.51 Lakh. It's a diesel car with 50,000 Kms driven. There's also a 2016 Mercedes-Benz GLS 400 4MATIC (CAR 1), a petrol car, priced at \u20b942.51 Lakh with 1,10,000 Kms driven.\n",
+        "bert_score": 0.9168534874916077,
+        "meteor_score": 0.3526802522590362,
+        "rouge_score": 0.48275862068965514,
+        "f1_score": 0.3684210526315789
+    },
+    {
+        "question": "What is the fuel type of 2016 Mercedes-Benz GLS 350 d?",
+        "ground_truth": "The 2016 Mercedes-Benz GLS 350 d runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 38.51 Lakh and has been driven for 50,000 kilometers.",
+        "chatbot_response": "The 2016 Mercedes-Benz GLS 350 d, located in Delhi (CAR 1), is a diesel variant. Priced at \u20b938.51 Lakh, it has 50,000 Kms driven. There is also a 2016 Mercedes-Benz GLS 400 4MATIC (CAR 2) that runs on Petrol and is priced at \u20b942.51 Lakh.\n",
+        "bert_score": 0.9207670092582703,
+        "meteor_score": 0.40546202768424994,
+        "rouge_score": 0.5499999999999999,
+        "f1_score": 0.3561643835616438
+    },
+    {
+        "question": "What is the price of 2013 Maruti Suzuki Ritz Vxi AT BS-IV?",
+        "ground_truth": "The 2013 Maruti Suzuki Ritz Vxi AT BS-IV is priced at \u20b9 3 Lakh in the Delhi used car market. This 2013 model has been driven for 36,470 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2013 Maruti Suzuki Ritz Vxi AT BS-IV in Delhi (CAR 1) is priced at \u20b93.0 Lakh. It's a petrol car that has driven 36,470 Kms.\n",
+        "bert_score": 0.9473936557769775,
+        "meteor_score": 0.4803008329614755,
+        "rouge_score": 0.6769230769230768,
+        "f1_score": 0.5666666666666668
+    },
+    {
+        "question": "What is the fuel type of 2013 Maruti Suzuki Ritz Vxi AT BS-IV?",
+        "ground_truth": "The 2013 Maruti Suzuki Ritz Vxi AT BS-IV runs on Petrol fuel. This 2013 model is available in Delhi for \u20b9 3 Lakh and has been driven for 36,470 kilometers.",
+        "chatbot_response": "The 2013 Maruti Suzuki Ritz Vxi AT BS-IV (CAR 1) in Delhi is listed as a Petrol car. Priced at \u20b93.0 Lakh, it has driven 36,470 Kms. There is another 2013 Maruti Suzuki Ritz Vxi BS-IV (CAR 2) which is a Petrol + CNG car.\n",
+        "bert_score": 0.924852728843689,
+        "meteor_score": 0.42540922619047616,
+        "rouge_score": 0.5063291139240507,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2017 Maruti Suzuki Swift Lxi ABS [2014-2017]?",
+        "ground_truth": "The 2017 Maruti Suzuki Swift Lxi ABS [2014-2017] is priced at \u20b9 4 Lakh in the Delhi used car market. This 2017 model has been driven for 85,000 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7990223169326782,
+        "meteor_score": 0.05597014925373134,
+        "rouge_score": 0.08333333333333333,
+        "f1_score": 0.0851063829787234
+    },
+    {
+        "question": "What is the fuel type of 2017 Maruti Suzuki Swift Lxi ABS [2014-2017]?",
+        "ground_truth": "The 2017 Maruti Suzuki Swift Lxi ABS [2014-2017] runs on Petrol + CNG fuel. This 2017 model is available in Delhi for \u20b9 4 Lakh and has been driven for 85,000 kilometers.",
+        "chatbot_response": "I found two listings for the 2017 Maruti Suzuki Swift Lxi ABS [2014-2017] in Delhi. One (CAR 1) is a Petrol + CNG variant priced at \u20b94.0 Lakh, having driven 85,000 Kms. The other (CAR 2) is a Petrol variant priced at \u20b93.61 Lakh, having driven 69,759 Kms.\n",
+        "bert_score": 0.9096798896789551,
+        "meteor_score": 0.418061755952381,
+        "rouge_score": 0.4761904761904762,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2018 Toyota Yaris V MT?",
+        "ground_truth": "The 2018 Toyota Yaris V MT is priced at \u20b9 7.5 Lakh in the Delhi used car market. This 2018 model has been driven for 52,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2018 Toyota Yaris V MTs in Delhi. The prices range from \u20b97.4 Lakh to \u20b98.25 Lakh. Car 3 is the least expensive at \u20b97.4 Lakh, having run 65,663 Kms. All are petrol cars.\n",
+        "bert_score": 0.9058095216751099,
+        "meteor_score": 0.34444444444444444,
+        "rouge_score": 0.4383561643835617,
+        "f1_score": 0.29411764705882354
+    },
+    {
+        "question": "What is the fuel type of 2018 Toyota Yaris V MT?",
+        "ground_truth": "The 2018 Toyota Yaris V MT runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 7.5 Lakh and has been driven for 52,000 kilometers.",
+        "chatbot_response": "The 2018 Toyota Yaris V MT cars listed in Delhi all run on petrol. There are multiple listings with prices ranging from \u20b97.4 Lakh to \u20b98.25 Lakh and kilometer driven between 37,000 and 65,663 Kms.\n",
+        "bert_score": 0.9059330821037292,
+        "meteor_score": 0.40018143207636636,
+        "rouge_score": 0.5,
+        "f1_score": 0.38095238095238093
+    },
+    {
+        "question": "What is the price of 2020 BMW 5-Series 530i Sport Line?",
+        "ground_truth": "The 2020 BMW 5-Series 530i Sport Line is priced at \u20b9 52 Lakh in the Delhi used car market. This 2020 model has been driven for 2,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two listings for the 2020 BMW 5-Series 530i Sport Line in Delhi, both priced at \u20b952.0 Lakh. Both are petrol cars, have been driven only 2,000 Kms, and have had only one previous owner.\n",
+        "bert_score": 0.9243878126144409,
+        "meteor_score": 0.42182807807807815,
+        "rouge_score": 0.6027397260273972,
+        "f1_score": 0.43478260869565216
+    },
+    {
+        "question": "What is the fuel type of 2020 BMW 5-Series 530i Sport Line?",
+        "ground_truth": "The 2020 BMW 5-Series 530i Sport Line runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 52 Lakh and has been driven for 2,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2020 BMW 5-Series 530i Sport Line cars available in Delhi, both with a fuel type of Petrol. Both cars are priced at \u20b952.0 Lakh, have driven only 2,000 Kms, and are listed as first-owner vehicles.\n",
+        "bert_score": 0.9196163415908813,
+        "meteor_score": 0.3778028651510432,
+        "rouge_score": 0.5194805194805194,
+        "f1_score": 0.3333333333333333
+    },
+    {
+        "question": "What is the price of 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020]?",
+        "ground_truth": "The 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] is priced at \u20b9 12.5 Lakh in the Delhi used car market. This 2018 model has been driven for 21,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] listings in Delhi. One is priced at \u20b98.75 Lakh and has 75,000 Kms driven, while the other two are priced at \u20b912.5 Lakh with only 21,000 Kms driven. All are petrol models.\n",
+        "bert_score": 0.9175518751144409,
+        "meteor_score": 0.40808848886130067,
+        "rouge_score": 0.5977011494252874,
+        "f1_score": 0.43589743589743585
+    },
+    {
+        "question": "What is the fuel type of 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020]?",
+        "ground_truth": "The 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 12.5 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "The 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] listings in Delhi all have a fuel type of petrol. Car 2 and Car 3 is listed at \u20b912.5 Lakh each, having run 21,000 Kms. Car 4 and Car 5 is listed at \u20b99.89 Lakh each, having run 46,000 Kms. Car 1 is listed at \u20b98.75 Lakh, having run 75,000 Kms.\n",
+        "bert_score": 0.9059493541717529,
+        "meteor_score": 0.37241887905604726,
+        "rouge_score": 0.45098039215686286,
+        "f1_score": 0.32967032967032966
+    },
+    {
+        "question": "What is the price of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio is priced at \u20b9 55 Lakh in the Delhi used car market. This 2017 model has been driven for 21,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2017 Jaguar XJ 2.0 Portfolio models in Delhi, all with petrol engines. The prices range from \u20b935.9 Lakh to \u20b955.0 Lakh. CAR 1 is priced at \u20b935.9 Lakh with 75,000 Kms driven, while CAR 5 is priced at \u20b955.0 Lakh with 21,000 Kms driven.\n",
+        "bert_score": 0.9050007462501526,
+        "meteor_score": 0.38142620232172475,
+        "rouge_score": 0.45977011494252873,
+        "f1_score": 0.3037974683544304
+    },
+    {
+        "question": "What is the fuel type of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 55 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "The 2017 Jaguar XJ 2.0 Portfolio listings in Delhi are all petrol cars. Prices range from \u20b935.9 Lakh to \u20b955.0 Lakh. Mileage varies, with some cars having only 9,000 Kms driven while others have 75,000 Kms. The listing with the lowest price is \u20b935.9 Lakh with 75,000 Kms.\n",
+        "bert_score": 0.902143120765686,
+        "meteor_score": 0.34074074074074073,
+        "rouge_score": 0.3571428571428571,
+        "f1_score": 0.2894736842105263
+    },
+    {
+        "question": "What is the price of 2015 Audi Q5 3.0 TDI quattro Premium Plus?",
+        "ground_truth": "The 2015 Audi Q5 3.0 TDI quattro Premium Plus is priced at \u20b9 12.5 Lakh in the Delhi used car market. This 2015 model has been driven for 54,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2015 Audi Q5 3.0 TDI quattro Premium Plus in Delhi (CAR 2) is priced at \u20b912.5 Lakh. It's a diesel vehicle that has driven 54,000 Kms.\n",
+        "bert_score": 0.9545838832855225,
+        "meteor_score": 0.4811926936683272,
+        "rouge_score": 0.7058823529411764,
+        "f1_score": 0.5483870967741936
+    },
+    {
+        "question": "What is the fuel type of 2015 Audi Q5 3.0 TDI quattro Premium Plus?",
+        "ground_truth": "The 2015 Audi Q5 3.0 TDI quattro Premium Plus runs on Diesel fuel. This 2015 model is available in Delhi for \u20b9 12.5 Lakh and has been driven for 54,000 kilometers.",
+        "chatbot_response": "The 2015 Audi Q5 3.0 TDI quattro Premium Plus (car_name) listed in Delhi (city) with a price of \u20b912.5 Lakh (price) uses Diesel (fuel_type). It's a 2015 (year) model that has been driven 54,000 Kms (kms driven).\n",
+        "bert_score": 0.9244949221611023,
+        "meteor_score": 0.5788246432203094,
+        "rouge_score": 0.6315789473684211,
+        "f1_score": 0.5294117647058824
+    },
+    {
+        "question": "What is the price of 2020 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2020 Honda City V CVT Petrol [2017-2019] is priced at \u20b9 10.75 Lakh in the Delhi used car market. This 2020 model has been driven for 21,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2020 Honda City V CVT Petrol [2017-2019] in Delhi (CAR 2) is priced at \u20b910.75 Lakh. It's a petrol car that has driven 21,000 Kms. It is the only car of the exact make and model in the provided listings.\n",
+        "bert_score": 0.9313732385635376,
+        "meteor_score": 0.5155299391610633,
+        "rouge_score": 0.6419753086419753,
+        "f1_score": 0.5333333333333332
+    },
+    {
+        "question": "What is the fuel type of 2020 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2020 Honda City V CVT Petrol [2017-2019] runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 10.75 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "CAR 5, a 2020 Honda City V CVT Petrol [2017-2019] in Delhi, has a fuel type of Petrol. It is priced at \u20b910.75 Lakh and has driven 21,000 Kms.\n",
+        "bert_score": 0.9485337734222412,
+        "meteor_score": 0.4060303050986281,
+        "rouge_score": 0.65625,
+        "f1_score": 0.47457627118644075
+    },
+    {
+        "question": "What is the price of 2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019]?",
+        "ground_truth": "The 2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019] is priced at \u20b9 32 Lakh in the Delhi used car market. This 2018 model has been driven for 51,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019]. However, I do have a listing for a 2022 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019] in Delhi with a price of \u20b970.0 Lakh. It is a diesel car that has driven 5,805 Kms.\n",
+        "bert_score": 0.909661054611206,
+        "meteor_score": 0.4048824196669431,
+        "rouge_score": 0.4421052631578947,
+        "f1_score": 0.3614457831325301
+    },
+    {
+        "question": "What is the fuel type of 2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019]?",
+        "ground_truth": "The 2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019] runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 32 Lakh and has been driven for 51,000 kilometers.",
+        "chatbot_response": "I don't have information about a \"2018 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019]\". However, CAR 2 is a 2022 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019] in Delhi, priced at \u20b970.0 Lakh. It is a diesel car that has driven 5,805 Kms.\n",
+        "bert_score": 0.9107040166854858,
+        "meteor_score": 0.3493788819875776,
+        "rouge_score": 0.41860465116279066,
+        "f1_score": 0.2972972972972973
+    },
+    {
+        "question": "What is the price of 2017 Honda Amaze 1.2 S AT i-VTEC Opt?",
+        "ground_truth": "The 2017 Honda Amaze 1.2 S AT i-VTEC Opt is priced at \u20b9 4.25 Lakh in the Delhi used car market. This 2017 model has been driven for 48,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "CAR 1, a 2017 Honda Amaze 1.2 S AT i-VTEC Opt in Delhi, is priced at \u20b94.25 Lakh. It's a Petrol car that has covered 48,000 Kms and is a first-owner vehicle. You can find more details on the provided URL.\n",
+        "bert_score": 0.9302672743797302,
+        "meteor_score": 0.46647888200690957,
+        "rouge_score": 0.611764705882353,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2017 Honda Amaze 1.2 S AT i-VTEC Opt?",
+        "ground_truth": "The 2017 Honda Amaze 1.2 S AT i-VTEC Opt runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 4.25 Lakh and has been driven for 48,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7956519722938538,
+        "meteor_score": 0.06465517241379311,
+        "rouge_score": 0.08695652173913045,
+        "f1_score": 0.09523809523809523
+    },
+    {
+        "question": "What is the price of 2020 BMW 5-Series 530i Sport Line?",
+        "ground_truth": "The 2020 BMW 5-Series 530i Sport Line is priced at \u20b9 52 Lakh in the Delhi used car market. This 2020 model has been driven for 2,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two listings for the 2020 BMW 5-Series 530i Sport Line in Delhi, both priced at \u20b952.0 Lakh. Both cars are petrol-based, have driven only 2,000 Kms and are listed by first owners.\n",
+        "bert_score": 0.9246609807014465,
+        "meteor_score": 0.38603558241020475,
+        "rouge_score": 0.5833333333333334,
+        "f1_score": 0.41791044776119407
+    },
+    {
+        "question": "What is the fuel type of 2020 BMW 5-Series 530i Sport Line?",
+        "ground_truth": "The 2020 BMW 5-Series 530i Sport Line runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 52 Lakh and has been driven for 2,000 kilometers.",
+        "chatbot_response": "The 2020 BMW 5-Series 530i Sport Line (car_name) available in Delhi (city) with a price of \u20b952.0 Lakh (price) uses Petrol (fuel_type). Both listings for this car (year: 2020) have only 2,000 Kms (kms driven) on them.\n",
+        "bert_score": 0.9122604131698608,
+        "meteor_score": 0.47137164429530204,
+        "rouge_score": 0.611111111111111,
+        "f1_score": 0.4545454545454546
+    },
+    {
+        "question": "What is the price of 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020]?",
+        "ground_truth": "The 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] is priced at \u20b9 12.5 Lakh in the Delhi used car market. This 2018 model has been driven for 21,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] models in Delhi. One is priced at \u20b98.75 Lakh (75,000 Kms driven, second owner), while the other two are priced at \u20b912.5 Lakh each (21,000 Kms driven, first owner).\n",
+        "bert_score": 0.9137223958969116,
+        "meteor_score": 0.3392175273865415,
+        "rouge_score": 0.5476190476190477,
+        "f1_score": 0.3733333333333333
+    },
+    {
+        "question": "What is the fuel type of 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020]?",
+        "ground_truth": "The 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 12.5 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "The fuel type for all the listed 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020] cars in Delhi is Petrol.\n\nHere's a summary:\n\n*   **Car 1:** 2018 Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020], Delhi, \u20b98.75 Lakh, 75,000 Kms, Petrol.\n*   **Car 2:** 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020], Delhi, \u20b912.5 Lakh, 21,000 Kms, Petrol.\n*   **Car 3:** 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020], Delhi, \u20b912.5 Lakh, 21,000 Kms, Petrol.\n*   **Car 4:** 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020], Delhi, \u20b99.89 Lakh, 46,000 Kms, Petrol.\n*   **Car 5:** 2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020], Delhi, \u20b99.89 Lakh, 46,000 Kms, Petrol.",
+        "bert_score": 0.8571240901947021,
+        "meteor_score": 0.32538659793814434,
+        "rouge_score": 0.28571428571428575,
+        "f1_score": 0.20000000000000004
+    },
+    {
+        "question": "What is the price of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio is priced at \u20b9 55 Lakh in the Delhi used car market. This 2017 model has been driven for 21,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are multiple 2017 Jaguar XJ 2.0 Portfolio models in Delhi. Prices range from \u20b935.9 Lakh to \u20b955.0 Lakh. The \u20b935.9 Lakh option has 75,000 Kms driven(petrol), while two cars are listed at \u20b941.0 Lakh with only 9,000 Kms. The \u20b955.0 Lakh option has 21,000 Kms driven.\n",
+        "bert_score": 0.9005523324012756,
+        "meteor_score": 0.33313432835820894,
+        "rouge_score": 0.4666666666666667,
+        "f1_score": 0.27848101265822783
+    },
+    {
+        "question": "What is the fuel type of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 55 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "All the listed 2017 Jaguar XJ 2.0 Portfolio cars in Delhi run on petrol. There are five such cars listed, with prices ranging from \u20b935.9 Lakh to \u20b955.0 Lakh and driven between 9,000 Kms and 75,000 Kms.\n",
+        "bert_score": 0.9148397445678711,
+        "meteor_score": 0.39741201040109736,
+        "rouge_score": 0.4788732394366197,
+        "f1_score": 0.3384615384615385
+    },
+    {
+        "question": "What is the price of 2020 Mercedes-Benz E-Class E 200?",
+        "ground_truth": "The 2020 Mercedes-Benz E-Class E 200 is priced at \u20b9 46 Lakh in the Delhi used car market. This 2020 model has been driven for 49,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Based on the listings, there's a 2020 Mercedes-Benz E-Class E 200 Exclusive in Delhi (CAR 1). It's a petrol car priced at \u20b946.51 Lakh, and it has driven 38,000 Kms. There is no other\u00a02020 Mercedes-Benz E-Class E 200 available in the listing.\n",
+        "bert_score": 0.9104979038238525,
+        "meteor_score": 0.45919776384832334,
+        "rouge_score": 0.5647058823529412,
+        "f1_score": 0.42666666666666664
+    },
+    {
+        "question": "What is the fuel type of 2020 Mercedes-Benz E-Class E 200?",
+        "ground_truth": "The 2020 Mercedes-Benz E-Class E 200 runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 46 Lakh and has been driven for 49,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2020 Mercedes-Benz E-Class models:\n*   CAR 4 is a 2017 Mercedes-Benz E-Class E 200. It is a Petrol car in Delhi,with 63,000 Kms driven and priced at \u20b932.0 Lakh\n*   CAR 5 is a 2020 Mercedes-Benz E-Class E 200. It is a Petrol car in Delhi,with 38,000 Kms driven and priced at \u20b946.51 Lakh\nSo, the fuel type of 2020 Mercedes-Benz E-Class E 200 is Petrol.\n",
+        "bert_score": 0.8841119408607483,
+        "meteor_score": 0.32529422812069614,
+        "rouge_score": 0.3620689655172414,
+        "f1_score": 0.23529411764705885
+    },
+    {
+        "question": "What is the price of 2019 BMW 5-Series 520d Luxury Line [2017-2019]?",
+        "ground_truth": "The 2019 BMW 5-Series 520d Luxury Line [2017-2019] is priced at \u20b9 36 Lakh in the Delhi used car market. This 2019 model has been driven for 39,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2019 BMW 5-Series 520d Luxury Line [2017-2019] in the provided listings. The available BMW 5-Series 520d Luxury Line models are from 2016, 2018 and 2021, with prices ranging from \u20b916.8 Lakh to \u20b954.9 Lakh in Delhi.\n",
+        "bert_score": 0.8981454968452454,
+        "meteor_score": 0.34885937133474076,
+        "rouge_score": 0.4047619047619048,
+        "f1_score": 0.31578947368421056
+    },
+    {
+        "question": "What is the fuel type of 2019 BMW 5-Series 520d Luxury Line [2017-2019]?",
+        "ground_truth": "The 2019 BMW 5-Series 520d Luxury Line [2017-2019] runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 36 Lakh and has been driven for 39,000 kilometers.",
+        "chatbot_response": "There are no 2019 BMW 5-Series 520d Luxury Line [2017-2019] listings. However, the available 2016, 2018, and 2021 BMW 5-Series 520d Luxury Line models in Delhi are all diesel. For example, a 2018 model (\u20b925.5 Lakh, 70,000 Kms) and a 2021 model (\u20b954.9 Lakh, 24,000 Kms) are listed as diesel.\n",
+        "bert_score": 0.8983990550041199,
+        "meteor_score": 0.3793845663265306,
+        "rouge_score": 0.42696629213483145,
+        "f1_score": 0.3
+    },
+    {
+        "question": "What is the price of 2016 Toyota Camry Hybrid [2015-2017]?",
+        "ground_truth": "The 2016 Toyota Camry Hybrid [2015-2017] is priced at \u20b9 14.5 Lakh in the Delhi used car market. This 2016 model has been driven for 69,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2016 Toyota Camry Hybrid [2015-2017] listings in Delhi. One is priced at \u20b918.5 Lakh, has driven 29,800 Kms, and runs on Petrol. The other one is for \u20b914.5 Lakh, has driven 69,000 Kms, and runs on Petrol.\n",
+        "bert_score": 0.9255921840667725,
+        "meteor_score": 0.4480863363996962,
+        "rouge_score": 0.6075949367088608,
+        "f1_score": 0.47222222222222215
+    },
+    {
+        "question": "What is the fuel type of 2016 Toyota Camry Hybrid [2015-2017]?",
+        "ground_truth": "The 2016 Toyota Camry Hybrid [2015-2017] runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 14.5 Lakh and has been driven for 69,000 kilometers.",
+        "chatbot_response": "The 2016 Toyota Camry Hybrid [2015-2017] listings (CAR 1 and CAR 4) in Delhi are listed with Petrol as the fuel type. Car 1 is priced at \u20b918.5 Lakh with 29,800 Kms driven, while Car 4 is priced at \u20b914.5 Lakh with 69,000 Kms driven.\n",
+        "bert_score": 0.9136224985122681,
+        "meteor_score": 0.3650907497061343,
+        "rouge_score": 0.4750000000000001,
+        "f1_score": 0.3561643835616438
+    }
+]

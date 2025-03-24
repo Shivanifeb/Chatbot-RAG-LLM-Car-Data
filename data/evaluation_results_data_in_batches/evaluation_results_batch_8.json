@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2024 BMW 6-Series GT 630i M Sport Signature?",
+        "ground_truth": "The 2024 BMW 6-Series GT 630i M Sport Signature is priced at \u20b9 83 Lakh in the Delhi used car market. This 2024 model has been driven for 800 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2024 BMW 6-Series GT 630i M Sport Signature is listed at various prices. There is one available for \u20b970.0 Lakh with 13,000 Kms driven and several others listed for \u20b983.0 Lakh with around 800 Kms driven, all located in Delhi and running on Petrol.\n",
+        "bert_score": 0.9171525239944458,
+        "meteor_score": 0.4955555555555556,
+        "rouge_score": 0.5714285714285715,
+        "f1_score": 0.47500000000000003
+    },
+    {
+        "question": "What is the fuel type of 2024 BMW 6-Series GT 630i M Sport Signature?",
+        "ground_truth": "The 2024 BMW 6-Series GT 630i M Sport Signature runs on Petrol fuel. This 2024 model is available in Delhi for \u20b9 83 Lakh and has been driven for 800 kilometers.",
+        "chatbot_response": "The 2024 BMW 6-Series GT 630i M Sport Signature listings in Delhi ([CAR 1]\u2013[CAR 5]) all have a fuel type of Petrol. Prices range from \u20b970.0 Lakh to \u20b983.0 Lakh, and kilometers driven varies from 800 to 13,000.\n",
+        "bert_score": 0.901942789554596,
+        "meteor_score": 0.43729407641079565,
+        "rouge_score": 0.5405405405405406,
+        "f1_score": 0.43478260869565216
+    },
+    {
+        "question": "What is the price of 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020]?",
+        "ground_truth": "The 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020] is priced at \u20b9 25 Lakh in the Delhi used car market. This 2018 model has been driven for 86,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020] (CAR 1) in Delhi, with diesel fuel type, is priced at \u20b925.0 Lakh. It has driven 86,000 Kms. There is no other car that exactly matches your description.\n",
+        "bert_score": 0.9386726021766663,
+        "meteor_score": 0.4297436208745624,
+        "rouge_score": 0.631578947368421,
+        "f1_score": 0.45714285714285713
+    },
+    {
+        "question": "What is the fuel type of 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020]?",
+        "ground_truth": "The 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020] runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 25 Lakh and has been driven for 86,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020] in Delhi, uses Diesel. It's priced at \u20b925.0 Lakh and has driven 86,000 Kms. There is no other 2018 Toyota Fortuner 2.8 4x2 MT [2016-2020] mentioned in the listing.\n",
+        "bert_score": 0.9276168346405029,
+        "meteor_score": 0.47172077265372164,
+        "rouge_score": 0.5641025641025642,
+        "f1_score": 0.40579710144927544
+    },
+    {
+        "question": "What is the price of 2023 Mercedes-Benz EQB 350 4MATIC?",
+        "ground_truth": "The 2023 Mercedes-Benz EQB 350 4MATIC is priced at \u20b9 55 Lakh in the Delhi used car market. This 2023 model has been driven for 14,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "There are multiple listings for the 2023 Mercedes-Benz EQB 350 4MATIC in Delhi, all priced at \u20b955.0 Lakh. Car 4 has the least distance driven of 13,517 Kms. These are electric vehicles.\nThere are four listings for the 2023 Mercedes-Benz EQB 350 4MATIC in Delhi, all priced at \u20b955.0 Lakh. These are electric vehicles.\nListing 1 and 2 both have mileage of 14,000 Kms, whereas listing 3 and 4 have mileages of 15,747 and 13,517 respectively.\n",
+        "bert_score": 0.880699872970581,
+        "meteor_score": 0.37817121150454486,
+        "rouge_score": 0.39316239316239315,
+        "f1_score": 0.25925925925925924
+    },
+    {
+        "question": "What is the fuel type of 2023 Mercedes-Benz EQB 350 4MATIC?",
+        "ground_truth": "The 2023 Mercedes-Benz EQB 350 4MATIC runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 55 Lakh and has been driven for 14,000 kilometers.",
+        "chatbot_response": "The 2023 Mercedes-Benz EQB 350 4MATIC (car_name) available in Delhi (city) is an electric (fuel_type) vehicle. Multiple listings are available, with prices around \u20b955.0 Lakh (price) and kilometers driven ranging from 13,517 Kms to 15,747 Kms (kms driven).\n",
+        "bert_score": 0.9023413062095642,
+        "meteor_score": 0.41863124560168896,
+        "rouge_score": 0.49315068493150693,
+        "f1_score": 0.3939393939393939
+    },
+    {
+        "question": "What is the price of 2018 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2018 Mercedes-Benz GLE 250 d is priced at \u20b9 32.5 Lakh in the Delhi used car market. This 2018 model has been driven for 80,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two listings for the 2018 Mercedes-Benz GLE 250 d in Delhi, both priced at \u20b932.5 Lakh. These diesel cars have driven 80,000 Kms each.\nAlternatively, you can check CAR 2: 2018 Mercedes-Benz GLE 250 d at \u20b932.5 Lakh in Delhi. This diesel car has driven 80,000 Kms.\n",
+        "bert_score": 0.9079066514968872,
+        "meteor_score": 0.40846979521559146,
+        "rouge_score": 0.5168539325842696,
+        "f1_score": 0.39506172839506176
+    },
+    {
+        "question": "What is the fuel type of 2018 Mercedes-Benz GLE 250 d?",
+        "ground_truth": "The 2018 Mercedes-Benz GLE 250 d runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 32.5 Lakh and has been driven for 80,000 kilometers.",
+        "chatbot_response": "The 2018 Mercedes-Benz GLE 250 d (CAR 4 and CAR 5) available in Delhi has a diesel fuel type. It is priced at \u20b932.5 Lakh, has driven 80,000 Kms and is a first owner car.\n",
+        "bert_score": 0.9400973320007324,
+        "meteor_score": 0.4452187379016648,
+        "rouge_score": 0.6176470588235295,
+        "f1_score": 0.4444444444444445
+    },
+    {
+        "question": "What is the price of 2022 Tata Nexon XZ Plus (HS) Dark Edition?",
+        "ground_truth": "The 2022 Tata Nexon XZ Plus (HS) Dark Edition is priced at \u20b9 8.05 Lakh in the Delhi used car market. This 2022 model has been driven for 44,837 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 Tata Nexon XZ Plus (HS) Dark Edition, located in Delhi, is priced at \u20b98.05 Lakh. This petrol variant has driven 44,837 Kms. Note that its insurance has expired.\n",
+        "bert_score": 0.9497997760772705,
+        "meteor_score": 0.4426056867759891,
+        "rouge_score": 0.676470588235294,
+        "f1_score": 0.4923076923076923
+    },
+    {
+        "question": "What is the fuel type of 2022 Tata Nexon XZ Plus (HS) Dark Edition?",
+        "ground_truth": "The 2022 Tata Nexon XZ Plus (HS) Dark Edition runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 8.05 Lakh and has been driven for 44,837 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7984271049499512,
+        "meteor_score": 0.06465517241379311,
+        "rouge_score": 0.09090909090909091,
+        "f1_score": 0.09523809523809523
+    },
+    {
+        "question": "What is the price of 2019 Renault Kwid 1.0 RXT Opt?",
+        "ground_truth": "The 2019 Renault Kwid 1.0 RXT Opt is priced at \u20b9 3.1 Lakh in the Delhi used car market. This 2019 model has been driven for 35,036 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8026089668273926,
+        "meteor_score": 0.06087662337662337,
+        "rouge_score": 0.0851063829787234,
+        "f1_score": 0.09090909090909091
+    },
+    {
+        "question": "What is the fuel type of 2019 Renault Kwid 1.0 RXT Opt?",
+        "ground_truth": "The 2019 Renault Kwid 1.0 RXT Opt runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 3.1 Lakh and has been driven for 35,036 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7999553680419922,
+        "meteor_score": 0.06893382352941177,
+        "rouge_score": 0.09302325581395349,
+        "f1_score": 0.1
+    },
+    {
+        "question": "What is the price of 2020 Renault Kwid CLIMBER 1.0 (O)?",
+        "ground_truth": "The 2020 Renault Kwid CLIMBER 1.0 (O) is priced at \u20b9 3.46 Lakh in the Delhi used car market. This 2020 model has been driven for 20,161 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2020 Renault Kwid CLIMBER 1.0 (O) in Delhi, both priced at \u20b93.46 Lakh. Both are petrol cars that have driven 20,161 Kms. You can find them at the provided URLs.\n",
+        "bert_score": 0.9227433204650879,
+        "meteor_score": 0.37912912912912916,
+        "rouge_score": 0.5945945945945945,
+        "f1_score": 0.37681159420289856
+    },
+    {
+        "question": "What is the fuel type of 2020 Renault Kwid CLIMBER 1.0 (O)?",
+        "ground_truth": "The 2020 Renault Kwid CLIMBER 1.0 (O) runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 3.46 Lakh and has been driven for 20,161 kilometers.",
+        "chatbot_response": "The 2020 Renault Kwid CLIMBER 1.0 (O) (CAR 1 and CAR 2) in Delhi, priced at \u20b93.46 Lakh, has a petrol fuel type. It has driven 20,161 Kms. Both cars are the same and their details are mentioned in the listings.\n",
+        "bert_score": 0.9330639243125916,
+        "meteor_score": 0.3590462008699401,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.3428571428571428
+    },
+    {
+        "question": "What is the price of 2019 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2019 Honda City V CVT Petrol [2017-2019] is priced at \u20b9 7.12 Lakh in the Delhi used car market. This 2019 model has been driven for 46,668 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2019 Honda City V CVT Petrol [2017-2019] cars in Delhi. CAR 1 is priced at \u20b97.65 Lakh with 71,000 Kms driven, CAR 3 and CAR 4 are priced at \u20b97.12 Lakh with 46,668 Kms driven. All cars are petrol fuel type.\n",
+        "bert_score": 0.9164855480194092,
+        "meteor_score": 0.4013392857142857,
+        "rouge_score": 0.5411764705882353,
+        "f1_score": 0.358974358974359
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2019 Honda City V CVT Petrol [2017-2019] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 7.12 Lakh and has been driven for 46,668 kilometers.",
+        "chatbot_response": "The 2019 Honda City V CVT Petrol [2017-2019] listings (CAR 1, CAR 2, and CAR 3) in Delhi all have a fuel type of Petrol. CAR 1 is priced at \u20b97.65 Lakh with 71,000 Kms driven, while CAR 2 and CAR 3 are priced at \u20b97.12 Lakh with 46,668 Kms driven.\n",
+        "bert_score": 0.9115273356437683,
+        "meteor_score": 0.35666603089834065,
+        "rouge_score": 0.4772727272727273,
+        "f1_score": 0.34567901234567905
+    },
+    {
+        "question": "What is the price of 2016 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2016 Maruti Suzuki Baleno Delta 1.2 is priced at \u20b9 4.09 Lakh in the Delhi used car market. This 2016 model has been driven for 59,274 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Maruti Suzuki Baleno Delta 1.2, located in Delhi, is priced at \u20b94.6 Lakh. It's a petrol car that has driven 47,000 Kms. The listing indicates it's a second-owner vehicle in excellent condition.\n",
+        "bert_score": 0.9248398542404175,
+        "meteor_score": 0.38603558241020475,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.38805970149253727
+    },
+    {
+        "question": "What is the fuel type of 2016 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2016 Maruti Suzuki Baleno Delta 1.2 runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 4.09 Lakh and has been driven for 59,274 kilometers.",
+        "chatbot_response": "The 2016 Maruti Suzuki Baleno Delta 1.2 is available in the listings as a petrol car. Specifically, CAR 1 and CAR 5 are both 2016 Maruti Suzuki Baleno Delta 1.2 models, located in Delhi, and run on petrol. CAR 1 is priced at \u20b94.6 Lakh with 47,000 Kms driven and CAR 5 is priced at \u20b94.09 Lakh with 59,274 Kms driven.\n",
+        "bert_score": 0.9157918095588684,
+        "meteor_score": 0.4537132888582163,
+        "rouge_score": 0.4897959183673469,
+        "f1_score": 0.3333333333333333
+    },
+    {
+        "question": "What is the price of 2019 Hyundai Creta 1.6 SX (O)?",
+        "ground_truth": "The 2019 Hyundai Creta 1.6 SX (O) is priced at \u20b9 10.49 Lakh in the Delhi used car market. This 2019 model has been driven for 72,781 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The database has multiple 2019 Hyundai Creta 1.6 SX Plus AT models. Two diesel models are priced at \u20b910.25 Lakh and one petrol model is priced at \u20b99.99 Lakh. The petrol variant has driven 37,500 Kms and is located in Delhi.\n",
+        "bert_score": 0.9082372188568115,
+        "meteor_score": 0.3905018324768125,
+        "rouge_score": 0.5,
+        "f1_score": 0.40540540540540543
+    },
+    {
+        "question": "What is the fuel type of 2019 Hyundai Creta 1.6 SX (O)?",
+        "ground_truth": "The 2019 Hyundai Creta 1.6 SX (O) runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 10.49 Lakh and has been driven for 72,781 kilometers.",
+        "chatbot_response": "I don't have information about a \"2019 Hyundai Creta 1.6 SX (O)\". However, I do have information on a few \"2019 Hyundai Creta 1.6 SX Plus AT\" models in Delhi. Two are Diesel and cost \u20b910.25 Lakh, driven 45,000 Kms. One is Petrol, costs \u20b99.99 Lakh, and has been driven 37,500 Kms.\n",
+        "bert_score": 0.9048106074333191,
+        "meteor_score": 0.38291396487513474,
+        "rouge_score": 0.4444444444444444,
+        "f1_score": 0.29629629629629634
+    },
+    {
+        "question": "What is the price of 2015 Honda City VX?",
+        "ground_truth": "The 2015 Honda City VX is priced at \u20b9 5.19 Lakh in the Delhi used car market. This 2015 model has been driven for 48,038 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found multiple 2015 Honda City VX models in Delhi. The prices range from \u20b95.19 Lakh to \u20b95.75 Lakh. There is a White 2015 Honda City VX for \u20b95.75 Lakh with 34,000 Kms driven, and multiple listings for \u20b95.19 Lakh with 48,038 Kms driven. All are petrol cars.\n",
+        "bert_score": 0.8973286747932434,
+        "meteor_score": 0.309412164458036,
+        "rouge_score": 0.4883720930232558,
+        "f1_score": 0.27848101265822783
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda City VX?",
+        "ground_truth": "The 2015 Honda City VX runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 5.19 Lakh and has been driven for 48,038 kilometers.",
+        "chatbot_response": "The listed 2015 Honda City VX cars in Delhi (CAR 2, CAR 3, and CAR 4) are all petrol models. CAR 4, priced at \u20b95.75 Lakh, has driven 34,000 Kms and has comprehensive insurance. CAR 2 and CAR 3 are listed at \u20b95.19 Lakh, having clocked 48,038 Kms.\n",
+        "bert_score": 0.9033541083335876,
+        "meteor_score": 0.32538659793814434,
+        "rouge_score": 0.425,
+        "f1_score": 0.2933333333333333
+    },
+    {
+        "question": "What is the price of 2022 Renault Kwid RXL 0.8?",
+        "ground_truth": "The 2022 Renault Kwid RXL 0.8 is priced at \u20b9 3.6 Lakh in the Delhi used car market. This 2022 model has been driven for 14,528 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2022 Renault Kwid RXL 0.8 in Delhi, both priced at \u20b93.6 Lakh. Both are Petrol cars, have driven 14,528 Kms, and are listed by first owners.\n",
+        "bert_score": 0.9283922910690308,
+        "meteor_score": 0.35778061224489793,
+        "rouge_score": 0.608695652173913,
+        "f1_score": 0.4375
+    },
+    {
+        "question": "What is the fuel type of 2022 Renault Kwid RXL 0.8?",
+        "ground_truth": "The 2022 Renault Kwid RXL 0.8 runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 3.6 Lakh and has been driven for 14,528 kilometers.",
+        "chatbot_response": "The 2022 Renault Kwid RXL 0.8 (CAR 1 and CAR 2) in Delhi, priced at \u20b93.6 Lakh each, has a petrol fuel type. Both cars have driven 14,528 Kms.\n",
+        "bert_score": 0.936497151851654,
+        "meteor_score": 0.3573459116848112,
+        "rouge_score": 0.6129032258064516,
+        "f1_score": 0.42105263157894735
+    },
+    {
+        "question": "What is the price of 2019 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2019 Maruti Suzuki Baleno Delta 1.2 is priced at \u20b9 4.92 Lakh in the Delhi used car market. This 2019 model has been driven for 35,154 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about a \"2019 Maruti Suzuki Baleno Delta 1.2\". However, there's a \"2019 Maruti Suzuki Baleno Delta 1.3\" available in Delhi, with diesel fuel type, for \u20b95.25 Lakh. It has driven 33,412 Kms.\n",
+        "bert_score": 0.9125849008560181,
+        "meteor_score": 0.21091403903903908,
+        "rouge_score": 0.38961038961038963,
+        "f1_score": 0.2318840579710145
+    },
+    {
+        "question": "What is the fuel type of 2019 Maruti Suzuki Baleno Delta 1.2?",
+        "ground_truth": "The 2019 Maruti Suzuki Baleno Delta 1.2 runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 4.92 Lakh and has been driven for 35,154 kilometers.",
+        "chatbot_response": "There is one 2019 Maruti Suzuki Baleno in the listing: CAR 1 is a 2019 Maruti Suzuki Baleno Delta 1.3 Diesel in Delhi, priced at \u20b95.25 Lakh, and has driven 33,412 Kms. There is no 2019 Maruti Suzuki Baleno Delta 1.2 available in the listing, so I don't have the fuel type information for it.\n",
+        "bert_score": 0.9008340239524841,
+        "meteor_score": 0.42341772151898727,
+        "rouge_score": 0.4175824175824176,
+        "f1_score": 0.30952380952380953
+    },
+    {
+        "question": "What is the price of 2023 BMW X7 xDrive40i M Sport?",
+        "ground_truth": "The 2023 BMW X7 xDrive40i M Sport is priced at \u20b9 1.17 Crore in the Delhi used car market. This 2023 model has been driven for 9,800 kilometers and runs on Mild Hybrid(Electric + Petrol) fuel.",
+        "chatbot_response": "I don't have information about the 2023 BMW X7 xDrive40i M Sport in the provided listings. The available listings include the 2022, and 2021 BMW X7 xDrive40i M Sport, all located in Delhi with petrol fuel type.\n",
+        "bert_score": 0.8650338053703308,
+        "meteor_score": 0.24610242439504587,
+        "rouge_score": 0.3466666666666667,
+        "f1_score": 0.3013698630136986
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW X7 xDrive40i M Sport?",
+        "ground_truth": "The 2023 BMW X7 xDrive40i M Sport runs on Mild Hybrid(Electric + Petrol) fuel. This 2023 model is available in Delhi for \u20b9 1.17 Crore and has been driven for 9,800 kilometers.",
+        "chatbot_response": "There is no listing for a \"2023 BMW X7 xDrive40i M Sport\" in the provided data. However, there are listings for other similar cars in Delhi, such as:\n- CAR 1: 2022 BMW X7 xDrive40i M Sport(Petrol)\n- CAR 2 & 3: 2019 BMW X7 xDrive40i M Sport(Petrol)\n- CAR 4: 2024 BMW X7 xDrive40d M Sport [2023](Mild Hybrid (Electric + Diesel))\n- CAR 5: 2023 BMW X5 xDrive40i M Sport(Petrol)\n",
+        "bert_score": 0.8535822033882141,
+        "meteor_score": 0.20552847415660788,
+        "rouge_score": 0.3529411764705882,
+        "f1_score": 0.1941747572815534
+    },
+    {
+        "question": "What is the price of 2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022]?",
+        "ground_truth": "The 2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022] is priced at \u20b9 14.25 Lakh in the Delhi used car market. This 2021 model has been driven for 23,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about the \"2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022]\". However, there is a \"2021 Hyundai Creta 1.6 SX Plus AT Petrol\" in Delhi priced at \u20b914.5 Lakh. It has driven 24,000 Kms and is a petrol variant.\n",
+        "bert_score": 0.9231345653533936,
+        "meteor_score": 0.381754240404288,
+        "rouge_score": 0.5681818181818182,
+        "f1_score": 0.40506329113924044
+    },
+    {
+        "question": "What is the fuel type of 2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022]?",
+        "ground_truth": "The 2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022] runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 14.25 Lakh and has been driven for 23,000 kilometers.",
+        "chatbot_response": "I don't have information about the 2021 Hyundai Creta SX (O) 1.5 Petrol CVT [2020-2022]. However, I do have details on a 2021 Hyundai Creta 1.6 SX Plus AT Petrol in Delhi, priced at \u20b914.5 Lakh. It has driven 24,000 Kms and runs on petrol.\n",
+        "bert_score": 0.9313744902610779,
+        "meteor_score": 0.4413583133306317,
+        "rouge_score": 0.558139534883721,
+        "f1_score": 0.3636363636363637
+    },
+    {
+        "question": "What is the price of 2018 BMW 6-Series GT 630d Luxury Line [2018-2019]?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] is priced at \u20b9 29.95 Lakh in the Delhi used car market. This 2018 model has been driven for 40,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "Based on the listings, there are multiple 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] in Delhi. Two cars are priced at \u20b929.95 Lakh and have driven 40,000 Kms. Two other cars are priced at \u20b946.0 Lakh and have driven 35,742 Kms. All are diesel cars.\n",
+        "bert_score": 0.9226860404014587,
+        "meteor_score": 0.4600179556633236,
+        "rouge_score": 0.5555555555555556,
+        "f1_score": 0.4197530864197531
+    },
+    {
+        "question": "What is the fuel type of 2018 BMW 6-Series GT 630d Luxury Line [2018-2019]?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 29.95 Lakh and has been driven for 40,000 kilometers.",
+        "chatbot_response": "Based on the listings, there are two 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] cars in Delhi (CAR 2 & CAR 3), both priced at \u20b946.0 Lakh. Both cars have driven 35,742 Kms and their fuel type is Diesel.\n",
+        "bert_score": 0.9180521368980408,
+        "meteor_score": 0.43455242075931727,
+        "rouge_score": 0.5194805194805194,
+        "f1_score": 0.3943661971830986
+    },
+    {
+        "question": "What is the price of 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde?",
+        "ground_truth": "The 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde is priced at \u20b9 16.5 Lakh in the Delhi used car market. This 2016 model has been driven for 85,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde. However, I do have details on other Mercedes-Benz C-Class models in Delhi. For example, a 2018 Mercedes-Benz C-Class C 220 CDI Avantgarde (Delhi, Diesel) is listed for \u20b922.5 Lakh, having driven 40,000 Kms.\n",
+        "bert_score": 0.9092642068862915,
+        "meteor_score": 0.32628429263044645,
+        "rouge_score": 0.4347826086956522,
+        "f1_score": 0.3
+    },
+    {
+        "question": "What is the fuel type of 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde?",
+        "ground_truth": "The 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 16.5 Lakh and has been driven for 85,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde in the provided listings. The available listings include Mercedes-Benz C-Class models from 2015, 2017, 2018 and 2023 with both Petrol and Diesel fuel types.\n",
+        "bert_score": 0.8736730813980103,
+        "meteor_score": 0.35319854287531566,
+        "rouge_score": 0.4266666666666667,
+        "f1_score": 0.3582089552238806
+    },
+    {
+        "question": "What is the price of 2020 BMW X4 xDrive20d M Sport X [2019-2020]?",
+        "ground_truth": "The 2020 BMW X4 xDrive20d M Sport X [2019-2020] is priced at \u20b9 39.75 Lakh in the Delhi used car market. This 2020 model has been driven for 52,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2020 BMW X4 xDrive20d M Sport X [2019-2020] listed in Delhi (CAR 1) is priced at \u20b938.0 Lakh. This is a diesel vehicle that has been driven 59,000 Kms. It is listed as being in excellent condition by the seller.\n",
+        "bert_score": 0.9406164884567261,
+        "meteor_score": 0.515063202247191,
+        "rouge_score": 0.5925925925925926,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the fuel type of 2020 BMW X4 xDrive20d M Sport X [2019-2020]?",
+        "ground_truth": "The 2020 BMW X4 xDrive20d M Sport X [2019-2020] runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 39.75 Lakh and has been driven for 52,000 kilometers.",
+        "chatbot_response": "The 2020 BMW X4 xDrive20d M Sport X [2019-2020] listed in Delhi, is a diesel car. It's priced at \u20b938.0 Lakh, has 59,000 Kms driven.\n",
+        "bert_score": 0.9523381590843201,
+        "meteor_score": 0.39425023357209593,
+        "rouge_score": 0.5806451612903226,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the price of 2022 Jeep Meridian Limited (O) 4X2 AT [2022]?",
+        "ground_truth": "The 2022 Jeep Meridian Limited (O) 4X2 AT [2022] is priced at \u20b9 24.5 Lakh in the Delhi used car market. This 2022 model has been driven for 38,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2022 Jeep Meridian Limited (O) 4X2 AT [2022] in Delhi (CAR 4) is priced at \u20b924.5 Lakh. It's a diesel vehicle that has driven 38,000 Kms. There's also a 2022 Jeep Meridian Limited 4X2 AT [2022] (CAR 1) in Delhi priced at \u20b922.0 Lakh, a diesel vehicle that has driven 35,400 Kms.\n",
+        "bert_score": 0.9201259016990662,
+        "meteor_score": 0.4130284234613995,
+        "rouge_score": 0.5052631578947367,
+        "f1_score": 0.38636363636363635
+    },
+    {
+        "question": "What is the fuel type of 2022 Jeep Meridian Limited (O) 4X2 AT [2022]?",
+        "ground_truth": "The 2022 Jeep Meridian Limited (O) 4X2 AT [2022] runs on Diesel fuel. This 2022 model is available in Delhi for \u20b9 24.5 Lakh and has been driven for 38,000 kilometers.",
+        "chatbot_response": "Based on the provided listings, there is one 2022 Jeep Meridian Limited (O) 4X2 AT [2022] in Delhi.\n- CAR: 2022 Jeep Meridian Limited (O) 4X2 AT [2022]\n- PRICE: \u20b924.5 Lakh\n- CITY: Delhi\n- KMS DRIVEN: 38,000 Kms\n- FUEL TYPE: Diesel\nThe fuel type of this car is Diesel.\n",
+        "bert_score": 0.8892732262611389,
+        "meteor_score": 0.46324269889224573,
+        "rouge_score": 0.5679012345679012,
+        "f1_score": 0.3855421686746988
+    },
+    {
+        "question": "What is the price of 2023 Tata Nexon EV Creative Plus Medium Range?",
+        "ground_truth": "The 2023 Tata Nexon EV Creative Plus Medium Range is priced at \u20b9 14.5 Lakh in the Delhi used car market. This 2023 model has been driven for 21,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "The 2023 Tata Nexon EV Creative Plus Medium Range in Delhi is priced at \u20b914.5 Lakh. It's an electric vehicle that has been driven 21,000 Kms. There is only one listing for this particular car.\n",
+        "bert_score": 0.9425312280654907,
+        "meteor_score": 0.5440233236151603,
+        "rouge_score": 0.7027027027027027,
+        "f1_score": 0.5428571428571428
+    },
+    {
+        "question": "What is the fuel type of 2023 Tata Nexon EV Creative Plus Medium Range?",
+        "ground_truth": "The 2023 Tata Nexon EV Creative Plus Medium Range runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 14.5 Lakh and has been driven for 21,000 kilometers.",
+        "chatbot_response": "The 2023 Tata Nexon EV Creative Plus Medium Range (CAR 4) in Delhi is an electric vehicle. Priced at \u20b914.5 Lakh, it has driven 21,000 Kms. The listing confirms its fuel type as \"Electric.\"\n",
+        "bert_score": 0.9348962306976318,
+        "meteor_score": 0.46569239217252395,
+        "rouge_score": 0.6176470588235293,
+        "f1_score": 0.4615384615384615
+    },
+    {
+        "question": "What is the price of 2023 BMW X7 xDrive40i M Sport?",
+        "ground_truth": "The 2023 BMW X7 xDrive40i M Sport is priced at \u20b9 1.17 Crore in the Delhi used car market. This 2023 model has been driven for 9,800 kilometers and runs on Mild Hybrid(Electric + Petrol) fuel.",
+        "chatbot_response": "I don't have information about a 2023 BMW X7 xDrive40i M Sport in the provided listings. The available cars are 2019, 2021 and 2022 BMW X7 xDrive40i M Sport models located in Delhi. The 2022 model is priced at \u20b91.11 Crore, while the 2021 and 2019 models are around \u20b985-86 Lakh.\n",
+        "bert_score": 0.880893886089325,
+        "meteor_score": 0.3568,
+        "rouge_score": 0.3956043956043956,
+        "f1_score": 0.3218390804597701
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW X7 xDrive40i M Sport?",
+        "ground_truth": "The 2023 BMW X7 xDrive40i M Sport runs on Mild Hybrid(Electric + Petrol) fuel. This 2023 model is available in Delhi for \u20b9 1.17 Crore and has been driven for 9,800 kilometers.",
+        "chatbot_response": "I don't have information about a 2023 BMW X7 xDrive40i M Sport in the provided listings. However, I can see listings for other BMW models. For example, there's a 2023 BMW X5 xDrive40i M Sport (Delhi, \u20b983.5 Lakh) that uses Petrol as its fuel type.\n",
+        "bert_score": 0.8857081532478333,
+        "meteor_score": 0.23986796714069433,
+        "rouge_score": 0.3703703703703703,
+        "f1_score": 0.20779220779220778
+    },
+    {
+        "question": "What is the price of 2016 Audi Q7 45 TDI Premium Plus?",
+        "ground_truth": "The 2016 Audi Q7 45 TDI Premium Plus is priced at \u20b9 24.5 Lakh in the Delhi used car market. This 2016 model has been driven for 77,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8006638288497925,
+        "meteor_score": 0.05914826498422712,
+        "rouge_score": 0.0851063829787234,
+        "f1_score": 0.08888888888888888
+    },
+    {
+        "question": "What is the fuel type of 2016 Audi Q7 45 TDI Premium Plus?",
+        "ground_truth": "The 2016 Audi Q7 45 TDI Premium Plus runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 24.5 Lakh and has been driven for 77,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7990183234214783,
+        "meteor_score": 0.06672597864768684,
+        "rouge_score": 0.09302325581395349,
+        "f1_score": 0.0975609756097561
+    },
+    {
+        "question": "What is the price of 2018 BMW 6-Series GT 630d Luxury Line [2018-2019]?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] is priced at \u20b9 29.95 Lakh in the Delhi used car market. This 2018 model has been driven for 40,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found three 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] cars in Delhi. Two are listed for \u20b929.95 Lakh (40,000 Kms driven) and the other two for \u20b946.0 Lakh (35,742 Kms driven). All are diesel cars. The pricier ones are from the first owner and are non-accidental.\n",
+        "bert_score": 0.9091978669166565,
+        "meteor_score": 0.38696625344352614,
+        "rouge_score": 0.5161290322580645,
+        "f1_score": 0.3373493975903615
+    },
+    {
+        "question": "What is the fuel type of 2018 BMW 6-Series GT 630d Luxury Line [2018-2019]?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] runs on Diesel fuel. This 2018 model is available in Delhi for \u20b9 29.95 Lakh and has been driven for 40,000 kilometers.",
+        "chatbot_response": "The 2018 BMW 6-Series GT 630d Luxury Line [2018-2019] listed in Delhi (CAR 2 and CAR 3) uses Diesel. Both cars are priced at \u20b946.0 Lakh, have done 35,742 Kms and are first owner cars.\n",
+        "bert_score": 0.932279109954834,
+        "meteor_score": 0.3683430644019815,
+        "rouge_score": 0.4383561643835616,
+        "f1_score": 0.3636363636363636
+    },
+    {
+        "question": "What is the price of 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde?",
+        "ground_truth": "The 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde is priced at \u20b9 16.5 Lakh in the Delhi used car market. This 2016 model has been driven for 85,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde. However, I do have information on other similar Mercedes-Benz C-Class models in Delhi. For example, there's a 2018 C 220 CDI Avantgarde (Diesel) for \u20b922.5 Lakh, which has driven 40,000 Kms.\n",
+        "bert_score": 0.9095622897148132,
+        "meteor_score": 0.3098055790363483,
+        "rouge_score": 0.44943820224719105,
+        "f1_score": 0.30769230769230765
+    },
+    {
+        "question": "What is the fuel type of 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde?",
+        "ground_truth": "The 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 16.5 Lakh and has been driven for 85,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2016 Mercedes-Benz C-Class C 220 CDI Avantgarde. However, I do have details on other Mercedes-Benz C-Class models in Delhi. For example, the 2018 Mercedes-Benz C-Class C 220 CDI Avantgarde (\u20b922.5 Lakh) is a diesel car with 40,000 Kms driven.\n",
+        "bert_score": 0.9187107682228088,
+        "meteor_score": 0.38540654356980886,
+        "rouge_score": 0.4827586206896552,
+        "f1_score": 0.26666666666666666
+    },
+    {
+        "question": "What is the price of 2015 Audi A6 35 TDI Premium?",
+        "ground_truth": "The 2015 Audi A6 35 TDI Premium is priced at \u20b9 12.75 Lakh in the Delhi used car market. This 2015 model has been driven for 40,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a \"2015 Audi A6 35 TDI Premium\" in the provided listings. The available Audi A6 is a 2013 2.0 TDI Premium Plus (Delhi, Diesel) for \u20b94.49 Lakh with 80,000 Kms driven.\n",
+        "bert_score": 0.902853786945343,
+        "meteor_score": 0.23986796714069436,
+        "rouge_score": 0.4324324324324324,
+        "f1_score": 0.31884057971014496
+    },
+    {
+        "question": "What is the fuel type of 2015 Audi A6 35 TDI Premium?",
+        "ground_truth": "The 2015 Audi A6 35 TDI Premium runs on Diesel fuel. This 2015 model is available in Delhi for \u20b9 12.75 Lakh and has been driven for 40,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2015 Audi A6 35 TDI Premium. However, there is a 2013 Audi A6 2.0 TDI Premium Plus (Delhi, \u20b94.49 Lakh) with diesel fuel type and 80,000 Kms driven.\n\n",
+        "bert_score": 0.9143298268318176,
+        "meteor_score": 0.2333124084536514,
+        "rouge_score": 0.4117647058823529,
+        "f1_score": 0.253968253968254
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020] is priced at \u20b9 11.9 Lakh in the Delhi used car market. This 2017 model has been driven for 1,22,417 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020]. The listings include only 2019 and 2021 Toyota Innova Crysta models in Delhi, with prices ranging from \u20b915.75 Lakh to \u20b920.75 Lakh, all running on diesel.\n",
+        "bert_score": 0.9035099148750305,
+        "meteor_score": 0.3848458904109589,
+        "rouge_score": 0.48837209302325585,
+        "f1_score": 0.33766233766233766
+    },
+    {
+        "question": "What is the fuel type of 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020] runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 11.9 Lakh and has been driven for 1,22,417 kilometers.",
+        "chatbot_response": "I don't have information about a 2017 Toyota Innova Crysta 2.4 GX 7 STR [2016-2020]. However, the listed Toyota Innova Crysta cars are primarily diesel, with one petrol option. The 2020 petrol variant (CAR 4) is priced at \u20b917.0 Lakh, while diesel options range from \u20b915.75 Lakh to \u20b918.15 Lakh.\n",
+        "bert_score": 0.8963263034820557,
+        "meteor_score": 0.3197937212360289,
+        "rouge_score": 0.32608695652173914,
+        "f1_score": 0.2682926829268293
+    },
+    {
+        "question": "What is the price of 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023]?",
+        "ground_truth": "The 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023] is priced at \u20b9 11.9 Lakh in the Delhi used car market. This 2023 model has been driven for 23,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023] in Delhi (Car 1) is priced at \u20b911.9 Lakh. It's a petrol car that has been driven 23,000 Kms and has a first owner.\n",
+        "bert_score": 0.9542049765586853,
+        "meteor_score": 0.5471498944405347,
+        "rouge_score": 0.7027027027027027,
+        "f1_score": 0.588235294117647
+    },
+    {
+        "question": "What is the fuel type of 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023]?",
+        "ground_truth": "The 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 11.9 Lakh and has been driven for 23,000 kilometers.",
+        "chatbot_response": "The 2023 Hyundai Venue N8 DCT Dual Tone [2023-2023] (CAR 1) in Delhi is a petrol car. It's priced at \u20b911.9 Lakh and has driven 23,000 Kms.\n",
+        "bert_score": 0.9526660442352295,
+        "meteor_score": 0.5514705882352942,
+        "rouge_score": 0.6875,
+        "f1_score": 0.5862068965517241
+    },
+    {
+        "question": "What is the price of 2018 Toyota Camry Hybrid?",
+        "ground_truth": "The 2018 Toyota Camry Hybrid is priced at \u20b9 17.75 Lakh in the Delhi used car market. This 2018 model has been driven for 93,000 kilometers and runs on Hybrid (Electric + Petrol) fuel.",
+        "chatbot_response": "The 2018 Toyota Camry Hybrid in Delhi (CAR 1) is priced at \u20b917.75 Lakh. It's a hybrid (Electric + Petrol) car that has driven 93,000 Kms and is listed as a first-owner vehicle in immaculate condition.\n",
+        "bert_score": 0.9373367428779602,
+        "meteor_score": 0.4665808102898058,
+        "rouge_score": 0.6027397260273972,
+        "f1_score": 0.5142857142857143
+    },
+    {
+        "question": "What is the fuel type of 2018 Toyota Camry Hybrid?",
+        "ground_truth": "The 2018 Toyota Camry Hybrid runs on Hybrid (Electric + Petrol) fuel. This 2018 model is available in Delhi for \u20b9 17.75 Lakh and has been driven for 93,000 kilometers.",
+        "chatbot_response": "Based on the listings, the 2018 Toyota Camry Hybrid in Delhi (CAR 1) has a fuel type of Hybrid (Electric + Petrol). It is priced at \u20b917.75 Lakh and has driven 93,000 Kms. There is one 2018 Toyota Camry Hybrid in the listing.\n",
+        "bert_score": 0.9291194677352905,
+        "meteor_score": 0.43979016289985406,
+        "rouge_score": 0.5945945945945945,
+        "f1_score": 0.4109589041095891
+    },
+    {
+        "question": "What is the price of 2014 Volkswagen Polo Highline1.2L (P)?",
+        "ground_truth": "The 2014 Volkswagen Polo Highline1.2L (P) is priced at \u20b9 3.35 Lakh in the Delhi used car market. This 2014 model has been driven for 81,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2014 Volkswagen Polo Highline1.2L (P) listed in Delhi (CAR 1) is priced at \u20b93.35 Lakh. It's a petrol car that has driven 81,000 Kms and is under first ownership. The listing mentions comprehensive insurance but the expiry date is unavailable.\n",
+        "bert_score": 0.9309592843055725,
+        "meteor_score": 0.4184021914518368,
+        "rouge_score": 0.5822784810126582,
+        "f1_score": 0.4657534246575343
+    },
+    {
+        "question": "What is the fuel type of 2014 Volkswagen Polo Highline1.2L (P)?",
+        "ground_truth": "The 2014 Volkswagen Polo Highline1.2L (P) runs on Petrol fuel. This 2014 model is available in Delhi for \u20b9 3.35 Lakh and has been driven for 81,000 kilometers.",
+        "chatbot_response": "The 2014 Volkswagen Polo Highline1.2L (P) listed in Delhi has a fuel type of Petrol. This car is priced at \u20b93.35 Lakh and has driven 81,000 Kms. The listing indicates it's a first-owner vehicle.\n",
+        "bert_score": 0.9433138370513916,
+        "meteor_score": 0.46783216783216786,
+        "rouge_score": 0.608695652173913,
+        "f1_score": 0.4838709677419355
+    },
+    {
+        "question": "What is the price of 2019 Ford Ecosport Trend 1.5L TDCi?",
+        "ground_truth": "The 2019 Ford Ecosport Trend 1.5L TDCi is priced at \u20b9 5.75 Lakh in the Delhi used car market. This 2019 model has been driven for 54,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2019 Ford Ecosport Trend 1.5L TDCi (CAR 1) in Delhi, with diesel fuel type, is priced at \u20b95.75 Lakh. It has driven 54,000 Kms. The car is listed as having a single owner with comprehensive insurance.\n",
+        "bert_score": 0.9426409006118774,
+        "meteor_score": 0.41947247373764585,
+        "rouge_score": 0.64,
+        "f1_score": 0.42857142857142855
+    },
+    {
+        "question": "What is the fuel type of 2019 Ford Ecosport Trend 1.5L TDCi?",
+        "ground_truth": "The 2019 Ford Ecosport Trend 1.5L TDCi runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 5.75 Lakh and has been driven for 54,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2019 Ford Ecosport Trend 1.5L TDCi, listed in Delhi, has a diesel fuel type. The car is priced at \u20b95.75 Lakh and has driven 54,000 Kms.\n",
+        "bert_score": 0.9469159245491028,
+        "meteor_score": 0.41863124560168896,
+        "rouge_score": 0.6666666666666667,
+        "f1_score": 0.4482758620689655
+    },
+    {
+        "question": "What is the price of 2014 Maruti Suzuki Alto LXi CNG [2014-2018]?",
+        "ground_truth": "The 2014 Maruti Suzuki Alto LXi CNG [2014-2018] is priced at \u20b9 2.1 Lakh in the Delhi used car market. This 2014 model has been driven for 70,215 kilometers and runs on CNG + CNG fuel.",
+        "chatbot_response": "The 2014 Maruti Suzuki Alto LXi CNG [2014-2018] in Delhi (CAR 1) is priced at \u20b92.1 Lakh. It's a CNG + CNG fuel type car that has driven 70,215 Kms.\n",
+        "bert_score": 0.9562774896621704,
+        "meteor_score": 0.5179731638418079,
+        "rouge_score": 0.7142857142857142,
+        "f1_score": 0.5454545454545454
+    },
+    {
+        "question": "What is the fuel type of 2014 Maruti Suzuki Alto LXi CNG [2014-2018]?",
+        "ground_truth": "The 2014 Maruti Suzuki Alto LXi CNG [2014-2018] runs on CNG + CNG fuel. This 2014 model is available in Delhi for \u20b9 2.1 Lakh and has been driven for 70,215 kilometers.",
+        "chatbot_response": "The 2014 Maruti Suzuki Alto LXi CNG [2014-2018] in Delhi (CAR 1) is a CNG + CNG vehicle. It is priced at \u20b92.1 Lakh and has driven 70,215 Kms.\n\n",
+        "bert_score": 0.9570780992507935,
+        "meteor_score": 0.5675174987110813,
+        "rouge_score": 0.6875,
+        "f1_score": 0.5573770491803278
+    },
+    {
+        "question": "What is the price of 2015 Maruti Suzuki Swift DZire VXI?",
+        "ground_truth": "The 2015 Maruti Suzuki Swift DZire VXI is priced at \u20b9 3.95 Lakh in the Delhi used car market. This 2015 model has been driven for 94,022 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Maruti Suzuki Swift DZire VXI in Delhi (CAR 1) is priced at \u20b93.95 Lakh. It's a petrol car that has driven 94,022 Kms. There is also a 2015 Maruti Suzuki Swift DZire LXI (CAR 5) for \u20b93.75 Lakh, but the user asked about the VXI model.\n",
+        "bert_score": 0.921234667301178,
+        "meteor_score": 0.43130434782608695,
+        "rouge_score": 0.5813953488372092,
+        "f1_score": 0.4444444444444444
+    },
+    {
+        "question": "What is the fuel type of 2015 Maruti Suzuki Swift DZire VXI?",
+        "ground_truth": "The 2015 Maruti Suzuki Swift DZire VXI runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 3.95 Lakh and has been driven for 94,022 kilometers.",
+        "chatbot_response": "The available 2015 Maruti Suzuki Swift DZire VXI cars (CAR 3 and CAR 5) in Delhi are both petrol cars. CAR 3 is priced at \u20b93.95 Lakh and has driven 94,022 Kms, while CAR 5 is priced at \u20b93.5 Lakh and has driven 32,397 Kms.\n",
+        "bert_score": 0.9216724634170532,
+        "meteor_score": 0.4990162154827328,
+        "rouge_score": 0.5063291139240507,
+        "f1_score": 0.4324324324324324
+    },
+    {
+        "question": "What is the price of 2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016]?",
+        "ground_truth": "The 2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016] is priced at \u20b9 3.4 Lakh in the Delhi used car market. This 2015 model has been driven for 64,322 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "I don't have information about a \"2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016]\" in the provided listings. The available Hyundai Grand i10 models range from 2016 to 2019, with prices between \u20b93.75 Lakh and \u20b95.25 Lakh, in Delhi.\n",
+        "bert_score": 0.9008411169052124,
+        "meteor_score": 0.31780906079709365,
+        "rouge_score": 0.47058823529411764,
+        "f1_score": 0.3076923076923077
+    },
+    {
+        "question": "What is the fuel type of 2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016]?",
+        "ground_truth": "The 2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016] runs on Petrol + CNG fuel. This 2015 model is available in Delhi for \u20b9 3.4 Lakh and has been driven for 64,322 kilometers.",
+        "chatbot_response": "The 2015 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016] in Delhi (CAR 2) is a Petrol + CNG car, priced at \u20b93.4 Lakh and has driven 64,322 Kms.\n",
+        "bert_score": 0.9580006003379822,
+        "meteor_score": 0.6021931160523911,
+        "rouge_score": 0.7352941176470588,
+        "f1_score": 0.6666666666666667
+    },
+    {
+        "question": "What is the price of 2015 Hyundai Eon Era +?",
+        "ground_truth": "The 2015 Hyundai Eon Era + is priced at \u20b9 2.4 Lakh in the Delhi used car market. This 2015 model has been driven for 68,124 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Hyundai Eon Era + in Delhi (CAR 1) is priced at \u20b92.4 Lakh. It's a petrol car that has driven 68,124 Kms.\n",
+        "bert_score": 0.942873477935791,
+        "meteor_score": 0.42949969951923084,
+        "rouge_score": 0.6551724137931033,
+        "f1_score": 0.5357142857142857
+    },
+    {
+        "question": "What is the fuel type of 2015 Hyundai Eon Era +?",
+        "ground_truth": "The 2015 Hyundai Eon Era + runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 2.4 Lakh and has been driven for 68,124 kilometers.",
+        "chatbot_response": "The 2015 Hyundai Eon Era + (CAR 1) in Delhi is a petrol car. It's priced at \u20b92.4 Lakh and has driven 68,124 Kms.\n",
+        "bert_score": 0.9452565908432007,
+        "meteor_score": 0.48478260869565215,
+        "rouge_score": 0.6296296296296297,
+        "f1_score": 0.5384615384615384
+    },
+    {
+        "question": "What is the price of 2013 Maruti Suzuki Ritz Vxi BS-IV?",
+        "ground_truth": "The 2013 Maruti Suzuki Ritz Vxi BS-IV is priced at \u20b9 2.5 Lakh in the Delhi used car market. This 2013 model has been driven for 68,508 kilometers and runs on Petrol + CNG fuel.",
+        "chatbot_response": "There are two 2013 Maruti Suzuki Ritz Vxi cars in Delhi. One is the Ritz Vxi AT BS-IV, a petrol car for \u20b93.0 Lakh, having driven 36,470 Kms. The other is Ritz Vxi BS-IV (Petrol + CNG) for \u20b92.5 Lakh, having driven 68,508 Kms.\n",
+        "bert_score": 0.9068925976753235,
+        "meteor_score": 0.3412979152008174,
+        "rouge_score": 0.5411764705882353,
+        "f1_score": 0.379746835443038
+    },
+    {
+        "question": "What is the fuel type of 2013 Maruti Suzuki Ritz Vxi BS-IV?",
+        "ground_truth": "The 2013 Maruti Suzuki Ritz Vxi BS-IV runs on Petrol + CNG fuel. This 2013 model is available in Delhi for \u20b9 2.5 Lakh and has been driven for 68,508 kilometers.",
+        "chatbot_response": "There are two 2013 Maruti Suzuki Ritz Vxi models in Delhi. One is the Ritz Vxi AT BS-IV (\u20b93.0 Lakh, 36,470 Kms) with Petrol as fuel type, and the other is the Ritz Vxi BS-IV (\u20b92.5 Lakh, 68,508 Kms) which uses Petrol + CNG.\n",
+        "bert_score": 0.9048534035682678,
+        "meteor_score": 0.3544575725026852,
+        "rouge_score": 0.5185185185185185,
+        "f1_score": 0.32
+    },
+    {
+        "question": "What is the price of 2021 Toyota Glanza G CVT?",
+        "ground_truth": "The 2021 Toyota Glanza G CVT is priced at \u20b9 8.1 Lakh in the Delhi used car market. This 2021 model has been driven for 17,866 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two 2021 Toyota Glanza G CVT models in Delhi. One is priced at \u20b98.1 Lakh (17,866 Kms driven, Petrol, Blue), and the other is \u20b97.9 Lakh (37,558 Kms driven, Petrol, White). The \u20b97.9 Lakh option has driven more.\n",
+        "bert_score": 0.9048921465873718,
+        "meteor_score": 0.38490853658536583,
+        "rouge_score": 0.5641025641025641,
+        "f1_score": 0.4166666666666667
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Glanza G CVT?",
+        "ground_truth": "The 2021 Toyota Glanza G CVT runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 8.1 Lakh and has been driven for 17,866 kilometers.",
+        "chatbot_response": "Based on the provided listings, the 2021 Toyota Glanza G CVT (CAR 1, CAR 2) in Delhi has a petrol fuel type. CAR 1 is priced at \u20b98.1 Lakh and has 17,866 Kms driven. CAR 2 is priced at \u20b97.9 Lakh and has 37,558 Kms driven.\n",
+        "bert_score": 0.9102991223335266,
+        "meteor_score": 0.44899328859060406,
+        "rouge_score": 0.5063291139240508,
+        "f1_score": 0.35135135135135126
+    },
+    {
+        "question": "What is the price of 2018 Toyota Yaris V MT?",
+        "ground_truth": "The 2018 Toyota Yaris V MT is priced at \u20b9 7.4 Lakh in the Delhi used car market. This 2018 model has been driven for 65,663 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2018 Toyota Yaris V MT models in Delhi range from \u20b97.4 Lakh to \u20b98.25 Lakh. CAR 3 is the most affordable at \u20b97.4 Lakh, with 65,663 Kms driven. Several options are available at \u20b97.5 Lakh and \u20b98.25 Lakh with varying mileage and features. All are petrol cars.\n",
+        "bert_score": 0.8994966745376587,
+        "meteor_score": 0.3646605701103972,
+        "rouge_score": 0.4827586206896552,
+        "f1_score": 0.35000000000000003
+    },
+    {
+        "question": "What is the fuel type of 2018 Toyota Yaris V MT?",
+        "ground_truth": "The 2018 Toyota Yaris V MT runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 7.4 Lakh and has been driven for 65,663 kilometers.",
+        "chatbot_response": "All listed 2018 Toyota Yaris V MT models in Delhi run on Petrol. CAR 1(\u20b97.4 Lakh, 65,663 Kms), CAR 2 & 3 (\u20b98.25 Lakh, 37,000 Kms), CAR 4 & 5 (\u20b97.5 Lakh, 52,000 Kms). Each car is a first-owner vehicle,providing a range of options based on price and mileage.\n",
+        "bert_score": 0.8917468190193176,
+        "meteor_score": 0.36023904539110263,
+        "rouge_score": 0.42352941176470593,
+        "f1_score": 0.2857142857142857
+    },
+    {
+        "question": "What is the price of 2021 Toyota Glanza G CVT?",
+        "ground_truth": "The 2021 Toyota Glanza G CVT is priced at \u20b9 7.9 Lakh in the Delhi used car market. This 2021 model has been driven for 37,558 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2021 Toyota Glanza G CVT models in Delhi. One is priced at \u20b98.1 Lakh (17,866 Kms driven, Petrol, Blue). The other costs \u20b97.9 Lakh (37,558 Kms driven, Petrol, White). The \u20b97.9 Lakh option is cheaper but has more kilometers driven.\n",
+        "bert_score": 0.9014526605606079,
+        "meteor_score": 0.3638133601879826,
+        "rouge_score": 0.5432098765432098,
+        "f1_score": 0.3466666666666667
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Glanza G CVT?",
+        "ground_truth": "The 2021 Toyota Glanza G CVT runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 7.9 Lakh and has been driven for 37,558 kilometers.",
+        "chatbot_response": "The 2021 Toyota Glanza G CVT is available with a petrol fuel type. There are two such cars in Delhi ([CAR 1] \u20b98.1 Lakh, 17,866 Kms driven and [CAR 2] \u20b97.9 Lakh, 37,558 Kms driven).\n",
+        "bert_score": 0.9171281456947327,
+        "meteor_score": 0.4230071819668634,
+        "rouge_score": 0.5588235294117647,
+        "f1_score": 0.41269841269841273
+    },
+    {
+        "question": "What is the price of 2016 Mahindra XUV500 W10 AT 1.99?",
+        "ground_truth": "The 2016 Mahindra XUV500 W10 AT 1.99 is priced at \u20b9 7.85 Lakh in the Delhi used car market. This 2016 model has been driven for 95,608 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2016 Mahindra XUV500 W10 AT 1.99 in Delhi (CAR 1) is priced at \u20b97.85 Lakh. It's a diesel car that has driven 95,608 Kms.\n",
+        "bert_score": 0.9529610872268677,
+        "meteor_score": 0.45643577123944207,
+        "rouge_score": 0.6875,
+        "f1_score": 0.5517241379310344
+    },
+    {
+        "question": "What is the fuel type of 2016 Mahindra XUV500 W10 AT 1.99?",
+        "ground_truth": "The 2016 Mahindra XUV500 W10 AT 1.99 runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 7.85 Lakh and has been driven for 95,608 kilometers.",
+        "chatbot_response": "CAR 1, a 2016 Mahindra XUV500 W10 AT 1.99 in Delhi, is Diesel. It's priced at \u20b97.85 Lakh and has driven 95,608 Kms.\nURL: https://www.cartrade.com/second-hand/delhi/mahindra-xuv500/y4y85mcn/?dc=0\n",
+        "bert_score": 0.8911184668540955,
+        "meteor_score": 0.3791327016179087,
+        "rouge_score": 0.5352112676056339,
+        "f1_score": 0.48148148148148145
+    },
+    {
+        "question": "What is the price of None?",
+        "ground_truth": "The None is priced at None in the Unknown used car market. This Unknown model has been driven for Unknown kilometers and runs on Unknown fuel.",
+        "chatbot_response": "Based on the provided listings, I don't have enough information to determine the price of \"None\". The listings for Renault Kwid, Maruti Suzuki Alto K10, BMW X1, and Maruti Suzuki Ciaz have \"None\" listed as their car name and price, indicating missing data.\n",
+        "bert_score": 0.8361018300056458,
+        "meteor_score": 0.12635379061371843,
+        "rouge_score": 0.2571428571428571,
+        "f1_score": 0.1739130434782609
+    },
+    {
+        "question": "What is the fuel type of None?",
+        "ground_truth": "The None runs on Unknown fuel. This Unknown model is available in Unknown for None and has been driven for Unknown kilometers.",
+        "chatbot_response": "I do not have information about the car \"None\" since it is not in the provided car details. The listings do include two 2023 Tata Nexon Fearless Plus (S) cars in Delhi (\u20b912.25 Lakh), both with petrol fuel type and 50 Kms driven.\n",
+        "bert_score": 0.8344230651855469,
+        "meteor_score": 0.08298755186721993,
+        "rouge_score": 0.2121212121212121,
+        "f1_score": 0.12307692307692308
+    },
+    {
+        "question": "What is the price of 2025 MINI Countryman Cooper S JCW Inspired?",
+        "ground_truth": "The 2025 MINI Countryman Cooper S JCW Inspired is priced at \u20b9 50 Lakh in the Delhi used car market. This 2025 model has been driven for 400 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2025 MINI Countryman Cooper S JCW Inspired in Delhi, both priced at \u20b950.0 Lakh. Both cars have petrol fuel type. They both have driven only 400 Kms.\n",
+        "bert_score": 0.9256706833839417,
+        "meteor_score": 0.4143620943952802,
+        "rouge_score": 0.5970149253731343,
+        "f1_score": 0.41791044776119407
+    },
+    {
+        "question": "What is the fuel type of 2025 MINI Countryman Cooper S JCW Inspired?",
+        "ground_truth": "The 2025 MINI Countryman Cooper S JCW Inspired runs on Petrol fuel. This 2025 model is available in Delhi for \u20b9 50 Lakh and has been driven for 400 kilometers.",
+        "chatbot_response": "The 2025 MINI Countryman Cooper S JCW Inspired, available in Delhi, has a fuel type of Petrol. Two listings are available, both priced at \u20b950.0 Lakh, with 400 Kms driven.\nImportant features of car are car_name: MINI Countryman Cooper S JCW Inspired , year: 2025, city: Delhi, price: \u20b950.0 Lakh, kms driven: 400 Kms, and fuel_type: Petrol.\n",
+        "bert_score": 0.8955752849578857,
+        "meteor_score": 0.3665200948193185,
+        "rouge_score": 0.449438202247191,
+        "f1_score": 0.29885057471264365
+    },
+    {
+        "question": "What is the price of 2019 Ford Endeavour Titanium 2.2 4x2 AT?",
+        "ground_truth": "The 2019 Ford Endeavour Titanium 2.2 4x2 AT is priced at \u20b9 27.5 Lakh in the Delhi used car market. This 2019 model has been driven for 43,351 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two listings for the 2019 Ford Endeavour Titanium 2.2 4x2 AT in Delhi, both priced at \u20b927.5 Lakh. Both cars are diesel, have driven 43,351 Kms, and are listed by first owners.\n",
+        "bert_score": 0.934696614742279,
+        "meteor_score": 0.4131433823529412,
+        "rouge_score": 0.6301369863013699,
+        "f1_score": 0.4411764705882353
+    },
+    {
+        "question": "What is the fuel type of 2019 Ford Endeavour Titanium 2.2 4x2 AT?",
+        "ground_truth": "The 2019 Ford Endeavour Titanium 2.2 4x2 AT runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 27.5 Lakh and has been driven for 43,351 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2019 Ford Endeavour Titanium 2.2 4x2 AT cars in Delhi (CAR 1 & CAR 2). Both are diesel fuel type, priced at \u20b927.5 Lakh, and have driven 43,351 Kms.\n",
+        "bert_score": 0.9234809875488281,
+        "meteor_score": 0.41621425986246835,
+        "rouge_score": 0.5915492957746479,
+        "f1_score": 0.3880597014925374
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] is priced at \u20b9 15.75 Lakh in the Delhi used car market. This 2019 model has been driven for 24,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] in Delhi, both priced at \u20b915.75 Lakh. Both are petrol vehicles that have been driven 24,000 Kms. They both are listed as certified, non-accidental vehicles with available service history.\n",
+        "bert_score": 0.9246283769607544,
+        "meteor_score": 0.4585597826086957,
+        "rouge_score": 0.5681818181818182,
+        "f1_score": 0.425
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 15.75 Lakh and has been driven for 24,000 kilometers.",
+        "chatbot_response": "I don't have information about the  2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]. The available 2019 Toyota Innova Crysta models in Delhi are diesel variants. For example, CAR 5 (2019, \u20b916.8 Lakh) is a GX 2.4 AT 7 STR driven 56,586 Kms.\n",
+        "bert_score": 0.9079764485359192,
+        "meteor_score": 0.36905407095510073,
+        "rouge_score": 0.49411764705882355,
+        "f1_score": 0.3684210526315789
+    },
+    {
+        "question": "What is the price of 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] is priced at \u20b9 12.99 Lakh in the Delhi used car market. This 2017 model has been driven for 95,391 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] in Delhi, both priced at \u20b912.99 Lakh. They are diesel cars that have driven 95,391 Kms. Both are first-owner vehicles and are in bronze color.\n",
+        "bert_score": 0.9381648302078247,
+        "meteor_score": 0.49027406417112296,
+        "rouge_score": 0.627906976744186,
+        "f1_score": 0.4615384615384615
+    },
+    {
+        "question": "What is the fuel type of 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 12.99 Lakh and has been driven for 95,391 kilometers.",
+        "chatbot_response": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] in Delhi (CAR 4 and CAR 5) is a diesel variant. Both cars are priced at \u20b912.99 Lakh, have driven 95,391 Kms.",
+        "bert_score": 0.9503796100616455,
+        "meteor_score": 0.48321174710063597,
+        "rouge_score": 0.6575342465753425,
+        "f1_score": 0.5151515151515151
+    },
+    {
+        "question": "What is the price of 2019 Honda WR-V VX MT Diesel?",
+        "ground_truth": "The 2019 Honda WR-V VX MT Diesel is priced at \u20b9 5.9 Lakh in the Delhi used car market. This 2019 model has been driven for 62,272 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2019 Honda WR-V VX MT Diesel in Delhi, both priced at \u20b95.9 Lakh. Both cars have the following features:\n- Car Name: Honda WR-V VX MT Diesel\n- Year: 2019\n- City: Delhi\n- Price: \u20b95.9 Lakh\n- Kms Driven: 62,272 Kms\n- Fuel Type: Diesel\n",
+        "bert_score": 0.8921405673027039,
+        "meteor_score": 0.4393505253104107,
+        "rouge_score": 0.558139534883721,
+        "f1_score": 0.32941176470588235
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda WR-V VX MT Diesel?",
+        "ground_truth": "The 2019 Honda WR-V VX MT Diesel runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 5.9 Lakh and has been driven for 62,272 kilometers.",
+        "chatbot_response": "The listing [CAR 1] and [CAR 2] is a 2019 Honda WR-V VX MT Diesel, located in Delhi, with a price of \u20b95.9 Lakh. It runs on Diesel, has driven 62,272 Kms. As both car listings are the same, the fuel type of the 2019 Honda WR-V VX MT Diesel is Diesel.\n",
+        "bert_score": 0.9130338430404663,
+        "meteor_score": 0.4033546325878595,
+        "rouge_score": 0.5517241379310344,
+        "f1_score": 0.3703703703703704
+    },
+    {
+        "question": "What is the price of 2019 Ford Endeavour Titanium 2.2 4x2 AT?",
+        "ground_truth": "The 2019 Ford Endeavour Titanium 2.2 4x2 AT is priced at \u20b9 27.5 Lakh in the Delhi used car market. This 2019 model has been driven for 43,351 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2019 Ford Endeavour Titanium 2.2 4x2 AT in Delhi, both priced at \u20b927.5 Lakh. Both are diesel cars and have driven 43,351 Kms.\n",
+        "bert_score": 0.9420472979545593,
+        "meteor_score": 0.4387233383256727,
+        "rouge_score": 0.676470588235294,
+        "f1_score": 0.47619047619047616
+    },
+    {
+        "question": "What is the fuel type of 2019 Ford Endeavour Titanium 2.2 4x2 AT?",
+        "ground_truth": "The 2019 Ford Endeavour Titanium 2.2 4x2 AT runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 27.5 Lakh and has been driven for 43,351 kilometers.",
+        "chatbot_response": "Based on the provided listings, the 2019 Ford Endeavour Titanium 2.2 4x2 AT (CAR 1 and CAR 2) in Delhi, priced at \u20b927.5 Lakh, has a diesel fuel type. Both cars have driven 43,351 Kms.\n",
+        "bert_score": 0.9319525361061096,
+        "meteor_score": 0.3948269581056467,
+        "rouge_score": 0.6285714285714286,
+        "f1_score": 0.4
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] is priced at \u20b9 15.75 Lakh in the Delhi used car market. This 2019 model has been driven for 24,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] in Delhi, both priced at \u20b915.75 Lakh. Both are Petrol cars, driven 24,000 Kms, have comprehensive insurance, and are listed by their first owners.\n",
+        "bert_score": 0.9307734370231628,
+        "meteor_score": 0.4533550998197463,
+        "rouge_score": 0.6341463414634145,
+        "f1_score": 0.48000000000000004
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 15.75 Lakh and has been driven for 24,000 kilometers.",
+        "chatbot_response": "I don't have information about 2019 Toyota Innova Crysta 2.7 GX 8 STR [2016-2020]. However, I have details on other 2019 Toyota Innova Crysta models in Delhi, all with diesel fuel type. Prices range from \u20b915.75 Lakh to \u20b916.8 Lakh, and kilometers driven vary from 56,586 to 80,000.\n",
+        "bert_score": 0.9171420335769653,
+        "meteor_score": 0.3802910052910053,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.325
+    },
+    {
+        "question": "What is the price of 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] is priced at \u20b9 12.99 Lakh in the Delhi used car market. This 2017 model has been driven for 95,391 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] cars in Delhi, both priced at \u20b912.99 Lakh. They are diesel cars that have driven 95,391 Kms. Both are first owner cars.\n",
+        "bert_score": 0.9457948803901672,
+        "meteor_score": 0.4378855122611705,
+        "rouge_score": 0.6075949367088608,
+        "f1_score": 0.4166666666666667
+    },
+    {
+        "question": "What is the fuel type of 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 12.99 Lakh and has been driven for 95,391 kilometers.",
+        "chatbot_response": "The 2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] (Car 4 and Car 5) available in Delhi is a diesel car. Both cars are priced at \u20b912.99 Lakh, have driven 95,391 Kms.",
+        "bert_score": 0.9531850218772888,
+        "meteor_score": 0.5183235557489685,
+        "rouge_score": 0.6756756756756757,
+        "f1_score": 0.5373134328358209
+    },
+    {
+        "question": "What is the price of 2019 Honda WR-V VX MT Diesel?",
+        "ground_truth": "The 2019 Honda WR-V VX MT Diesel is priced at \u20b9 5.9 Lakh in the Delhi used car market. This 2019 model has been driven for 62,272 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two listings for the 2019 Honda WR-V VX MT Diesel in Delhi, both priced at \u20b95.9 Lakh. Both cars are Diesel, Grey in color, have driven 62,272 Kms, and are first-owner vehicles.\n",
+        "bert_score": 0.926113486289978,
+        "meteor_score": 0.36381336018798255,
+        "rouge_score": 0.6027397260273972,
+        "f1_score": 0.41791044776119407
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda WR-V VX MT Diesel?",
+        "ground_truth": "The 2019 Honda WR-V VX MT Diesel runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 5.9 Lakh and has been driven for 62,272 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2019 Honda WR-V VX MT Diesel cars available in Delhi, both priced at \u20b95.9 Lakh. Both cars have driven 62,272 Kms and run on Diesel.\n",
+        "bert_score": 0.9337658882141113,
+        "meteor_score": 0.4129355823962238,
+        "rouge_score": 0.626865671641791,
+        "f1_score": 0.3870967741935484
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020] is priced at \u20b9 15.75 Lakh in the Delhi used car market. This 2019 model has been driven for 1,45,246 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a \"2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]\". However, I found two \"2019 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020]\" in Delhi, Diesel, driven 80,000 Kms, priced at \u20b915.75 Lakh each.\n",
+        "bert_score": 0.8986680507659912,
+        "meteor_score": 0.32046008290352185,
+        "rouge_score": 0.49438202247191015,
+        "f1_score": 0.33333333333333337
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020]?",
+        "ground_truth": "The 2019 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020] runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 15.75 Lakh and has been driven for 1,45,246 kilometers.",
+        "chatbot_response": "I don't have information about the  2.8 ZX AT 7 STR model. However, there are two 2019 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020] models in Delhi, both diesel, priced at \u20b915.75 Lakh, and have 80,000 Kms driven.\n",
+        "bert_score": 0.9191232919692993,
+        "meteor_score": 0.3602464724762308,
+        "rouge_score": 0.5301204819277109,
+        "f1_score": 0.32876712328767127
+    }
+]

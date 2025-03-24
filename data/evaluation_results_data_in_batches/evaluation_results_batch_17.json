@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2016 Maruti Suzuki S-Cross Zeta 1.3?",
+        "ground_truth": "The 2016 Maruti Suzuki S-Cross Zeta 1.3 is priced at \u20b9 3.25 Lakh in the Delhi used car market. This 2016 model has been driven for 99,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8008585572242737,
+        "meteor_score": 0.06087662337662337,
+        "rouge_score": 0.08333333333333333,
+        "f1_score": 0.09090909090909091
+    },
+    {
+        "question": "What is the fuel type of 2016 Maruti Suzuki S-Cross Zeta 1.3?",
+        "ground_truth": "The 2016 Maruti Suzuki S-Cross Zeta 1.3 runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 3.25 Lakh and has been driven for 99,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7975214123725891,
+        "meteor_score": 0.06893382352941177,
+        "rouge_score": 0.09090909090909091,
+        "f1_score": 0.1
+    },
+    {
+        "question": "What is the price of 2015 Honda Amaze 1.2 VX i-VTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.2 VX i-VTEC is priced at \u20b9 3.45 Lakh in the Delhi used car market. This 2015 model has been driven for 52,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2015 Honda Amaze 1.2 VX i-VTEC (CAR 1) in Delhi, a petrol variant, is priced at \u20b93.45 Lakh. It has driven 52,000 Kms. The listing mentions it's in excellent condition with alloy wheels and a rear view camera.\n",
+        "bert_score": 0.9295918345451355,
+        "meteor_score": 0.4374176141044653,
+        "rouge_score": 0.625,
+        "f1_score": 0.41666666666666663
+    },
+    {
+        "question": "What is the fuel type of 2015 Honda Amaze 1.2 VX i-VTEC?",
+        "ground_truth": "The 2015 Honda Amaze 1.2 VX i-VTEC runs on Petrol fuel. This 2015 model is available in Delhi for \u20b9 3.45 Lakh and has been driven for 52,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2015 Honda Amaze 1.2 VX i-VTEC, is a petrol car. It is available in Delhi for \u20b93.45 Lakh and has driven 52,000 Kms.\n",
+        "bert_score": 0.9552717804908752,
+        "meteor_score": 0.5226480836236934,
+        "rouge_score": 0.7096774193548386,
+        "f1_score": 0.5454545454545454
+    },
+    {
+        "question": "What is the price of 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]?",
+        "ground_truth": "The 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] is priced at \u20b9 18.5 Lakh in the Delhi used car market. This 2020 model has been driven for 81,452 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a \"2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]\". However, I can provide details on similar models. For instance, a 2018 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] in Delhi (Diesel) is listed at \u20b915.25 Lakh, having driven 94,152 Kms.\n",
+        "bert_score": 0.9064862728118896,
+        "meteor_score": 0.3736448038334832,
+        "rouge_score": 0.45161290322580644,
+        "f1_score": 0.3373493975903615
+    },
+    {
+        "question": "What is the fuel type of 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]?",
+        "ground_truth": "The 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 18.5 Lakh and has been driven for 81,452 kilometers.",
+        "chatbot_response": "The 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] in Delhi, is available with diesel fuel type. There are two listings for this car, both priced at \u20b918.5 Lakh, have 81,452 Kms driven.\n",
+        "bert_score": 0.950180172920227,
+        "meteor_score": 0.4887811902254508,
+        "rouge_score": 0.7123287671232877,
+        "f1_score": 0.45454545454545453
+    },
+    {
+        "question": "What is the price of 2022 Toyota Glanza V AMT [2022-2023]?",
+        "ground_truth": "The 2022 Toyota Glanza V AMT [2022-2023] is priced at \u20b9 8.75 Lakh in the Delhi used car market. This 2022 model has been driven for 28,476 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 Toyota Glanza V AMT [2022-2023] (CAR 1) in Delhi, a petrol car, is priced at \u20b98.75 Lakh. It's driven 28,476 Kms.There is only one listing about it, so no comparisons can be made.\n",
+        "bert_score": 0.9326435327529907,
+        "meteor_score": 0.36567187115810174,
+        "rouge_score": 0.56,
+        "f1_score": 0.3823529411764706
+    },
+    {
+        "question": "What is the fuel type of 2022 Toyota Glanza V AMT [2022-2023]?",
+        "ground_truth": "The 2022 Toyota Glanza V AMT [2022-2023] runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 8.75 Lakh and has been driven for 28,476 kilometers.",
+        "chatbot_response": "CAR 1, a 2022 Toyota Glanza V AMT [2022-2023] in Delhi, uses Petrol. It's priced at \u20b98.75 Lakh and has 28,476 Kms driven. The listing URL is https://www.cartrade.com/second-hand/delhi/toyota-glanza/7xgsz8sa/?dc=0.\n",
+        "bert_score": 0.9013829827308655,
+        "meteor_score": 0.41471304846338125,
+        "rouge_score": 0.5405405405405406,
+        "f1_score": 0.456140350877193
+    },
+    {
+        "question": "What is the price of 2024 Toyota Glanza G E-CNG?",
+        "ground_truth": "The 2024 Toyota Glanza G E-CNG is priced at \u20b9 9.25 Lakh in the Delhi used car market. This 2024 model has been driven for 21,234 kilometers and runs on CNG + CNG fuel.",
+        "chatbot_response": "The 2024 Toyota Glanza G E-CNG in Delhi is priced at \u20b99.25 Lakh. This CNG + CNG fuel type car has 21,234 Kms driven.\n",
+        "bert_score": 0.956305742263794,
+        "meteor_score": 0.48321174710063597,
+        "rouge_score": 0.7868852459016394,
+        "f1_score": 0.5862068965517241
+    },
+    {
+        "question": "What is the fuel type of 2024 Toyota Glanza G E-CNG?",
+        "ground_truth": "The 2024 Toyota Glanza G E-CNG runs on CNG + CNG fuel. This 2024 model is available in Delhi for \u20b9 9.25 Lakh and has been driven for 21,234 kilometers.",
+        "chatbot_response": "The 2024 Toyota Glanza G E-CNG (CAR 1) listed in Delhi has a fuel type of CNG + CNG. It is priced at \u20b99.25 Lakh and has driven 21,234 Kms.\n",
+        "bert_score": 0.9506929516792297,
+        "meteor_score": 0.46822916666666664,
+        "rouge_score": 0.6666666666666667,
+        "f1_score": 0.5333333333333333
+    },
+    {
+        "question": "What is the price of 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] is priced at \u20b9 4.25 Lakh in the Delhi used car market. This 2019 model has been driven for 55,000 kilometers and runs on CNG + CNG fuel.",
+        "chatbot_response": "I found two listings for the 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] in Delhi. Both are priced at \u20b94.25 Lakh. They are CNG vehicles, have driven 55,000 Kms, are white in color, and have first owners.\n",
+        "bert_score": 0.9295503497123718,
+        "meteor_score": 0.37763829172068386,
+        "rouge_score": 0.5822784810126583,
+        "f1_score": 0.4266666666666667
+    },
+    {
+        "question": "What is the fuel type of 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] runs on CNG + CNG fuel. This 2019 model is available in Delhi for \u20b9 4.25 Lakh and has been driven for 55,000 kilometers.",
+        "chatbot_response": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] (CAR 1 and CAR 2), located in Delhi, has a fuel type of CNG + CNG. It's priced at \u20b94.25 Lakh, has driven 55,000 Kms.\n",
+        "bert_score": 0.9516134858131409,
+        "meteor_score": 0.38141993957703935,
+        "rouge_score": 0.6478873239436619,
+        "f1_score": 0.4477611940298507
+    },
+    {
+        "question": "What is the price of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol is priced at \u20b9 80 Lakh in the Delhi used car market. This 2023 model has been driven for 17,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol models in Delhi. Three are priced at \u20b985.0 Lakh (6,400-6,500 Kms driven), while two are priced at \u20b980.0 Lakh (17,000 Kms driven). All run on petrol and are listed as single-owner vehicles.\n",
+        "bert_score": 0.9111470580101013,
+        "meteor_score": 0.4838851514751792,
+        "rouge_score": 0.5494505494505494,
+        "f1_score": 0.36585365853658536
+    },
+    {
+        "question": "What is the fuel type of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 80 Lakh and has been driven for 17,000 kilometers.",
+        "chatbot_response": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol listings (CAR 1, CAR 2, CAR 3, CAR 4, and CAR 5) in Delhi all have a fuel type of Petrol. Prices range from \u20b980.0 Lakh to \u20b985.0 Lakh with kms driven from 6,400 to 17,000.\n",
+        "bert_score": 0.9055325388908386,
+        "meteor_score": 0.40833938953488375,
+        "rouge_score": 0.5116279069767442,
+        "f1_score": 0.375
+    },
+    {
+        "question": "What is the price of 2021 Volvo XC90 B6 Inscription?",
+        "ground_truth": "The 2021 Volvo XC90 B6 Inscription is priced at \u20b9 73 Lakh in the Delhi used car market. This 2021 model has been driven for 26,900 kilometers and runs on Mild Hybrid(Electric + Petrol) fuel.",
+        "chatbot_response": "I found three listings for the 2021 Volvo XC90 B6 Inscription in Delhi, all priced at \u20b973.0 Lakh. All are Mild Hybrid(Electric + Petrol) and have done approximately 27,000 Kms. Car 2 and Car 3 include a service package up to 5 years.\n",
+        "bert_score": 0.920837938785553,
+        "meteor_score": 0.40715563896648044,
+        "rouge_score": 0.47500000000000003,
+        "f1_score": 0.38461538461538464
+    },
+    {
+        "question": "What is the fuel type of 2021 Volvo XC90 B6 Inscription?",
+        "ground_truth": "The 2021 Volvo XC90 B6 Inscription runs on Mild Hybrid(Electric + Petrol) fuel. This 2021 model is available in Delhi for \u20b9 73 Lakh and has been driven for 26,900 kilometers.",
+        "chatbot_response": "The 2021 Volvo XC90 B6 Inscription listings in Delhi (CAR 1, CAR 2, CAR 3) are Mild Hybrid (Electric + Petrol). Each is priced at \u20b973.0 Lakh. CAR 1 has 27,000 Kms driven, while CAR 2 and CAR 3 have 26,900 Kms driven.\n",
+        "bert_score": 0.913393497467041,
+        "meteor_score": 0.3555583724172899,
+        "rouge_score": 0.5263157894736842,
+        "f1_score": 0.3783783783783784
+    },
+    {
+        "question": "What is the price of 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] is priced at \u20b9 4.25 Lakh in the Delhi used car market. This 2019 model has been driven for 55,000 kilometers and runs on CNG + CNG fuel.",
+        "chatbot_response": "There are two 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] cars listed in Delhi, both priced at \u20b94.25 Lakh. Both are first-owner, white, CNG cars that have driven 55,000 Kms.\n",
+        "bert_score": 0.9326605200767517,
+        "meteor_score": 0.35103785103785107,
+        "rouge_score": 0.5753424657534247,
+        "f1_score": 0.38235294117647056
+    },
+    {
+        "question": "What is the fuel type of 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] runs on CNG + CNG fuel. This 2019 model is available in Delhi for \u20b9 4.25 Lakh and has been driven for 55,000 kilometers.",
+        "chatbot_response": "The 2019 Maruti Suzuki Celerio VXi (O) CNG [2019-2020] (CAR 1 and CAR 2), located in Delhi, has a fuel type of CNG + CNG. It's priced at \u20b94.25 Lakh, has driven 55,000 Kms and is of first ownership.\n",
+        "bert_score": 0.9461406469345093,
+        "meteor_score": 0.39282624814631734,
+        "rouge_score": 0.6315789473684211,
+        "f1_score": 0.4444444444444444
+    },
+    {
+        "question": "What is the price of 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]?",
+        "ground_truth": "The 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] is priced at \u20b9 18.5 Lakh in the Delhi used car market. This 2020 model has been driven for 81,452 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I don't have information about a \"2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]\". However, I can share information about other Toyota Innova Crysta models in Delhi. For example, a 2018 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] is listed for \u20b915.25 Lakh, Diesel fuel type , and it has driven 94,152 Kms.\n",
+        "bert_score": 0.9037318229675293,
+        "meteor_score": 0.39577836411609496,
+        "rouge_score": 0.44000000000000006,
+        "f1_score": 0.3296703296703296
+    },
+    {
+        "question": "What is the fuel type of 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017]?",
+        "ground_truth": "The 2020 Toyota Innova Crysta 2.4 G 7 STR [2016-2017] runs on Diesel fuel. This 2020 model is available in Delhi for \u20b9 18.5 Lakh and has been driven for 81,452 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8005106449127197,
+        "meteor_score": 0.06270903010033445,
+        "rouge_score": 0.1276595744680851,
+        "f1_score": 0.09302325581395349
+    },
+    {
+        "question": "What is the price of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol is priced at \u20b9 80 Lakh in the Delhi used car market. This 2023 model has been driven for 17,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found five 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol models in Delhi. Three are priced at \u20b985.0 Lakh(6,400-6,500 Kms driven) and two are priced at \u20b980.0 Lakh (17,000 Kms driven).\nAll run on Petrol.\nI don't have enough information to recommend one, but the listings are available for your review.\n",
+        "bert_score": 0.9038898348808289,
+        "meteor_score": 0.4738049095607236,
+        "rouge_score": 0.5346534653465346,
+        "f1_score": 0.37362637362637363
+    },
+    {
+        "question": "What is the fuel type of 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol?",
+        "ground_truth": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 80 Lakh and has been driven for 17,000 kilometers.",
+        "chatbot_response": "The 2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol listings in Delhi (Car 1, Car 2, Car 3, Car 4 & Car 5) all have a fuel type of Petrol. Car 1 & Car 2 are priced at \u20b985.0 Lakh and have driven 6,400 Kms, while Car 3, Car 4 and Car 5 are priced at \u20b980.0 Lakh and have driven 17,000 Kms.\n",
+        "bert_score": 0.9075378775596619,
+        "meteor_score": 0.44514328318262625,
+        "rouge_score": 0.4313725490196078,
+        "f1_score": 0.326530612244898
+    },
+    {
+        "question": "What is the price of 2021 Volvo XC90 B6 Inscription?",
+        "ground_truth": "The 2021 Volvo XC90 B6 Inscription is priced at \u20b9 73 Lakh in the Delhi used car market. This 2021 model has been driven for 26,900 kilometers and runs on Mild Hybrid(Electric + Petrol) fuel.",
+        "chatbot_response": "There are three 2021 Volvo XC90 B6 Inscription cars listed in Delhi, each priced at \u20b973.0 Lakh. All are mild hybrids (Electric + Petrol), have first owners, and have driven approximately 27,000 Kms. One has insurance expiring on 11 Nov 2025 and a service package up to 5 years.\n",
+        "bert_score": 0.9124510884284973,
+        "meteor_score": 0.33083028083028077,
+        "rouge_score": 0.47058823529411764,
+        "f1_score": 0.30952380952380953
+    },
+    {
+        "question": "What is the fuel type of 2021 Volvo XC90 B6 Inscription?",
+        "ground_truth": "The 2021 Volvo XC90 B6 Inscription runs on Mild Hybrid(Electric + Petrol) fuel. This 2021 model is available in Delhi for \u20b9 73 Lakh and has been driven for 26,900 kilometers.",
+        "chatbot_response": "The 2021 Volvo XC90 B6 Inscription, available in Delhi, is a Mild Hybrid (Electric + Petrol). There are multiple listings (CAR 1, CAR 2, and CAR 3) priced at \u20b973.0 Lakh each. CAR 1 has 27,000 Kms driven. CAR 2 and CAR 3 has 26,900 Kms driven.\n",
+        "bert_score": 0.9196867346763611,
+        "meteor_score": 0.32529422812069614,
+        "rouge_score": 0.525,
+        "f1_score": 0.3589743589743589
+    },
+    {
+        "question": "What is the price of 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG?",
+        "ground_truth": "The 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG is priced at \u20b9 3.75 Lakh in the Delhi used car market. This 2018 model has been driven for 48,000 kilometers and runs on CNG fuel.",
+        "chatbot_response": "The 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG in Delhi (CAR 1) is priced at \u20b93.75 Lakh. It's a CNG car with 48,000 Kms driven and has single owner.\n",
+        "bert_score": 0.9543465375900269,
+        "meteor_score": 0.5363610232825524,
+        "rouge_score": 0.7123287671232877,
+        "f1_score": 0.5970149253731343
+    },
+    {
+        "question": "What is the fuel type of 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG?",
+        "ground_truth": "The 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG runs on CNG fuel. This 2018 model is available in Delhi for \u20b9 3.75 Lakh and has been driven for 48,000 kilometers.",
+        "chatbot_response": "The 2018 Hyundai Grand i10 Magna 1.2 Kappa VTVT CNG (CAR 1), located in Delhi, has a fuel type of CNG. It's priced at \u20b93.75 Lakh and has driven 48,000 Kms.\n",
+        "bert_score": 0.9543284177780151,
+        "meteor_score": 0.47021943573667707,
+        "rouge_score": 0.6666666666666666,
+        "f1_score": 0.5079365079365079
+    },
+    {
+        "question": "What is the price of 2016 Audi A4 2.0 TDI (177bhp) Premium Plus?",
+        "ground_truth": "The 2016 Audi A4 2.0 TDI (177bhp) Premium Plus is priced at \u20b9 11.5 Lakh in the Delhi used car market. This 2016 model has been driven for 65,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2016 Audi A4 2.0 TDI (177bhp) Premium Plus in Delhi is priced at \u20b911.5 Lakh. It's a diesel car that has been driven 65,000 Kms and is a second-owner vehicle.\n",
+        "bert_score": 0.9617012739181519,
+        "meteor_score": 0.5503126105933703,
+        "rouge_score": 0.7123287671232876,
+        "f1_score": 0.606060606060606
+    },
+    {
+        "question": "What is the fuel type of 2016 Audi A4 2.0 TDI (177bhp) Premium Plus?",
+        "ground_truth": "The 2016 Audi A4 2.0 TDI (177bhp) Premium Plus runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 11.5 Lakh and has been driven for 65,000 kilometers.",
+        "chatbot_response": "The 2016 Audi A4 2.0 TDI (177bhp) Premium Plus (CAR 2) in Delhi is a diesel car. It's listed for \u20b911.5 Lakh and has driven 65,000 Kms. Other cars are available, but only CAR 2 matches the exact car model, year and trim specified by the user.\n",
+        "bert_score": 0.9364569783210754,
+        "meteor_score": 0.5094063864860732,
+        "rouge_score": 0.5952380952380952,
+        "f1_score": 0.46153846153846156
+    },
+    {
+        "question": "What is the price of 2022 MG ZS EV Exclusive [2020-2021]?",
+        "ground_truth": "The 2022 MG ZS EV Exclusive [2020-2021] is priced at \u20b9 17.25 Lakh in the Delhi used car market. This 2022 model has been driven for 58,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "There are three 2022 MG ZS EV Exclusive [2020-2021] cars listed in Delhi. One is priced at \u20b917.25 Lakh and the other two are priced at \u20b916.75 Lakh. All are electric, have first owners, and have driven approximately 58,000 Kms.\n",
+        "bert_score": 0.9301121830940247,
+        "meteor_score": 0.39763770400593473,
+        "rouge_score": 0.5569620253164557,
+        "f1_score": 0.410958904109589
+    },
+    {
+        "question": "What is the fuel type of 2022 MG ZS EV Exclusive [2020-2021]?",
+        "ground_truth": "The 2022 MG ZS EV Exclusive [2020-2021] runs on Electric fuel. This 2022 model is available in Delhi for \u20b9 17.25 Lakh and has been driven for 58,000 kilometers.",
+        "chatbot_response": "The 2022 MG ZS EV Exclusive [2020-2021] cars listed in Delhi (CAR 1, CAR 2, and CAR 3) have a fuel type of Electric. The prices range from \u20b916.75 Lakh to \u20b917.25 Lakh, and all have around 58,000 Kms driven.\n",
+        "bert_score": 0.927960991859436,
+        "meteor_score": 0.35910391288298266,
+        "rouge_score": 0.5066666666666667,
+        "f1_score": 0.34782608695652173
+    },
+    {
+        "question": "What is the price of 2016 Ford Endeavour Titanium 3.2 4x4 AT?",
+        "ground_truth": "The 2016 Ford Endeavour Titanium 3.2 4x4 AT is priced at \u20b9 16.95 Lakh in the Delhi used car market. This 2016 model has been driven for 85,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2016 Ford Endeavour Titanium 3.2 4x4 AT in Delhi (Car 1) is priced at \u20b916.95 Lakh. It's a diesel vehicle with 85,000 Kms driven. This car has had two previous owners.\n",
+        "bert_score": 0.9486536979675293,
+        "meteor_score": 0.4717747826722185,
+        "rouge_score": 0.6666666666666666,
+        "f1_score": 0.5151515151515151
+    },
+    {
+        "question": "What is the fuel type of 2016 Ford Endeavour Titanium 3.2 4x4 AT?",
+        "ground_truth": "The 2016 Ford Endeavour Titanium 3.2 4x4 AT runs on Diesel fuel. This 2016 model is available in Delhi for \u20b9 16.95 Lakh and has been driven for 85,000 kilometers.",
+        "chatbot_response": "The 2016 Ford Endeavour Titanium 3.2 4x4 AT (CAR 1) listed in Delhi is a diesel vehicle. It's priced at \u20b916.95 Lakh and has driven 85,000 Kms.\n",
+        "bert_score": 0.9524796009063721,
+        "meteor_score": 0.5141379189822096,
+        "rouge_score": 0.6666666666666667,
+        "f1_score": 0.5614035087719299
+    },
+    {
+        "question": "What is the price of 2023 MG Comet EV Play?",
+        "ground_truth": "The 2023 MG Comet EV Play is priced at \u20b9 7.25 Lakh in the Delhi used car market. This 2023 model has been driven for 20,000 kilometers and runs on Electric fuel.",
+        "chatbot_response": "The 2023 MG Comet EV Play, available in Delhi, is priced at \u20b97.25 Lakh. It's an electric vehicle with 20,000 Kms driven. This car is in immaculate condition and has alloy wheels, a rear view camera, and service history.\n",
+        "bert_score": 0.9256422519683838,
+        "meteor_score": 0.3412844036697247,
+        "rouge_score": 0.5866666666666667,
+        "f1_score": 0.39436619718309857
+    },
+    {
+        "question": "What is the fuel type of 2023 MG Comet EV Play?",
+        "ground_truth": "The 2023 MG Comet EV Play runs on Electric fuel. This 2023 model is available in Delhi for \u20b9 7.25 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "The 2023 MG Comet EV Play (CAR 1) in Delhi is an Electric car. It is listed at \u20b97.25 Lakh, has driven 20,000 Kms. The listing specifies its fuel type as Electric.\n",
+        "bert_score": 0.9359451532363892,
+        "meteor_score": 0.3818026502208517,
+        "rouge_score": 0.5714285714285715,
+        "f1_score": 0.4333333333333333
+    },
+    {
+        "question": "What is the price of 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020]?",
+        "ground_truth": "The 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020] is priced at \u20b9 11.45 Lakh in the Delhi used car market. This 2019 model has been driven for 65,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020] in Delhi, a petrol variant, is priced at \u20b911.45 Lakh. It's a first-owner car with 65,000 Kms driven. Find details here: https://www.cartrade.com/second-hand/delhi/kia-seltos/w43xiqsd/?dc=0.\n",
+        "bert_score": 0.9099866151809692,
+        "meteor_score": 0.4335260115606937,
+        "rouge_score": 0.5581395348837209,
+        "f1_score": 0.4545454545454545
+    },
+    {
+        "question": "What is the fuel type of 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020]?",
+        "ground_truth": "The 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 11.45 Lakh and has been driven for 65,000 kilometers.",
+        "chatbot_response": "CAR 1, a 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020] in Delhi, uses petrol. It's priced at \u20b911.45 Lakh and has driven 65,000 Kms. Therefore, the fuel type for the 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020] is Petrol.\n",
+        "bert_score": 0.9302074313163757,
+        "meteor_score": 0.5142746913580247,
+        "rouge_score": 0.6341463414634146,
+        "f1_score": 0.4444444444444444
+    },
+    {
+        "question": "What is the price of 2019 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2019 Honda City V CVT Petrol [2017-2019] is priced at \u20b9 7.65 Lakh in the Delhi used car market. This 2019 model has been driven for 71,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8001461029052734,
+        "meteor_score": 0.05914826498422712,
+        "rouge_score": 0.08333333333333333,
+        "f1_score": 0.08888888888888888
+    },
+    {
+        "question": "What is the fuel type of 2019 Honda City V CVT Petrol [2017-2019]?",
+        "ground_truth": "The 2019 Honda City V CVT Petrol [2017-2019] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 7.65 Lakh and has been driven for 71,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7989422678947449,
+        "meteor_score": 0.06672597864768684,
+        "rouge_score": 0.09090909090909091,
+        "f1_score": 0.0975609756097561
+    },
+    {
+        "question": "What is the price of 2022 Audi A6 Premium Plus 45 TFSI [2019-2024]?",
+        "ground_truth": "The 2022 Audi A6 Premium Plus 45 TFSI [2019-2024] is priced at \u20b9 44.5 Lakh in the Delhi used car market. This 2022 model has been driven for 36,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2022 Audi A6 Premium Plus 45 TFSI [2019-2024] in Delhi (petrol) is priced at \u20b944.5 Lakh. It has driven 36,000 Kms. Another 2022 Audi A6 Technology 45 TFSI [2019-2024] is available for \u20b943.2 Lakh, having driven 22,000 Kms.\n",
+        "bert_score": 0.9276065826416016,
+        "meteor_score": 0.45076451163591397,
+        "rouge_score": 0.6097560975609757,
+        "f1_score": 0.48648648648648646
+    },
+    {
+        "question": "What is the fuel type of 2022 Audi A6 Premium Plus 45 TFSI [2019-2024]?",
+        "ground_truth": "The 2022 Audi A6 Premium Plus 45 TFSI [2019-2024] runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 44.5 Lakh and has been driven for 36,000 kilometers.",
+        "chatbot_response": "I don't have information about \"2022 Audi A6 Premium Plus 45 TFSI [2019-2024]\". However, I found a 2022 Audi A6 Technology 45 TFSI [2019-2024] (year: 2022, city: Delhi, price: \u20b943.2 Lakh) with fuel type Petrol and 22,000 Kms driven and other similar Audi A6 models in the listing.\n",
+        "bert_score": 0.901417076587677,
+        "meteor_score": 0.3501217000561692,
+        "rouge_score": 0.46511627906976744,
+        "f1_score": 0.3037974683544304
+    },
+    {
+        "question": "What is the price of 2018 BMW 6-Series GT 630i Sport Line?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630i Sport Line is priced at \u20b9 42.8 Lakh in the Delhi used car market. This 2018 model has been driven for 65,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2018 BMW 6-Series GT 630i Sport Line in Delhi (CAR 1) is listed at \u20b942.8 Lakh. It's a petrol variant with 65,000 Kms driven. Other 2018 BMW 6-Series GT models are available, but they are diesel variants and different trim levels.\n",
+        "bert_score": 0.9211118221282959,
+        "meteor_score": 0.37928051545161673,
+        "rouge_score": 0.5783132530120482,
+        "f1_score": 0.36842105263157887
+    },
+    {
+        "question": "What is the fuel type of 2018 BMW 6-Series GT 630i Sport Line?",
+        "ground_truth": "The 2018 BMW 6-Series GT 630i Sport Line runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 42.8 Lakh and has been driven for 65,000 kilometers.",
+        "chatbot_response": "The 2018 BMW 6-Series GT 630i Sport Line (CAR 1) in Delhi is a petrol variant. It's priced at \u20b942.8 Lakh and has driven 65,000 Kms. Other 2018 BMW 6-Series GT models listed are diesel variants.\n",
+        "bert_score": 0.9389354586601257,
+        "meteor_score": 0.5606702514800934,
+        "rouge_score": 0.6301369863013699,
+        "f1_score": 0.4848484848484848
+    },
+    {
+        "question": "What is the price of 2019 Audi A4 35 TDI Premium Plus?",
+        "ground_truth": "The 2019 Audi A4 35 TDI Premium Plus is priced at \u20b9 20.25 Lakh in the Delhi used car market. This 2019 model has been driven for 22,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2019 Audi A4 35 TDI Premium Plus (CAR 3) in Delhi is priced at \u20b920.25 Lakh. It's a diesel car that has driven 22,000 Kms. Another 2019 Audi A4 (CAR 4) is the 2.0 TDI Premium, priced at \u20b917.5 Lakh, but it is registered as a taxi.\n",
+        "bert_score": 0.9254418611526489,
+        "meteor_score": 0.42033898305084744,
+        "rouge_score": 0.5454545454545454,
+        "f1_score": 0.4390243902439025
+    },
+    {
+        "question": "What is the fuel type of 2019 Audi A4 35 TDI Premium Plus?",
+        "ground_truth": "The 2019 Audi A4 35 TDI Premium Plus runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 20.25 Lakh and has been driven for 22,000 kilometers.",
+        "chatbot_response": "The 2019 Audi A4 35 TDI Premium Plus (CAR 2), located in Delhi, has a diesel fuel type. It is priced at \u20b920.25 Lakh and has driven 22,000 Kms.\n",
+        "bert_score": 0.9532469511032104,
+        "meteor_score": 0.4874973871237458,
+        "rouge_score": 0.6774193548387096,
+        "f1_score": 0.5084745762711865
+    },
+    {
+        "question": "What is the price of 2016 Toyota Corolla Altis G AT Petrol?",
+        "ground_truth": "The 2016 Toyota Corolla Altis G AT Petrol is priced at \u20b9 7.99 Lakh in the Delhi used car market. This 2016 model has been driven for 70,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Toyota Corolla Altis G AT Petrol in Delhi (CAR 1) is priced at \u20b97.99 Lakh. It has driven 70,000 Kms and runs on Petrol. The listing indicates it's a Certified, Non-Accidental car with original paint and alloy wheels.\n",
+        "bert_score": 0.9362682700157166,
+        "meteor_score": 0.5170199100834939,
+        "rouge_score": 0.6582278481012659,
+        "f1_score": 0.5405405405405405
+    },
+    {
+        "question": "What is the fuel type of 2016 Toyota Corolla Altis G AT Petrol?",
+        "ground_truth": "The 2016 Toyota Corolla Altis G AT Petrol runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 7.99 Lakh and has been driven for 70,000 kilometers.",
+        "chatbot_response": "The 2016 Toyota Corolla Altis G AT Petrol listed in Delhi (CAR 1) has a petrol fuel type. It's priced at \u20b97.99 Lakh and has driven 70,000 Kms. Other Toyota Corolla Altis cars are listed, but the user specifically asked about the 2016 \"G AT Petrol\" variant.\n",
+        "bert_score": 0.920150637626648,
+        "meteor_score": 0.44196784299171515,
+        "rouge_score": 0.5185185185185185,
+        "f1_score": 0.38961038961038963
+    },
+    {
+        "question": "What is the price of 2023 Audi Q3 40 TFSI Premium Plus [2022-2024]?",
+        "ground_truth": "The 2023 Audi Q3 40 TFSI Premium Plus [2022-2024] is priced at \u20b9 37.9 Lakh in the Delhi used car market. This 2023 model has been driven for 20,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2023 Audi Q3 40 TFSI Premium Plus [2022-2024] in Delhi (Car 3) is priced at \u20b937.9 Lakh. This petrol car has driven 20,000 Kms. It's a first-owner vehicle with comprehensive insurance.\n",
+        "bert_score": 0.947319507598877,
+        "meteor_score": 0.5141210374639769,
+        "rouge_score": 0.6756756756756757,
+        "f1_score": 0.5671641791044776
+    },
+    {
+        "question": "What is the fuel type of 2023 Audi Q3 40 TFSI Premium Plus [2022-2024]?",
+        "ground_truth": "The 2023 Audi Q3 40 TFSI Premium Plus [2022-2024] runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 37.9 Lakh and has been driven for 20,000 kilometers.",
+        "chatbot_response": "I don't have information about the 2023 Audi Q3 40 TFSI Premium Plus [2022-2024]. However, I can tell you that all the Audi cars listed (RS Q8, Q7, and A4) are petrol-fueled, located in Delhi, and range from \u20b932.5 Lakh to \u20b91.6 Crore.\n",
+        "bert_score": 0.9003500938415527,
+        "meteor_score": 0.2975976592577383,
+        "rouge_score": 0.3950617283950617,
+        "f1_score": 0.2702702702702703
+    },
+    {
+        "question": "What is the price of 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition?",
+        "ground_truth": "The 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition is priced at \u20b9 94.99 Lakh in the Delhi used car market. This 2018 model has been driven for 75,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition (CAR 1) in Delhi, a petrol car, is priced at \u20b994.99 Lakh. It has 75,000 Kms driven.\n",
+        "bert_score": 0.9486169815063477,
+        "meteor_score": 0.4398826979472141,
+        "rouge_score": 0.7352941176470588,
+        "f1_score": 0.4918032786885245
+    },
+    {
+        "question": "What is the fuel type of 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition?",
+        "ground_truth": "The 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition runs on Petrol fuel. This 2018 model is available in Delhi for \u20b9 94.99 Lakh and has been driven for 75,000 kilometers.",
+        "chatbot_response": "The 2018 Mercedes-Benz S-Class Maybach S 560 Maestro Edition (CAR 1) in Delhi, priced at \u20b994.99 Lakh, has a petrol fuel type. It has driven 75,000 Kms and is a first-owner vehicle. Other 2018 Mercedes-Benz S-Class Maybach S 500 cars are also available, all with petrol fuel types as well.\n",
+        "bert_score": 0.9357092380523682,
+        "meteor_score": 0.4467243718513688,
+        "rouge_score": 0.5714285714285713,
+        "f1_score": 0.37037037037037035
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "question": "What is the price of 2015 Maruti Suzuki Wagon R LXI CNG (O)?",
+        "ground_truth": "The 2015 Maruti Suzuki Wagon R LXI CNG (O) is priced at \u20b9 2.7 Lakh in the Delhi used car market. This 2015 model has been driven for 72,627 kilometers and runs on CNG + CNG fuel.",
+        "chatbot_response": "The 2015 Maruti Suzuki Wagon R LXI CNG (O) in Delhi (CAR 1) is priced at \u20b92.7 Lakh. It has CNG + CNG fuel type and has been driven 72,627 Kms. There is another 2021 Maruti Suzuki Wagon R LXI CNG (O) in Delhi (CAR 2) priced at \u20b94.95 Lakh.\n",
+        "bert_score": 0.9378100037574768,
+        "meteor_score": 0.4833793668946767,
+        "rouge_score": 0.6067415730337079,
+        "f1_score": 0.45977011494252873
+    },
+    {
+        "question": "What is the fuel type of 2015 Maruti Suzuki Wagon R LXI CNG (O)?",
+        "ground_truth": "The 2015 Maruti Suzuki Wagon R LXI CNG (O) runs on CNG + CNG fuel. This 2015 model is available in Delhi for \u20b9 2.7 Lakh and has been driven for 72,627 kilometers.",
+        "chatbot_response": "The 2015 Maruti Suzuki Wagon R LXI CNG (O) listed in Delhi (CAR 1) is a CNG + CNG fuel type. It's priced at \u20b92.7 Lakh and has driven 72,627 Kms.\n",
+        "bert_score": 0.9561074376106262,
+        "meteor_score": 0.5819740853658537,
+        "rouge_score": 0.696969696969697,
+        "f1_score": 0.5625
+    },
+    {
+        "question": "What is the price of 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020] is priced at \u20b9 7.85 Lakh in the Delhi used car market. This 2019 model has been driven for 47,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020] in Delhi (petrol) is priced at \u20b97.85 Lakh. This car has driven 47,000 Kms.\n",
+        "bert_score": 0.959294855594635,
+        "meteor_score": 0.526903735632184,
+        "rouge_score": 0.8059701492537313,
+        "f1_score": 0.6666666666666667
+    },
+    {
+        "question": "What is the fuel type of 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020]?",
+        "ground_truth": "The 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020] runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 7.85 Lakh and has been driven for 47,000 kilometers.",
+        "chatbot_response": "The 2019 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020] (CAR 1) in Delhi, priced at \u20b97.85 Lakh, has a fuel type of Petrol. It has been driven 47,000 Kms.\n",
+        "bert_score": 0.9536381363868713,
+        "meteor_score": 0.43591893780573027,
+        "rouge_score": 0.6956521739130436,
+        "f1_score": 0.4838709677419355
+    },
+    {
+        "question": "What is the price of 2020 Rolls-Royce Phantom EWB?",
+        "ground_truth": "The 2020 Rolls-Royce Phantom EWB is priced at \u20b9 12 Crore in the Delhi used car market. This 2020 model has been driven for 16,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three listings for the 2020 Rolls-Royce Phantom EWB in Delhi, all priced at \u20b912.0 Crore. Each has driven 16,000 Kms and runs on Petrol. All three listings indicate they are from first owners and are in excellent condition.\n",
+        "bert_score": 0.9236461520195007,
+        "meteor_score": 0.37749912922326717,
+        "rouge_score": 0.5599999999999999,
+        "f1_score": 0.4225352112676056
+    },
+    {
+        "question": "What is the fuel type of 2020 Rolls-Royce Phantom EWB?",
+        "ground_truth": "The 2020 Rolls-Royce Phantom EWB runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 12 Crore and has been driven for 16,000 kilometers.",
+        "chatbot_response": "The 2020 Rolls-Royce Phantom EWB (CAR 1, CAR 2 & CAR 3) available in Delhi, are petrol cars. All three cars are priced at \u20b912.0 Crore and have driven 16,000 Kms.\n",
+        "bert_score": 0.9308862090110779,
+        "meteor_score": 0.373073803730738,
+        "rouge_score": 0.5245901639344263,
+        "f1_score": 0.3793103448275862
+    },
+    {
+        "question": "What is the price of 2024 BMW 7-Series 740i [2023]?",
+        "ground_truth": "The 2024 BMW 7-Series 740i [2023] is priced at \u20b9 1.59 Crore in the Delhi used car market. This 2024 model has been driven for 4,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8095079064369202,
+        "meteor_score": 0.06270903010033445,
+        "rouge_score": 0.08695652173913045,
+        "f1_score": 0.09302325581395349
+    },
+    {
+        "question": "What is the fuel type of 2024 BMW 7-Series 740i [2023]?",
+        "ground_truth": "The 2024 BMW 7-Series 740i [2023] runs on Petrol fuel. This 2024 model is available in Delhi for \u20b9 1.59 Crore and has been driven for 4,000 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.8101459741592407,
+        "meteor_score": 0.07129277566539924,
+        "rouge_score": 0.09523809523809522,
+        "f1_score": 0.10256410256410255
+    },
+    {
+        "question": "What is the price of 2022 Land Rover Defender 110 HSE 2.0 Petrol?",
+        "ground_truth": "The 2022 Land Rover Defender 110 HSE 2.0 Petrol is priced at \u20b9 99.9 Lakh in the Delhi used car market. This 2022 model has been driven for 35,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found four listings for the 2022 Land Rover Defender 110 HSE 2.0 Petrol in Delhi. Three are priced at \u20b999.9 Lakh, and one is priced slightly higher at \u20b91.02 Crore. All have driven 35,000 Kms and run on Petrol.\n",
+        "bert_score": 0.9298869967460632,
+        "meteor_score": 0.48328196324762973,
+        "rouge_score": 0.6419753086419754,
+        "f1_score": 0.48
+    },
+    {
+        "question": "What is the fuel type of 2022 Land Rover Defender 110 HSE 2.0 Petrol?",
+        "ground_truth": "The 2022 Land Rover Defender 110 HSE 2.0 Petrol runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 99.9 Lakh and has been driven for 35,000 kilometers.",
+        "chatbot_response": "The 2022 Land Rover Defender 110 HSE 2.0 Petrol models in Delhi (CAR 1, CAR 2, CAR 3, CAR 4) all have a petrol fuel type. These cars, manufactured in 2022 and located in Delhi, are priced around \u20b999.9 Lakh - \u20b91.02 Crore and have 35,000 Kms driven.\n",
+        "bert_score": 0.9223158955574036,
+        "meteor_score": 0.48130747172047444,
+        "rouge_score": 0.5476190476190477,
+        "f1_score": 0.35443037974683544
+    },
+    {
+        "question": "What is the price of 2021 BMW 5-Series 520d Luxury Line [2017-2019]?",
+        "ground_truth": "The 2021 BMW 5-Series 520d Luxury Line [2017-2019] is priced at \u20b9 42 Lakh in the Delhi used car market. This 2021 model has been driven for 42,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2021 BMW 5-Series 520d Luxury Line [2017-2019] in Delhi (CAR 1) is priced at \u20b954.9 Lakh. This diesel car has driven 24,000 Kms and is in excellent condition, with the first owner. However, the insurance is expired.\n",
+        "bert_score": 0.9353161454200745,
+        "meteor_score": 0.48168604651162794,
+        "rouge_score": 0.6153846153846153,
+        "f1_score": 0.5277777777777778
+    },
+    {
+        "question": "What is the fuel type of 2021 BMW 5-Series 520d Luxury Line [2017-2019]?",
+        "ground_truth": "The 2021 BMW 5-Series 520d Luxury Line [2017-2019] runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 42 Lakh and has been driven for 42,000 kilometers.",
+        "chatbot_response": "The 2021 BMW 5-Series 520d Luxury Line [2017-2019] (car_name) available in Delhi (city) is a diesel (fuel_type) car. It is priced at \u20b954.9 Lakh (price) and has driven 24,000 Kms (kms driven). The car's manufacturing year is 2021 (year).\n",
+        "bert_score": 0.9196891188621521,
+        "meteor_score": 0.5461165048543689,
+        "rouge_score": 0.5641025641025642,
+        "f1_score": 0.463768115942029
+    },
+    {
+        "question": "What is the price of 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG?",
+        "ground_truth": "The 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG is priced at \u20b9 14.75 Lakh in the Delhi used car market. This 2021 model has been driven for 24,143 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG in Delhi is priced at \u20b914.75 Lakh. This petrol car has driven 24,143 Kms and is a first-owner vehicle. You can find more details at https://www.cartrade.com/second-hand/delhi/volkswagen-taigun/a5xi508l/?dc=0.\n",
+        "bert_score": 0.905906081199646,
+        "meteor_score": 0.49067055393586,
+        "rouge_score": 0.5977011494252874,
+        "f1_score": 0.5714285714285714
+    },
+    {
+        "question": "What is the fuel type of 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG?",
+        "ground_truth": "The 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 14.75 Lakh and has been driven for 24,143 kilometers.",
+        "chatbot_response": "The 2021 Volkswagen Taigun GT Plus 1.5 TSI DSG (car_name), listed in Delhi (city), uses Petrol (fuel_type). It's priced at \u20b914.75 Lakh (price) and has driven 24,143 Kms (kms driven). The car was manufactured in 2021 (year).\n",
+        "bert_score": 0.9245231747627258,
+        "meteor_score": 0.5207844975777466,
+        "rouge_score": 0.6052631578947368,
+        "f1_score": 0.5
+    },
+    {
+        "question": "What is the price of 2020 Hyundai Elantra SX 2.0 AT?",
+        "ground_truth": "The 2020 Hyundai Elantra SX 2.0 AT is priced at \u20b9 16 Lakh in the Delhi used car market. This 2020 model has been driven for 19,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2020 Hyundai Elantra SX 2.0 AT (CAR 1) in Delhi, with petrol fuel type, is priced at \u20b916.0 Lakh. It has driven 19,000 Kms. Another similar car is not available in the listing.\n",
+        "bert_score": 0.9346644878387451,
+        "meteor_score": 0.44402513093383794,
+        "rouge_score": 0.6478873239436619,
+        "f1_score": 0.4776119402985075
+    },
+    {
+        "question": "What is the fuel type of 2020 Hyundai Elantra SX 2.0 AT?",
+        "ground_truth": "The 2020 Hyundai Elantra SX 2.0 AT runs on Petrol fuel. This 2020 model is available in Delhi for \u20b9 16 Lakh and has been driven for 19,000 kilometers.",
+        "chatbot_response": "The 2020 Hyundai Elantra SX 2.0 AT (CAR 5) in Delhi, priced at \u20b916.0 Lakh, uses Petrol. It has driven 19,000 Kms.\n",
+        "bert_score": 0.9478271007537842,
+        "meteor_score": 0.31393277458166624,
+        "rouge_score": 0.6181818181818183,
+        "f1_score": 0.4313725490196078
+    },
+    {
+        "question": "What is the price of 2024 BMW 2 Series Gran Coupe 220i M Sport?",
+        "ground_truth": "The 2024 BMW 2 Series Gran Coupe 220i M Sport is priced at \u20b9 39.5 Lakh in the Delhi used car market. This 2024 model has been driven for 12,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There is one 2024 BMW 2 Series Gran Coupe 220i M Sport in Delhi. It is listed at \u20b939.5 Lakh. This petrol car has driven 12,000 Kms and is the first owner car.\n",
+        "bert_score": 0.9404033422470093,
+        "meteor_score": 0.48329831932773104,
+        "rouge_score": 0.6944444444444444,
+        "f1_score": 0.5507246376811594
+    },
+    {
+        "question": "What is the fuel type of 2024 BMW 2 Series Gran Coupe 220i M Sport?",
+        "ground_truth": "The 2024 BMW 2 Series Gran Coupe 220i M Sport runs on Petrol fuel. This 2024 model is available in Delhi for \u20b9 39.5 Lakh and has been driven for 12,000 kilometers.",
+        "chatbot_response": "The 2024 BMW 2 Series Gran Coupe 220i M Sport (CAR 3), located in Delhi, has a fuel type of Petrol. The car is priced at \u20b939.5 Lakh, and it has driven 12,000 Kms.\n",
+        "bert_score": 0.9497777223587036,
+        "meteor_score": 0.4526761451863354,
+        "rouge_score": 0.6666666666666666,
+        "f1_score": 0.48484848484848486
+    },
+    {
+        "question": "What is the price of 2023 BMW X1 sDrive18i M Sport?",
+        "ground_truth": "The 2023 BMW X1 sDrive18i M Sport is priced at \u20b9 47 Lakh in the Delhi used car market. This 2023 model has been driven for 9,700 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about a 2023 BMW X1 sDrive18i M Sport. The available listings include the 2023 BMW X5 xDrive40i M Sport (Delhi, Petrol, \u20b983.5 Lakh, 21,000 Kms) but not the specific car you are asking about.\n",
+        "bert_score": 0.8917349576950073,
+        "meteor_score": 0.222089552238806,
+        "rouge_score": 0.35135135135135137,
+        "f1_score": 0.2535211267605634
+    },
+    {
+        "question": "What is the fuel type of 2023 BMW X1 sDrive18i M Sport?",
+        "ground_truth": "The 2023 BMW X1 sDrive18i M Sport runs on Petrol fuel. This 2023 model is available in Delhi for \u20b9 47 Lakh and has been driven for 9,700 kilometers.",
+        "chatbot_response": "The 2023 BMW X1 sDrive18i M Sport (CAR 4) in Delhi is a petrol vehicle. It is priced at \u20b947.0 Lakh and has driven 9,700 Kms. The car is a first-owner vehicle with zero depreciation insurance.\n",
+        "bert_score": 0.9350758194923401,
+        "meteor_score": 0.4907801978114478,
+        "rouge_score": 0.5294117647058824,
+        "f1_score": 0.46153846153846156
+    },
+    {
+        "question": "What is the price of 2019 Kia Seltos GTX Plus 1.4 DCT?",
+        "ground_truth": "The 2019 Kia Seltos GTX Plus 1.4 DCT is priced at \u20b9 12.5 Lakh in the Delhi used car market. This 2019 model has been driven for 55,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There is one 2019 Kia Seltos GTX Plus 1.4 DCT listed in Delhi for \u20b912.5 Lakh. It's a petrol car that has driven 55,000 Kms. Another possible match is CAR 1, a 2019 Kia Seltos GTX Plus AT 1.4 [2019-2020], priced at \u20b911.45 Lakh.\n",
+        "bert_score": 0.9143704175949097,
+        "meteor_score": 0.40929956470122675,
+        "rouge_score": 0.5517241379310345,
+        "f1_score": 0.4358974358974359
+    },
+    {
+        "question": "What is the fuel type of 2019 Kia Seltos GTX Plus 1.4 DCT?",
+        "ground_truth": "The 2019 Kia Seltos GTX Plus 1.4 DCT runs on Petrol fuel. This 2019 model is available in Delhi for \u20b9 12.5 Lakh and has been driven for 55,000 kilometers.",
+        "chatbot_response": "Based on the listings, there are multiple 2019 Kia Seltos GTX Plus 1.4 DCT models in Delhi. CAR 2 (2019 Kia Seltos GTX Plus 1.4 DCT) is listed with Petrol as its fuel type, priced at \u20b912.5 Lakh, and has driven 55,000 Kms.\n",
+        "bert_score": 0.9187702536582947,
+        "meteor_score": 0.44761599433985205,
+        "rouge_score": 0.6329113924050632,
+        "f1_score": 0.4109589041095891
+    },
+    {
+        "question": "What is the price of 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023]?",
+        "ground_truth": "The 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023] is priced at \u20b9 93 Lakh in the Delhi used car market. This 2022 model has been driven for 25,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about a 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023]. The available listings include 2021 and 2024 GLE 450 models, as well as a 2023 GLE 300d.\n",
+        "bert_score": 0.8764587640762329,
+        "meteor_score": 0.15834263392857145,
+        "rouge_score": 0.34782608695652173,
+        "f1_score": 0.25
+    },
+    {
+        "question": "What is the fuel type of 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023]?",
+        "ground_truth": "The 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023] runs on Petrol fuel. This 2022 model is available in Delhi for \u20b9 93 Lakh and has been driven for 25,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2022 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023]. However, I found listings for the 2021 and 2024 models. The 2021 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023] (car_name) is available in Delhi (city), priced at \u20b982.0 Lakh (price), has run 34,000 Kms (kms driven) and has a petrol (fuel_type) engine.\n",
+        "bert_score": 0.9072429537773132,
+        "meteor_score": 0.5208333333333334,
+        "rouge_score": 0.5052631578947369,
+        "f1_score": 0.38095238095238093
+    },
+    {
+        "question": "What is the price of 2017 Mercedes-Benz GLE 400 4MATIC?",
+        "ground_truth": "The 2017 Mercedes-Benz GLE 400 4MATIC is priced at \u20b9 46 Lakh in the Delhi used car market. This 2017 model has been driven for 49,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2017 Mercedes-Benz GLE 400 4MATIC in Delhi is priced at \u20b946.0 Lakh. This petrol variant has driven 49,000 Kms and is with a single owner. It features comprehensive insurance, Harmon Kardon audio, a 360-degree camera and Airmatic suspension.\n",
+        "bert_score": 0.9203968048095703,
+        "meteor_score": 0.40363797974667476,
+        "rouge_score": 0.5526315789473685,
+        "f1_score": 0.4507042253521127
+    },
+    {
+        "question": "What is the fuel type of 2017 Mercedes-Benz GLE 400 4MATIC?",
+        "ground_truth": "The 2017 Mercedes-Benz GLE 400 4MATIC runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 46 Lakh and has been driven for 49,000 kilometers.",
+        "chatbot_response": "The 2017 Mercedes-Benz GLE 400 4MATIC (CAR 4) in Delhi, priced at \u20b946.0 Lakh, uses Petrol. It has driven 49,000 Kms. Also, there is another 2017 Mercedes-Benz GLE 400 4MATIC available with a price of \u20b948.5 Lakh (CAR 1).\n",
+        "bert_score": 0.9314889311790466,
+        "meteor_score": 0.3934357248053861,
+        "rouge_score": 0.5205479452054794,
+        "f1_score": 0.3880597014925373
+    },
+    {
+        "question": "What is the price of 2016 Mercedes-Benz S-Class S 500?",
+        "ground_truth": "The 2016 Mercedes-Benz S-Class S 500 is priced at \u20b9 69 Lakh in the Delhi used car market. This 2016 model has been driven for 46,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2016 Mercedes-Benz S-Class S 500 (CAR 2) in Delhi is priced at \u20b969.0 Lakh. It's a Petrol car that has driven 46,000 Kms. The listing mentions features like Ventilated & Massaging Seats, Rear recliner seats, Burmester 3D Audio, Panoramic sunroof, Auto Park Assist, 360 Degrees Camera, Rear Entertainment, Ambient Lighting\n",
+        "bert_score": 0.8875046968460083,
+        "meteor_score": 0.4132855640954976,
+        "rouge_score": 0.49438202247191015,
+        "f1_score": 0.3855421686746988
+    },
+    {
+        "question": "What is the fuel type of 2016 Mercedes-Benz S-Class S 500?",
+        "ground_truth": "The 2016 Mercedes-Benz S-Class S 500 runs on Petrol fuel. This 2016 model is available in Delhi for \u20b9 69 Lakh and has been driven for 46,000 kilometers.",
+        "chatbot_response": "The 2016 Mercedes-Benz S-Class S 500 (CAR 1) in Delhi, priced at \u20b969.0 Lakh, has a Petrol fuel type and has driven 46,000 Kms. There is another 2016 Mercedes-Benz S-Class Maybach S 500(CAR 3) with petrol fuel type as well.\n",
+        "bert_score": 0.929325520992279,
+        "meteor_score": 0.363170953312832,
+        "rouge_score": 0.5454545454545453,
+        "f1_score": 0.3823529411764706
+    },
+    {
+        "question": "What is the price of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio is priced at \u20b9 54.99 Lakh in the Delhi used car market. This 2017 model has been driven for 22,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "The 2017 Jaguar XJ 2.0 Portfolio listings in Delhi range from \u20b935.9 Lakh to \u20b955.0 Lakh. Prices vary based on mileage, ownership, and features. For example, CAR 1 is priced at \u20b935.9 Lakh with 75,000 Kms driven while CAR 5 is priced at \u20b955.0 Lakh with 21,000 Kms driven. All are petrol cars.\n",
+        "bert_score": 0.90395587682724,
+        "meteor_score": 0.4284330762825386,
+        "rouge_score": 0.42553191489361697,
+        "f1_score": 0.35294117647058826
+    },
+    {
+        "question": "What is the fuel type of 2017 Jaguar XJ 2.0 Portfolio?",
+        "ground_truth": "The 2017 Jaguar XJ 2.0 Portfolio runs on Petrol fuel. This 2017 model is available in Delhi for \u20b9 54.99 Lakh and has been driven for 22,000 kilometers.",
+        "chatbot_response": "All the listed 2017 Jaguar XJ 2.0 Portfolio cars (CAR 1, CAR 2, CAR 3, CAR 4, and CAR 5) in Delhi run on Petrol. Prices range from \u20b935.9 Lakh to \u20b955.0 Lakh, and the kilometers driven vary from 9,000 Kms to 75,000 Kms.\n",
+        "bert_score": 0.9044167995452881,
+        "meteor_score": 0.3880137533983688,
+        "rouge_score": 0.43037974683544306,
+        "f1_score": 0.3055555555555556
+    },
+    {
+        "question": "What is the price of 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020]?",
+        "ground_truth": "The 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] is priced at \u20b9 20.5 Lakh in the Delhi used car market. This 2021 model has been driven for 23,354 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "There are two 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] cars in Delhi, both priced at \u20b920.5 Lakh. Both cars are petrol models and have driven 23,354 Kms.\n",
+        "bert_score": 0.9490844011306763,
+        "meteor_score": 0.46488107693380754,
+        "rouge_score": 0.6849315068493151,
+        "f1_score": 0.45454545454545453
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020]?",
+        "ground_truth": "The 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 20.5 Lakh and has been driven for 23,354 kilometers.",
+        "chatbot_response": "Based on the provided listings, there are two 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] cars in Delhi. Both cars are priced at \u20b920.5 Lakh, have driven 23,354 Kms, and use Petrol as their fuel type.\n",
+        "bert_score": 0.9378020763397217,
+        "meteor_score": 0.44712183665644173,
+        "rouge_score": 0.6233766233766234,
+        "f1_score": 0.4285714285714286
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta GX 2.4 7 STR?",
+        "ground_truth": "The 2019 Toyota Innova Crysta GX 2.4 7 STR is priced at \u20b9 16 Lakh in the Delhi used car market. This 2019 model has been driven for 58,957 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2019 Toyota Innova Crysta GX 2.4 7 STR in Delhi (CAR 5) is priced at \u20b916.0 Lakh. It's a diesel car that has driven 58,957 Kms.\n",
+        "bert_score": 0.9510510563850403,
+        "meteor_score": 0.5016523302716624,
+        "rouge_score": 0.6865671641791045,
+        "f1_score": 0.5806451612903226
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta GX 2.4 7 STR?",
+        "ground_truth": "The 2019 Toyota Innova Crysta GX 2.4 7 STR runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 16 Lakh and has been driven for 58,957 kilometers.",
+        "chatbot_response": "The 2019 Toyota Innova Crysta GX 2.4 7 STR (car_name) in Delhi (city) with prices at \u20b916.0 Lakh (price) has a diesel (fuel_type) fuel type. Both cars listed with this model have driven 58,957 Kms (kms driven).\n",
+        "bert_score": 0.9230422973632812,
+        "meteor_score": 0.5046198624785123,
+        "rouge_score": 0.5945945945945946,
+        "f1_score": 0.47058823529411764
+    },
+    {
+        "question": "What is the price of 2021 Toyota Glanza G?",
+        "ground_truth": "The 2021 Toyota Glanza G is priced at \u20b9 7.25 Lakh in the Delhi used car market. This 2021 model has been driven for 32,502 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2021 Toyota Glanza G cars in Delhi. One is white, second owner, and priced at \u20b96.4 Lakh with 46,000 Kms driven. The other two are silver, first owner, priced at \u20b97.25 Lakh with 32,502 Kms driven. All are petrol cars.\n",
+        "bert_score": 0.901555597782135,
+        "meteor_score": 0.329335150209152,
+        "rouge_score": 0.48101265822784806,
+        "f1_score": 0.32432432432432434
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Glanza G?",
+        "ground_truth": "The 2021 Toyota Glanza G runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 7.25 Lakh and has been driven for 32,502 kilometers.",
+        "chatbot_response": "Based on the provided listings, the 2021 Toyota Glanza G in Delhi (CAR 1, CAR 2 and CAR 3) has a fuel type of Petrol. CAR 1 is priced at \u20b96.4 Lakh with 46,000 Kms driven, while CAR 2 and CAR 3 are priced at \u20b97.25 Lakh with 32,502 Kms driven.\n",
+        "bert_score": 0.8981443047523499,
+        "meteor_score": 0.3415449019844624,
+        "rouge_score": 0.45783132530120485,
+        "f1_score": 0.30769230769230765
+    },
+    {
+        "question": "What is the price of 2021 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2021 BMW X5 xDrive30d xLine is priced at \u20b9 73 Lakh in the Delhi used car market. This 2021 model has been driven for 27,495 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "There are two 2021 BMW X5 xDrive30d xLine cars listed in Delhi, both priced at \u20b973.0 Lakh. Both are diesel vehicles that have driven 27,495 Kms.\n",
+        "bert_score": 0.937219500541687,
+        "meteor_score": 0.32554847841472045,
+        "rouge_score": 0.5333333333333333,
+        "f1_score": 0.3448275862068966
+    },
+    {
+        "question": "What is the fuel type of 2021 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2021 BMW X5 xDrive30d xLine runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 73 Lakh and has been driven for 27,495 kilometers.",
+        "chatbot_response": "The 2021 BMW X5 xDrive30d xLine (CAR 1 and CAR 2) in Delhi, priced at \u20b973.0 Lakh, uses Diesel as its fuel type. Both cars have driven 27,495 Kms. Two 2022 models are also available.\n",
+        "bert_score": 0.9367635250091553,
+        "meteor_score": 0.3299216027874564,
+        "rouge_score": 0.5538461538461539,
+        "f1_score": 0.34920634920634924
+    },
+    {
+        "question": "What is the price of 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020]?",
+        "ground_truth": "The 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] is priced at \u20b9 20.5 Lakh in the Delhi used car market. This 2021 model has been driven for 23,354 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found two listings for the 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] in Delhi, both priced at \u20b920.5 Lakh. Both petrol cars have driven 23,354 Kms and are listed by first owners.\n",
+        "bert_score": 0.9364390969276428,
+        "meteor_score": 0.47789720599695984,
+        "rouge_score": 0.6666666666666666,
+        "f1_score": 0.47887323943661975
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020]?",
+        "ground_truth": "The 2021 Toyota Innova Crysta 2.7 VX 7 STR [2016-2020] runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 20.5 Lakh and has been driven for 23,354 kilometers.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7989358305931091,
+        "meteor_score": 0.06270903010033445,
+        "rouge_score": 0.0851063829787234,
+        "f1_score": 0.09302325581395349
+    },
+    {
+        "question": "What is the price of 2019 Toyota Innova Crysta GX 2.4 7 STR?",
+        "ground_truth": "The 2019 Toyota Innova Crysta GX 2.4 7 STR is priced at \u20b9 16 Lakh in the Delhi used car market. This 2019 model has been driven for 58,957 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "Error generating response: 429 Resource has been exhausted (e.g. check quota).",
+        "bert_score": 0.7975152134895325,
+        "meteor_score": 0.05751533742331289,
+        "rouge_score": 0.08333333333333333,
+        "f1_score": 0.08695652173913043
+    },
+    {
+        "question": "What is the fuel type of 2019 Toyota Innova Crysta GX 2.4 7 STR?",
+        "ground_truth": "The 2019 Toyota Innova Crysta GX 2.4 7 STR runs on Diesel fuel. This 2019 model is available in Delhi for \u20b9 16 Lakh and has been driven for 58,957 kilometers.",
+        "chatbot_response": "Based on the provided listings, the 2019 Toyota Innova Crysta GX 2.4 7 STR ([CAR 2] and [CAR 3]) in Delhi has a diesel fuel type. Both cars are priced at \u20b916.0 Lakh, have driven around 58,957 Kms.\n",
+        "bert_score": 0.9242963790893555,
+        "meteor_score": 0.4817001953871175,
+        "rouge_score": 0.6027397260273972,
+        "f1_score": 0.43478260869565216
+    },
+    {
+        "question": "What is the price of 2021 Toyota Glanza G?",
+        "ground_truth": "The 2021 Toyota Glanza G is priced at \u20b9 7.25 Lakh in the Delhi used car market. This 2021 model has been driven for 32,502 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I found three 2021 Toyota Glanza G cars in Delhi. One is priced at \u20b96.4 Lakh (46,000 Kms driven, second owner), while the other two are at \u20b97.25 Lakh (32,502 Kms driven, first owner). All are petrol cars. The \u20b96.4 Lakh option might be more appealing due to the lower price despite being owned by the second owner.\n",
+        "bert_score": 0.8959498405456543,
+        "meteor_score": 0.29796498867487226,
+        "rouge_score": 0.39999999999999997,
+        "f1_score": 0.24719101123595505
+    },
+    {
+        "question": "What is the fuel type of 2021 Toyota Glanza G?",
+        "ground_truth": "The 2021 Toyota Glanza G runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 7.25 Lakh and has been driven for 32,502 kilometers.",
+        "chatbot_response": "The 2021 Toyota Glanza G cars listed in Delhi all run on Petrol. CAR 1 (\u20b96.4 Lakh, 46,000 Kms) and CAR 2 & 3 (\u20b97.25 Lakh, 32,502 Kms) are the available options. All three cars are of the same model and year, but vary in price and mileage.\n",
+        "bert_score": 0.906130313873291,
+        "meteor_score": 0.34506598344821976,
+        "rouge_score": 0.4556962025316456,
+        "f1_score": 0.32
+    },
+    {
+        "question": "What is the price of 2021 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2021 BMW X5 xDrive30d xLine is priced at \u20b9 73 Lakh in the Delhi used car market. This 2021 model has been driven for 27,495 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "I found two 2021 BMW X5 xDrive30d xLine cars in Delhi, both priced at \u20b973.0 Lakh. These diesel cars have driven 27,495 Kms.\n",
+        "bert_score": 0.9410025477409363,
+        "meteor_score": 0.32868881743479805,
+        "rouge_score": 0.5614035087719298,
+        "f1_score": 0.36363636363636365
+    },
+    {
+        "question": "What is the fuel type of 2021 BMW X5 xDrive30d xLine?",
+        "ground_truth": "The 2021 BMW X5 xDrive30d xLine runs on Diesel fuel. This 2021 model is available in Delhi for \u20b9 73 Lakh and has been driven for 27,495 kilometers.",
+        "chatbot_response": "The 2021 BMW X5 xDrive30d xLine (CAR 1 and CAR 2) in Delhi, priced at \u20b973.0 Lakh, uses Diesel. It has driven 27,495 Kms.There are two listings for the same car with the same specifications.\n",
+        "bert_score": 0.9303022623062134,
+        "meteor_score": 0.3299216027874564,
+        "rouge_score": 0.5151515151515151,
+        "f1_score": 0.38095238095238093
+    },
+    {
+        "question": "What is the price of 2021 Hyundai Creta 1.6 SX Plus AT Petrol?",
+        "ground_truth": "The 2021 Hyundai Creta 1.6 SX Plus AT Petrol is priced at \u20b9 14.5 Lakh in the Delhi used car market. This 2021 model has been driven for 24,000 kilometers and runs on Petrol fuel.",
+        "chatbot_response": "I don't have information about a 2021 Hyundai Creta 1.6 SX Plus AT Petrol in the provided listings. The available listings include 2016 Hyundai Creta 1.6 SX Plus AT Petrol (Car 2 & Car 5) in Delhi with prices around \u20b97.6 Lakh, and a 2017 Hyundai Creta SX Plus 1.6 Petrol (Car 1) priced at \u20b96.99 Lakh.\n",
+        "bert_score": 0.8904882073402405,
+        "meteor_score": 0.3548108047773189,
+        "rouge_score": 0.4040404040404041,
+        "f1_score": 0.32608695652173914
+    },
+    {
+        "question": "What is the fuel type of 2021 Hyundai Creta 1.6 SX Plus AT Petrol?",
+        "ground_truth": "The 2021 Hyundai Creta 1.6 SX Plus AT Petrol runs on Petrol fuel. This 2021 model is available in Delhi for \u20b9 14.5 Lakh and has been driven for 24,000 kilometers.",
+        "chatbot_response": "I don't have information about a 2021 Hyundai Creta 1.6 SX Plus AT Petrol. However, I can provide information about similar Hyundai Creta models listed. Would you like to know about those?\n",
+        "bert_score": 0.8700382113456726,
+        "meteor_score": 0.24115755627009644,
+        "rouge_score": 0.29850746268656714,
+        "f1_score": 0.2222222222222222
+    },
+    {
+        "question": "What is the price of 2017 Mercedes-Benz S-Class S 350D [2018-2020]?",
+        "ground_truth": "The 2017 Mercedes-Benz S-Class S 350D [2018-2020] is priced at \u20b9 35.5 Lakh in the Delhi used car market. This 2017 model has been driven for 80,000 kilometers and runs on Diesel fuel.",
+        "chatbot_response": "The 2017 Mercedes-Benz S-Class S 350D [2018-2020] in Delhi (CAR 1) is listed for \u20b935.5 Lakh. It's a Diesel car that has been driven 80,000 Kms.\n",
+        "bert_score": 0.9475914835929871,
+        "meteor_score": 0.4550226573965955,
+        "rouge_score": 0.6956521739130435,
+        "f1_score": 0.576271186440678
+    },
+    {
+        "question": "What is the fuel type of 2017 Mercedes-Benz S-Class S 350D [2018-2020]?",
+        "ground_truth": "The 2017 Mercedes-Benz S-Class S 350D [2018-2020] runs on Diesel fuel. This 2017 model is available in Delhi for \u20b9 35.5 Lakh and has been driven for 80,000 kilometers.",
+        "chatbot_response": "The 2017 Mercedes-Benz S-Class S 350D [2018-2020] listed in Delhi (CAR 4) has a diesel fuel type. The car's price is \u20b935.5 Lakh, and it has driven 80,000 Kms.\n",
+        "bert_score": 0.9500597715377808,
+        "meteor_score": 0.4406130268199234,
+        "rouge_score": 0.676470588235294,
+        "f1_score": 0.4827586206896552
+    }
+]
