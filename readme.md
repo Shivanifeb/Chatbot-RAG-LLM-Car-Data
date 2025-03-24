@@ -6,6 +6,7 @@ This project is a chatbot designed for evaluating car-related queries. It levera
 
 ## Project Structure
 
+```
 CAR CHATBOT/
 ├── Car Chatbot/
 │   ├── car_chroma_db/
@@ -35,37 +36,38 @@ CAR CHATBOT/
 │       ├── test_streamlit.py
 │       ├── evaluation_results_1.json
 │       ├── requirement.txt
-│       
+```
 
 ## Setup Instructions
 
-1. *Install Dependencies:*
-   bash
-   pip install -r requirement.txt
-   
+1. **Install Dependencies:**
+```bash
+pip install -r requirement.txt
+```
 
-2. *Run the Chatbot:*
-   bash
-   python llm_rag.py
-   
+2. **Run the Chatbot:**
+```bash
+python llm_rag.py
+```
 
-3. *Run the UI Interface:*
-   bash
-   streamlit run streamlit.py
-   
+3. **Run the UI Interface:**
+```bash
+streamlit run streamlit.py
+```
 
-4. *Run Evaluation:*
-   bash
-   python eval_testing_03.py
-   
-   This script calculates BERT, ROUGE, METEOR, and F1 scores for evaluation.
+4. **Run Evaluation:**
+```bash
+python eval_testing_03.py
+```
+This script calculates BERT, ROUGE, METEOR, and F1 scores for evaluation.
 
 ## Data Sources
-- *cartrade_cars_chunked.json* contains the actual data fed to the model.
+- **cartrade_cars_chunked.json** contains the actual data fed to the model.
 - The dataset has been chunked and stored for efficient retrieval.
 
 ## Description of Key Files
-- *llm_rag.py* - Contains the core logic for the chatbot.
-- *scrapper.py* - Scrapes data from car-related sources.
-- *streamlit.py* - Streamlit-based UI for interacting with the chatbot.
-- *eval_testing_03.py* - Computes NLP-based evaluation metrics.
+- **llm_rag.py** - Contains the core logic for the chatbot.
+- **scrapper.py** - Scrapes data from car-related sources.
+- **streamlit.py** - Streamlit-based UI for interacting with the chatbot.
+- **eval_testing_03.py** - Computes NLP-based evaluation metrics.
+
